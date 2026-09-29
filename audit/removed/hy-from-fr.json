@@ -1,0 +1,557 @@
+{
+ "ալմա": {
+  "class": "altered",
+  "from": "âme",
+  "reason": "the personal name Alma; alma/âme is \"soul\""
+ },
+ "անուս": {
+  "class": "transparent",
+  "from": "anus",
+  "reason": "hand cut 2026-09-23: native \"unlearned\" (an- + us); not anus"
+ },
+ "արվեստ": {
+  "class": "transparent",
+  "from": "art",
+  "reason": "native \"art\"; arte/art are translations"
+ },
+ "արտ": {
+  "class": "transparent",
+  "from": "art",
+  "reason": "native \"field\"; the Armenian for art is arvest"
+ },
+ "արտադրություն": {
+  "class": "transparent",
+  "from": "production",
+  "reason": "model pass 2026-09-13: native word, not cognate with production"
+ },
+ "բազե": {
+  "class": "altered",
+  "from": "base",
+  "reason": "native \"hawk\"; base is unrelated"
+ },
+ "բամբակ": {
+  "class": "altered",
+  "from": "bambou",
+  "reason": "native \"cotton\"; bambú is \"bamboo\""
+ },
+ "բան": {
+  "class": "altered",
+  "from": "bande",
+  "reason": "native \"thing\"; not banda/bande/банда \"gang, band\""
+ },
+ "բանալի": {
+  "class": "transparent",
+  "from": "banal",
+  "reason": "native \"key\" (from \"to open\"); banal is unrelated"
+ },
+ "բանկ": {
+  "class": "transparent",
+  "from": "banc",
+  "reason": "banc is a bench, not the bank word"
+ },
+ "բառ": {
+  "class": "altered",
+  "from": "barre",
+  "reason": "native \"word\"; barra/barre is a bar or rod"
+ },
+ "բելլա": {
+  "class": "altered",
+  "from": "beau",
+  "reason": "model pass 2026-09-23: bella (Italian/Spanish beauty) not French beau"
+ },
+ "բլյուզ": {
+  "class": "altered",
+  "from": "blouse",
+  "reason": "the music genre blues; blusa/blouse is a shirt"
+ },
+ "բուրգ": {
+  "class": "transparent",
+  "from": "bourg",
+  "reason": "native \"pyramid\"; burgo/bourg is a town"
+ },
+ "բուք": {
+  "class": "transparent",
+  "from": "boucle",
+  "reason": "native \"blizzard\"; boucle is a loop or buckle"
+ },
+ "բրիտանիա": {
+  "class": "altered",
+  "from": "bretagne",
+  "reason": "model pass 2026-09-23: Britannia vs Bretagne are different places"
+ },
+ "գագա": {
+  "class": "transparent",
+  "from": "gaga",
+  "reason": "not an Armenian word; gaga is unrelated"
+ },
+ "գրան": {
+  "class": "transparent",
+  "from": "grain",
+  "reason": "not an Armenian word; grano/grain is \"grain\""
+ },
+ "գրեմ": {
+  "class": "altered",
+  "from": "gramme",
+  "reason": "a verb form of \"to write\"; the Armenian for gram is gram"
+ },
+ "դալար": {
+  "class": "altered",
+  "from": "dollar",
+  "reason": "native \"verdant, green\"; not the dollar"
+ },
+ "դիրիժոր": {
+  "class": "transparent",
+  "from": "directeur",
+  "reason": "\"conductor of an orchestra\"; director is a different word"
+ },
+ "դոկտ": {
+  "class": "altered",
+  "from": "docteur",
+  "reason": "model pass 2026-09-13: fragment, not a real word"
+ },
+ "դրամ": {
+  "class": "altered",
+  "from": "drame",
+  "reason": "the Armenian currency (Greek drachma); drame is \"drama\""
+ },
+ "դրություն": {
+  "class": "altered",
+  "from": "situation",
+  "reason": "native \"situation\"; situation is a translation"
+ },
+ "էնրիկե": {
+  "class": "altered",
+  "from": "henri",
+  "reason": "model pass 2026-09-23: Enrique is Spanish form, not French Henri"
+ },
+ "թոմ": {
+  "class": "transparent",
+  "from": "tome",
+  "reason": "the personal name Tom; tomo/tome is a volume"
+ },
+ "թոնի": {
+  "class": "transparent",
+  "from": "ton",
+  "reason": "the personal name Tony; ton is \"tone\""
+ },
+ "թումո": {
+  "class": "altered",
+  "from": "tumeur",
+  "reason": "the TUMO centre; tumor is a tumour"
+ },
+ "լայնություն": {
+  "class": "transparent",
+  "from": "latitude",
+  "reason": "native \"width\"; latitude is a translation"
+ },
+ "լավ": {
+  "class": "altered",
+  "from": "lave",
+  "reason": "native \"good\"; not the Latin/Russian word for lava"
+ },
+ "լեոն": {
+  "class": "altered",
+  "from": "lion",
+  "reason": "model pass 2026-09-13: Leon (name) vs lion (animal) unrelated meanings"
+ },
+ "լիմոն": {
+  "class": "transparent",
+  "from": "citron",
+  "reason": "citron is a translation, not a cognate"
+ },
+ "լին": {
+  "class": "transparent",
+  "from": "lin",
+  "reason": "a form of \"to be\"; lino/lin/linho is \"linen\""
+ },
+ "լոգանք": {
+  "class": "altered",
+  "from": "logement",
+  "reason": "model pass 2026-09-23: native word 'bathing' unrelated to logement"
+ },
+ "լոտո": {
+  "class": "altered",
+  "from": "lotus",
+  "reason": "lotus is the flower, not lotto"
+ },
+ "լև": {
+  "class": "transparent",
+  "from": "levé",
+  "reason": "the personal name Lev; levé is unrelated"
+ },
+ "կական": {
+  "class": "altered",
+  "from": "cacao",
+  "reason": "model pass 2026-09-23: not standard Armenian word, likely error"
+ },
+ "կամերա": {
+  "class": "altered",
+  "from": "chambre",
+  "reason": "model pass 2026-09-23: camera vs room, unrelated meanings"
+ },
+ "կարոլինա": {
+  "class": "altered",
+  "from": "carolin",
+  "reason": "model pass 2026-09-13: Carolina vs Carolingian, unrelated meaning"
+ },
+ "կարտեգորիա": {
+  "class": "altered",
+  "from": "catégorie",
+  "reason": "model pass 2026-09-13: misspelled duplicate, not real lemma"
+ },
+ "կլանել": {
+  "class": "transparent",
+  "from": "clan",
+  "reason": "native \"to absorb\"; clan is unrelated"
+ },
+ "կոր": {
+  "class": "altered",
+  "from": "corail",
+  "reason": "native \"curve, bent\"; coral/коралл is \"coral\""
+ },
+ "կուլ": {
+  "class": "altered",
+  "from": "coulisse",
+  "reason": "native \"swallow\"; coulisse/кулиса is a stage wing"
+ },
+ "կրել": {
+  "class": "transparent",
+  "from": "créer",
+  "reason": "native \"to carry, wear\"; crear/créer is \"to create\""
+ },
+ "կրոն": {
+  "class": "altered",
+  "from": "couronne",
+  "reason": "native \"religion\"; corona/корона is \"crown\""
+ },
+ "հայտարարություն": {
+  "class": "transparent",
+  "from": "déclaration",
+  "reason": "native \"announcement\"; déclaration is a translation"
+ },
+ "հիմ": {
+  "class": "altered",
+  "from": "hymne",
+  "reason": "native \"foundation\"; himno/hymne/гимн is \"hymn\""
+ },
+ "հումոր": {
+  "class": "altered",
+  "from": "humeur",
+  "reason": "model pass 2026-09-13: humor (comedy) vs humeur (mood) diverged meaning"
+ },
+ "ճակատ": {
+  "class": "altered",
+  "from": "façade",
+  "reason": "native \"forehead, front\"; façade is a translation"
+ },
+ "ճանաչել": {
+  "class": "transparent",
+  "from": "connaître",
+  "reason": "inherited root only; the spellings share nothing readable"
+ },
+ "մագիստրոս": {
+  "class": "altered",
+  "from": "maître",
+  "reason": "\"master's degree\"; maître/mestre share no readable spelling"
+ },
+ "մագնիս": {
+  "class": "altered",
+  "from": "aimant",
+  "reason": "\"magnet\"; imán/aimant is a translation"
+ },
+ "մարի": {
+  "class": "transparent",
+  "from": "marier",
+  "reason": "the personal name Mary; marine/marier are unrelated"
+ },
+ "մարիա": {
+  "class": "altered",
+  "from": "marier",
+  "reason": "the name Maria; marier is \"to marry\""
+ },
+ "մարիամ": {
+  "class": "altered",
+  "from": "marier",
+  "reason": "model pass 2026-09-13: Mariam is a name, marier means 'to marry'"
+ },
+ "մաքսիմ": {
+  "class": "transparent",
+  "from": "maximum",
+  "reason": "the personal name Maxim; the Armenian for maximum is maksimum"
+ },
+ "մետ": {
+  "class": "transparent",
+  "from": "mettre",
+  "reason": "model pass 2026-09-23: unclear Armenian word, not verb mettre"
+ },
+ "մետաղադրամ": {
+  "class": "transparent",
+  "from": "métal",
+  "reason": "native compound \"coin\"; only the metal half is shared"
+ },
+ "մետաքսյա": {
+  "class": "altered",
+  "from": "métallique",
+  "reason": "native \"silken\"; metálico/métallique is \"metallic\""
+ },
+ "միջին": {
+  "class": "transparent",
+  "from": "moyen",
+  "reason": "native \"middle, average\"; moyen is a translation"
+ },
+ "մոնթե": {
+  "class": "altered",
+  "from": "mont",
+  "reason": "model pass 2026-09-13: Monte is Italian source, not French mont"
+ },
+ "մորթել": {
+  "class": "altered",
+  "from": "mortel",
+  "reason": "model pass 2026-09-23: native word 'to skin', false friend"
+ },
+ "մուլտիպլիկացիոն": {
+  "class": "altered",
+  "from": "multiplication",
+  "reason": "model pass 2026-09-13: means animation/cartoon, not multiplication"
+ },
+ "նովելի": {
+  "class": "altered",
+  "from": "nouveau",
+  "reason": "\"novella\"; nouveau is \"new\""
+ },
+ "ութ": {
+  "class": "altered",
+  "from": "huit",
+  "reason": "inherited numeral \"eight\"; huit shares no readable spelling"
+ },
+ "չեր": {
+  "class": "transparent",
+  "from": "chère",
+  "reason": "a verb form \"was not\"; chère is \"dear\""
+ },
+ "պակ": {
+  "class": "altered",
+  "from": "paquet",
+  "reason": "not an Armenian word; paquete/paquet is a package"
+ },
+ "պան": {
+  "class": "altered",
+  "from": "pain",
+  "reason": "not an Armenian word; pan/pain/pão is \"bread\""
+ },
+ "պաշտոն": {
+  "class": "transparent",
+  "from": "position",
+  "reason": "native \"post, office\"; posición/position are translations"
+ },
+ "պատվիրակ": {
+  "class": "altered",
+  "from": "patriarche",
+  "reason": "native \"delegate\"; patriarca is a patriarch"
+ },
+ "պար": {
+  "class": "transparent",
+  "from": "pair",
+  "reason": "model pass 2026-09-23: means dance, false friend with pair"
+ },
+ "պարիս": {
+  "class": "transparent",
+  "from": "pari",
+  "reason": "the city Paris; parir is \"to give birth\" and pari a bet"
+ },
+ "պարոն": {
+  "class": "transparent",
+  "from": "patron",
+  "reason": "\"mister\"; patron is a boss/patron, a different word"
+ },
+ "պարտիա": {
+  "class": "altered",
+  "from": "partie",
+  "reason": "\"political party\"; partida/partie/partir are different words"
+ },
+ "պոլիս": {
+  "class": "transparent",
+  "from": "poli",
+  "reason": "poli is \"polite\" and polir \"to polish\""
+ },
+ "պորտ": {
+  "class": "transparent",
+  "from": "port",
+  "reason": "native \"navel\"; the Armenian for port is navahangist"
+ },
+ "ջուր": {
+  "class": "altered",
+  "from": "jour",
+  "reason": "model pass 2026-09-23: means water, unrelated to jour (day)"
+ },
+ "ռա": {
+  "class": "transparent",
+  "from": "race",
+  "reason": "not an Armenian word; raza/race/раунд are unrelated"
+ },
+ "ռաբիս": {
+  "class": "altered",
+  "from": "rabbin",
+  "reason": "the Armenian music genre rabiz; rabí is a rabbi"
+ },
+ "ռեյ": {
+  "class": "altered",
+  "from": "roi",
+  "reason": "not an Armenian word; rey/roi/rei is \"king\""
+ },
+ "ռուլին": {
+  "class": "altered",
+  "from": "rouleau",
+  "reason": "model pass 2026-09-23: steering wheel likely from Russian, not rouleau"
+ },
+ "սալվադոր": {
+  "class": "altered",
+  "from": "sauveur",
+  "reason": "the name Salvador; sauveur is the common noun \"savior\""
+ },
+ "սանտա": {
+  "class": "altered",
+  "from": "sainte",
+  "reason": "model pass 2026-09-23: Santa likely English borrowing, not sainte"
+ },
+ "սել": {
+  "class": "altered",
+  "from": "selle",
+  "reason": "native \"sled\"; selle is a saddle and selo a stamp"
+ },
+ "սեր": {
+  "class": "transparent",
+  "from": "être",
+  "reason": "native \"love, cream\"; not serum nor the verb \"to be\""
+ },
+ "սի": {
+  "class": "transparent",
+  "from": "si",
+  "reason": "not an Armenian word; si is \"if, yes\""
+ },
+ "սոուս": {
+  "class": "transparent",
+  "from": "sous",
+  "reason": "\"sauce\"; sous is the preposition \"under\""
+ },
+ "սու": {
+  "class": "altered",
+  "from": "soudan",
+  "reason": "not an Armenian word; the donors are all Sudan"
+ },
+ "սպի": {
+  "class": "transparent",
+  "from": "spin",
+  "reason": "native \"scar\"; spin is unrelated"
+ },
+ "սպիրտ": {
+  "class": "altered",
+  "from": "esprit",
+  "reason": "model pass 2026-09-13: esprit means mind, spirt means alcohol"
+ },
+ "ստուդիական": {
+  "class": "altered",
+  "from": "étudiant",
+  "reason": "model pass 2026-09-13: étudiant means student, not studio-related"
+ },
+ "վան": {
+  "class": "transparent",
+  "from": "van",
+  "reason": "the city Van; van is unrelated"
+ },
+ "վաչե": {
+  "class": "transparent",
+  "from": "vache",
+  "reason": "model pass 2026-09-23: personal name, unrelated to vache (cow)"
+ },
+ "վարսավիր": {
+  "class": "altered",
+  "from": "varsovie",
+  "reason": "native \"barber\"; Varsovie is Warsaw"
+ },
+ "վիեննա": {
+  "class": "altered",
+  "from": "venir",
+  "reason": "model pass 2026-09-13: venir unrelated to city name Vienna"
+ },
+ "վիկտորիա": {
+  "class": "altered",
+  "from": "victoire",
+  "reason": "model pass 2026-09-13: victoire means victory, not personal name"
+ },
+ "վիկտորյա": {
+  "class": "altered",
+  "from": "victoire",
+  "reason": "model pass 2026-09-13: victoire means victory, not personal name"
+ },
+ "վին": {
+  "class": "transparent",
+  "from": "vin",
+  "reason": "not an Armenian word; vin is \"wine\""
+ },
+ "տակ": {
+  "class": "altered",
+  "from": "tac",
+  "reason": "native \"under\"; tac is a click sound"
+ },
+ "տարածել": {
+  "class": "altered",
+  "from": "tracer",
+  "reason": "native \"to spread\"; tracer is unrelated"
+ },
+ "տիկ": {
+  "class": "transparent",
+  "from": "tic",
+  "reason": "native \"wineskin\"; tic is a twitch"
+ },
+ "տոն": {
+  "class": "transparent",
+  "from": "ton",
+  "reason": "dominant sense is native \"feast day\"; tone reading is not safe"
+ },
+ "փալաս": {
+  "class": "altered",
+  "from": "palais",
+  "reason": "native \"coarse rug\"; palacio/palais is a palace"
+ },
+ "փարթի": {
+  "class": "altered",
+  "from": "parti",
+  "reason": "the English social \"party\"; partido/parti is a political party"
+ },
+ "փարիզ": {
+  "class": "transparent",
+  "from": "pari",
+  "reason": "the city Paris; parir is \"to give birth\" and pari a bet"
+ },
+ "քարտեզ": {
+  "class": "altered",
+  "from": "cartel",
+  "reason": "\"map\" (Greek chartes); cartel/cartaz is a poster or cartel"
+ },
+ "քորոնա": {
+  "class": "altered",
+  "from": "couronne",
+  "reason": "model pass 2026-09-23: corona vs couronne likely different meanings"
+ },
+ "ֆայլային": {
+  "class": "altered",
+  "from": "filiale",
+  "reason": "\"to do with files\"; filial is a subsidiary"
+ },
+ "ֆիշեր": {
+  "class": "transparent",
+  "from": "fisher",
+  "reason": "model pass 2026-09-13: ‘fisher’ is English, not a French word"
+ },
+ "ֆրանց": {
+  "class": "transparent",
+  "from": "franc",
+  "reason": "model pass 2026-09-13: proper name Franz vs common noun franc"
+ },
+ "ֆրենկ": {
+  "class": "transparent",
+  "from": "franc",
+  "reason": "model pass 2026-09-13: proper name Frank vs common noun franc"
+ }
+}

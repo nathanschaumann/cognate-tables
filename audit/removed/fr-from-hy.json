@@ -1,0 +1,492 @@
+{
+ "aimant": {
+  "class": "altered",
+  "from": "մագնիս",
+  "reason": "model pass 2026-09-13: different etymological source, not borrowed cognate"
+ },
+ "aman": {
+  "class": "transparent",
+  "from": "աման",
+  "reason": "model pass 2026-09-13: Armenian word for vessel, unrelated"
+ },
+ "andorre": {
+  "class": "altered",
+  "from": "անդորր",
+  "reason": "model pass 2026-09-13: Armenian word means tranquility, false friend"
+ },
+ "anorak": {
+  "class": "transparent",
+  "from": "անորակ",
+  "reason": "model pass 2026-09-13: Armenian word means poor quality, false friend"
+ },
+ "antibiotique": {
+  "class": "altered",
+  "from": "հակաբիոտիկ",
+  "reason": "model pass 2026-09-13: native Armenian anti-prefix, not shared borrowing"
+ },
+ "anticorruption": {
+  "class": "altered",
+  "from": "հակակոռուպցիոն",
+  "reason": "model pass 2026-09-13: native Armenian anti-prefix, not shared borrowing"
+ },
+ "anus": {
+  "class": "transparent",
+  "from": "անուս",
+  "reason": "model pass 2026-09-23: different meaning, not cognate"
+ },
+ "argos": {
+  "class": "transparent",
+  "from": "արգո",
+  "reason": "model pass 2026-09-13: different proper names, Argos vs Argo"
+ },
+ "argot": {
+  "class": "altered",
+  "from": "ժարգոնով",
+  "reason": "model pass 2026-09-23: argot vs jargon, different French words, mismatched source"
+ },
+ "aspet": {
+  "class": "transparent",
+  "from": "ասպետ",
+  "reason": "model pass 2026-09-13: different meanings, knight vs place name"
+ },
+ "bambou": {
+  "class": "altered",
+  "from": "բամբակ",
+  "reason": "model pass 2026-09-13: bambou vs cotton, unrelated meaning"
+ },
+ "banal": {
+  "class": "transparent",
+  "from": "բան",
+  "reason": "model pass 2026-09-13: banal vs generic word, unrelated meaning"
+ },
+ "banc": {
+  "class": "transparent",
+  "from": "բանկ",
+  "reason": "model pass 2026-09-13: banc (bench) vs bank, different meaning"
+ },
+ "bande": {
+  "class": "altered",
+  "from": "բան",
+  "reason": "model pass 2026-09-13: bande vs word, unrelated meaning"
+ },
+ "barre": {
+  "class": "altered",
+  "from": "բառ",
+  "reason": "model pass 2026-09-13: barre vs word, unrelated meaning"
+ },
+ "beau": {
+  "class": "altered",
+  "from": "բելլա",
+  "reason": "model pass 2026-09-23: beau vs Bella, proper name mismatch"
+ },
+ "boucle": {
+  "class": "transparent",
+  "from": "բուք",
+  "reason": "model pass 2026-09-13: boucle vs blizzard, unrelated meaning"
+ },
+ "cartel": {
+  "class": "altered",
+  "from": "քարտեզ",
+  "reason": "model pass 2026-09-13: cartel vs map, unrelated meaning"
+ },
+ "chape": {
+  "class": "altered",
+  "from": "չափ",
+  "reason": "model pass 2026-09-13: Armenian means 'measure', unrelated to chape"
+ },
+ "chore": {
+  "class": "altered",
+  "from": "խոր",
+  "reason": "model pass 2026-09-13: Armenian խոր means 'deep', unrelated"
+ },
+ "châle": {
+  "class": "altered",
+  "from": "շառլ",
+  "reason": "model pass 2026-09-23: châle vs Charl, unrelated proper name"
+ },
+ "chère": {
+  "class": "transparent",
+  "from": "չեր",
+  "reason": "model pass 2026-09-13: donor not a real Armenian word/fragment"
+ },
+ "clan": {
+  "class": "transparent",
+  "from": "կլանել",
+  "reason": "model pass 2026-09-13: Armenian կլանել means 'absorb', unrelated to clan"
+ },
+ "confetti": {
+  "class": "altered",
+  "from": "կոնֆետ",
+  "reason": "model pass 2026-09-13: Armenian կոնֆետ means 'candy', false friend"
+ },
+ "contenu": {
+  "class": "altered",
+  "from": "կոնտեն",
+  "reason": "model pass 2026-09-13: donor is a fragment, not real word"
+ },
+ "corail": {
+  "class": "altered",
+  "from": "կոր",
+  "reason": "model pass 2026-09-13: Armenian կոր means 'curve', unrelated to corail"
+ },
+ "coulisse": {
+  "class": "altered",
+  "from": "կուլ",
+  "reason": "model pass 2026-09-13: Armenian կուլ means 'swallow', unrelated"
+ },
+ "couronne": {
+  "class": "altered",
+  "from": "կրոն",
+  "reason": "model pass 2026-09-13: Armenian կրոն means 'religion', unrelated to couronne"
+ },
+ "directeur": {
+  "class": "transparent",
+  "from": "դիրիժոր",
+  "reason": "model pass 2026-09-13: director vs orchestra conductor, meaning diverged"
+ },
+ "dublin": {
+  "class": "transparent",
+  "from": "դուբլ",
+  "reason": "model pass 2026-09-13: Dublin vs dubl (double), unrelated"
+ },
+ "déclaration": {
+  "class": "transparent",
+  "from": "հայտարարություն",
+  "reason": "model pass 2026-09-13: native Armenian word, not cognate"
+ },
+ "esprit": {
+  "class": "altered",
+  "from": "սպիրտ",
+  "reason": "model pass 2026-09-13: spirit vs alcohol, false friend"
+ },
+ "façade": {
+  "class": "altered",
+  "from": "ճակատ",
+  "reason": "model pass 2026-09-13: native Armenian word for forehead, not cognate"
+ },
+ "gardien": {
+  "class": "altered",
+  "from": "guardian-ը",
+  "reason": "model pass 2026-09-13: donor is English word, not real Armenian lemma"
+ },
+ "html": {
+  "class": "transparent",
+  "from": "html-ը",
+  "reason": "model pass 2026-09-13: HTML is a code, not real word"
+ },
+ "inca": {
+  "class": "altered",
+  "from": "ինկ",
+  "reason": "model pass 2026-09-13: meanings unrelated: Inca vs ink"
+ },
+ "intérieur": {
+  "class": "altered",
+  "from": "ինտեր",
+  "reason": "model pass 2026-09-13: ինտեր is just prefix, not 'interior'"
+ },
+ "jour": {
+  "class": "altered",
+  "from": "ջուր",
+  "reason": "model pass 2026-09-23: jour vs water, unrelated meaning"
+ },
+ "lave": {
+  "class": "altered",
+  "from": "լավ",
+  "reason": "model pass 2026-09-13: լավ means 'good', false friend"
+ },
+ "levé": {
+  "class": "transparent",
+  "from": "լև",
+  "reason": "model pass 2026-09-13: լև is currency 'lev', unrelated"
+ },
+ "limon": {
+  "class": "altered",
+  "from": "լիման",
+  "reason": "model pass 2026-09-13: different etymology, false friend"
+ },
+ "logement": {
+  "class": "altered",
+  "from": "լոգանք",
+  "reason": "model pass 2026-09-23: logement (housing) vs bathing, meaning mismatch"
+ },
+ "lotus": {
+  "class": "altered",
+  "from": "լոտո",
+  "reason": "model pass 2026-09-13: լոտո means 'lotto', false friend"
+ },
+ "marier": {
+  "class": "altered",
+  "from": "մարիա",
+  "reason": "model pass 2026-09-13: marier (to marry) vs Maria, unrelated words"
+ },
+ "marque": {
+  "class": "altered",
+  "from": "marca-նոճի",
+  "reason": "model pass 2026-09-13: garbled/mashed donor form, not real word"
+ },
+ "maximum": {
+  "class": "transparent",
+  "from": "մաքսիմ",
+  "reason": "model pass 2026-09-13: maximum vs name Maksim, meaning mismatch"
+ },
+ "mettre": {
+  "class": "transparent",
+  "from": "մետ",
+  "reason": "model pass 2026-09-23: donor word unclear, not real cognate"
+ },
+ "mln": {
+  "class": "transparent",
+  "from": "մլն",
+  "reason": "model pass 2026-09-13: abbreviation/code, not real word"
+ },
+ "mmol": {
+  "class": "transparent",
+  "from": "մմոլ",
+  "reason": "model pass 2026-09-13: abbreviation/code, not real word"
+ },
+ "moyen": {
+  "class": "transparent",
+  "from": "միջին",
+  "reason": "model pass 2026-09-13: translation, not shared source word"
+ },
+ "mural": {
+  "class": "transparent",
+  "from": "մուր",
+  "reason": "model pass 2026-09-23: mural vs soot, meaning mismatch"
+ },
+ "métallique": {
+  "class": "altered",
+  "from": "մետաքսյա",
+  "reason": "model pass 2026-09-13: false friend: silken vs metallic"
+ },
+ "métropolite": {
+  "class": "altered",
+  "from": "մետրոպոլիտեն",
+  "reason": "model pass 2026-09-23: metropolite vs metro, different meanings"
+ },
+ "nouveau": {
+  "class": "altered",
+  "from": "նովելի",
+  "reason": "model pass 2026-09-13: nouveau (new) vs novelle (story), different meanings"
+ },
+ "pain": {
+  "class": "altered",
+  "from": "պան",
+  "reason": "model pass 2026-09-13: պան unrelated to French pain (bread)"
+ },
+ "pair": {
+  "class": "transparent",
+  "from": "պար",
+  "reason": "model pass 2026-09-23: pair vs dance, unrelated meaning"
+ },
+ "paret": {
+  "class": "transparent",
+  "from": "պարետ",
+  "reason": "model pass 2026-09-13: paret is not a real French word"
+ },
+ "pari": {
+  "class": "transparent",
+  "from": "փարիզ",
+  "reason": "model pass 2026-09-13: pari (bet) vs Paris, unrelated meaning"
+ },
+ "patriarche": {
+  "class": "altered",
+  "from": "պատվիրակ",
+  "reason": "model pass 2026-09-13: patriarche vs delegate, different meaning"
+ },
+ "patrice": {
+  "class": "altered",
+  "from": "պատրիկ",
+  "reason": "model pass 2026-09-13: different proper names, Patrice vs Patrik"
+ },
+ "paver": {
+  "class": "altered",
+  "from": "պավել",
+  "reason": "model pass 2026-09-13: paver (to pave) vs Pavel, different words"
+ },
+ "pier": {
+  "class": "transparent",
+  "from": "պիեռ",
+  "reason": "model pass 2026-09-23: pier not a French word, name mismatch"
+ },
+ "pomper": {
+  "class": "altered",
+  "from": "պոմպեոսը",
+  "reason": "model pass 2026-09-13: pomper vs Pompeus, unrelated"
+ },
+ "portail": {
+  "class": "transparent",
+  "from": "պորտ",
+  "reason": "model pass 2026-09-13: portail vs port, different meanings/roots"
+ },
+ "portal": {
+  "class": "transparent",
+  "from": "պորտ",
+  "reason": "model pass 2026-09-23: portal vs port, meaning mismatch"
+ },
+ "poul": {
+  "class": "altered",
+  "from": "փուլ",
+  "reason": "model pass 2026-09-13: not real French word; unrelated meaning"
+ },
+ "premier": {
+  "class": "transparent",
+  "from": "պրեմիերա",
+  "reason": "model pass 2026-09-13: premier vs premiere, unrelated meanings"
+ },
+ "production": {
+  "class": "transparent",
+  "from": "արտադրություն",
+  "reason": "model pass 2026-09-13: native Armenian word, not cognate"
+ },
+ "pyrotechnique": {
+  "class": "altered",
+  "from": "պայթուցիկ",
+  "reason": "model pass 2026-09-13: different source word (explosive)"
+ },
+ "rabbin": {
+  "class": "altered",
+  "from": "ռաբիս",
+  "reason": "model pass 2026-09-13: different word, rabiz not rabbi"
+ },
+ "race": {
+  "class": "transparent",
+  "from": "ռա",
+  "reason": "model pass 2026-09-13: fragment, not a real word"
+ },
+ "radiateur": {
+  "class": "altered",
+  "from": "ռադիոլուր",
+  "reason": "model pass 2026-09-13: means radio news, not radiator"
+ },
+ "relation": {
+  "class": "altered",
+  "from": "հարաբերություն",
+  "reason": "model pass 2026-09-13: native Armenian word, not cognate"
+ },
+ "repère": {
+  "class": "transparent",
+  "from": "ռեփեր",
+  "reason": "model pass 2026-09-13: means rapper, false friend"
+ },
+ "rift": {
+  "class": "transparent",
+  "from": "rift-ը",
+  "reason": "model pass 2026-09-13: mashed-up form with Latin script"
+ },
+ "roi": {
+  "class": "altered",
+  "from": "ռեյ",
+  "reason": "model pass 2026-09-13: different meaning, false friend"
+ },
+ "romance": {
+  "class": "transparent",
+  "from": "ռոման",
+  "reason": "model pass 2026-09-13: means novel, not romance"
+ },
+ "rome": {
+  "class": "altered",
+  "from": "ռոմա",
+  "reason": "model pass 2026-09-13: means Roma people, not city"
+ },
+ "rétine": {
+  "class": "altered",
+  "from": "ռետինե",
+  "reason": "model pass 2026-09-13: means rubber, false friend"
+ },
+ "sauveur": {
+  "class": "altered",
+  "from": "սալվադոր",
+  "reason": "model pass 2026-09-13: proper name vs common noun mismatch"
+ },
+ "selle": {
+  "class": "altered",
+  "from": "սել",
+  "reason": "model pass 2026-09-13: fragment, not real word"
+ },
+ "serre": {
+  "class": "altered",
+  "from": "սիերա",
+  "reason": "model pass 2026-09-13: means mountain range, false friend"
+ },
+ "situation": {
+  "class": "altered",
+  "from": "դրություն",
+  "reason": "model pass 2026-09-13: native Armenian word, unrelated to situation"
+ },
+ "soudan": {
+  "class": "altered",
+  "from": "սու",
+  "reason": "model pass 2026-09-13: donor is fragment, not Sudan"
+ },
+ "stéréo": {
+  "class": "altered",
+  "from": "ստերը",
+  "reason": "model pass 2026-09-23: fragment 'ster', not real word"
+ },
+ "ternaire": {
+  "class": "altered",
+  "from": "եռակի",
+  "reason": "model pass 2026-09-13: native Armenian word, not cognate with ternaire"
+ },
+ "thésée": {
+  "class": "altered",
+  "from": "տևեսի",
+  "reason": "model pass 2026-09-13: donor form garbled, unclear shared source"
+ },
+ "tic": {
+  "class": "transparent",
+  "from": "տիկ",
+  "reason": "model pass 2026-09-13: different meaning, not same source word"
+ },
+ "tracer": {
+  "class": "altered",
+  "from": "տարածել",
+  "reason": "model pass 2026-09-13: Armenian word means 'spread', unrelated source"
+ },
+ "tumeur": {
+  "class": "altered",
+  "from": "թումո",
+  "reason": "model pass 2026-09-13: tumo (heat practice) unrelated to tumeur"
+ },
+ "tétard": {
+  "class": "altered",
+  "from": "տետր",
+  "reason": "model pass 2026-09-13: tetr means notebook, unrelated to tadpole"
+ },
+ "vache": {
+  "class": "transparent",
+  "from": "վաչե",
+  "reason": "model pass 2026-09-23: native word vache vs Armenian name Vache"
+ },
+ "varsovie": {
+  "class": "altered",
+  "from": "վարսավիր",
+  "reason": "model pass 2026-09-13: varsavir means barber, unrelated to Warsaw"
+ },
+ "venir": {
+  "class": "altered",
+  "from": "վիեննա",
+  "reason": "model pass 2026-09-13: Vienna vs venir, different words"
+ },
+ "vivre": {
+  "class": "altered",
+  "from": "վիվա",
+  "reason": "model pass 2026-09-23: vivre unrelated to viva source"
+ },
+ "âme": {
+  "class": "altered",
+  "from": "ալմա",
+  "reason": "model pass 2026-09-13: alma means apple, unrelated to soul"
+ },
+ "étudiant": {
+  "class": "altered",
+  "from": "ստուդիական",
+  "reason": "model pass 2026-09-13: studiakan means studio-related, not student"
+ },
+ "être": {
+  "class": "transparent",
+  "from": "սեր",
+  "reason": "native \"to be\"; ser (սեր) is \"love\" -- a different word with a different meaning"
+ }
+}

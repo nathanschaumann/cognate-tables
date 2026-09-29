@@ -1,0 +1,1312 @@
+{
+ "abuelita": {
+  "class": "transparent",
+  "from": "abuelita",
+  "reason": "model pass 2026-09-13: abuelita is Spanish word, not Portuguese"
+ },
+ "acordar": {
+  "class": "transparent",
+  "from": "acordarse",
+  "reason": "model pass 2026-09-13: different meanings: wake up vs remember"
+ },
+ "aforamento": {
+  "class": "altered",
+  "from": "aforo",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "agarração": {
+  "class": "altered",
+  "from": "agarre",
+  "reason": "model pass 2026-09-13: unrelated meanings, false friend"
+ },
+ "agulhar": {
+  "class": "altered",
+  "from": "agujero",
+  "reason": "model pass 2026-09-13: different meanings, drifted unrelated senses"
+ },
+ "alocar": {
+  "class": "transparent",
+  "from": "alocado",
+  "reason": "model pass 2026-09-23: different meanings, false friend"
+ },
+ "alunar": {
+  "class": "altered",
+  "from": "alumnado",
+  "reason": "model pass 2026-09-13: alunar means to land on moon, unrelated"
+ },
+ "amador": {
+  "class": "altered",
+  "from": "amateur",
+  "reason": "model pass 2026-09-13: amador from Latin, not amateur borrowing"
+ },
+ "amendoim": {
+  "class": "altered",
+  "from": "maní",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "ancar": {
+  "class": "transparent",
+  "from": "anchar",
+  "reason": "model pass 2026-09-13: not a real Portuguese word"
+ },
+ "angeles": {
+  "class": "transparent",
+  "from": "ángel",
+  "reason": "model pass 2026-09-13: not a real Portuguese word"
+ },
+ "anime": {
+  "class": "transparent",
+  "from": "animar",
+  "reason": "model pass 2026-09-13: different meaning, not cognate of animar"
+ },
+ "antecedência": {
+  "class": "altered",
+  "from": "antemano",
+  "reason": "model pass 2026-09-13: different source words"
+ },
+ "antecessor": {
+  "class": "altered",
+  "from": "antepasado",
+  "reason": "model pass 2026-09-13: different source words"
+ },
+ "apelido": {
+  "class": "altered",
+  "from": "apellido",
+  "reason": "model pass 2026-09-13: different meanings: nickname vs surname"
+ },
+ "apito": {
+  "class": "altered",
+  "from": "pito",
+  "reason": "model pass 2026-09-13: different meanings: whistle vs cigarette"
+ },
+ "apostar": {
+  "class": "altered",
+  "from": "apuesto",
+  "reason": "model pass 2026-09-13: different meanings: bet vs elegant"
+ },
+ "aposto": {
+  "class": "transparent",
+  "from": "apuesto",
+  "reason": "model pass 2026-09-13: different meanings: appositive vs handsome"
+ },
+ "aquecimento": {
+  "class": "altered",
+  "from": "calentamiento",
+  "reason": "model pass 2026-09-13: different roots, mere translation not cognate"
+ },
+ "arranjar": {
+  "class": "altered",
+  "from": "arreglar",
+  "reason": "model pass 2026-09-13: different source roots, not cognate"
+ },
+ "arrepiante": {
+  "class": "altered",
+  "from": "espeluznante",
+  "reason": "model pass 2026-09-13: different roots, translation not cognate"
+ },
+ "artículo": {
+  "class": "transparent",
+  "from": "articulos",
+  "reason": "model pass 2026-09-13: receiver is Spanish spelling, not Portuguese"
+ },
+ "asar": {
+  "class": "transparent",
+  "from": "asa",
+  "reason": "model pass 2026-09-13: unrelated meanings, not same source"
+ },
+ "atar": {
+  "class": "altered",
+  "from": "acta",
+  "reason": "model pass 2026-09-13: different meanings, not cognate"
+ },
+ "ateneo": {
+  "class": "transparent",
+  "from": "ateneo",
+  "reason": "model pass 2026-09-13: misspelled, not real Portuguese word"
+ },
+ "autoestrada": {
+  "class": "altered",
+  "from": "autopista",
+  "reason": "model pass 2026-09-13: different words: estrada vs pista, not cognate"
+ },
+ "avassalador": {
+  "class": "altered",
+  "from": "abrumador",
+  "reason": "model pass 2026-09-13: different words: avassalador vs abrumador, not cognate"
+ },
+ "basar": {
+  "class": "transparent",
+  "from": "basar",
+  "reason": "model pass 2026-09-13: basar not standard Portuguese word"
+ },
+ "basura": {
+  "class": "transparent",
+  "from": "basura",
+  "reason": "model pass 2026-09-13: basura is Spanish, not Portuguese"
+ },
+ "baza": {
+  "class": "transparent",
+  "from": "baza",
+  "reason": "model pass 2026-09-13: baza not a Portuguese word"
+ },
+ "bento": {
+  "class": "altered",
+  "from": "benedicto",
+  "reason": "model pass 2026-09-13: benedicto not standard Spanish word"
+ },
+ "bezerro": {
+  "class": "transparent",
+  "from": "ternero",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "bocar": {
+  "class": "transparent",
+  "from": "boca",
+  "reason": "model pass 2026-09-13: bocar not a real Portuguese verb"
+ },
+ "bolhar": {
+  "class": "altered",
+  "from": "bollar",
+  "reason": "model pass 2026-09-23: different meanings, unrelated"
+ },
+ "borracho": {
+  "class": "transparent",
+  "from": "borracho",
+  "reason": "model pass 2026-09-23: false friend, different meanings"
+ },
+ "brigar": {
+  "class": "transparent",
+  "from": "brigada",
+  "reason": "model pass 2026-09-13: brigar (fight) unrelated to brigada (brigade)"
+ },
+ "bronco": {
+  "class": "transparent",
+  "from": "bronca",
+  "reason": "model pass 2026-09-13: bronco (harsh) vs bronca (anger) unrelated"
+ },
+ "brother": {
+  "class": "transparent",
+  "from": "brother",
+  "reason": "model pass 2026-09-23: brother not Portuguese or Spanish word"
+ },
+ "bufete": {
+  "class": "transparent",
+  "from": "bufete",
+  "reason": "model pass 2026-09-13: bufete not standard Portuguese word"
+ },
+ "bufo": {
+  "class": "altered",
+  "from": "búho",
+  "reason": "model pass 2026-09-13: bufo (toad) vs búho (owl) unrelated"
+ },
+ "bular": {
+  "class": "transparent",
+  "from": "bula",
+  "reason": "model pass 2026-09-13: bular (deceive) unrelated to bula"
+ },
+ "buzão": {
+  "class": "altered",
+  "from": "buzón",
+  "reason": "model pass 2026-09-13: different meanings, unrelated origin (bus vs mailbox)"
+ },
+ "cacho": {
+  "class": "altered",
+  "from": "racimo",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "caderneta": {
+  "class": "altered",
+  "from": "carnet",
+  "reason": "model pass 2026-09-13: different source words (caderno vs carnet)"
+ },
+ "caldeirar": {
+  "class": "altered",
+  "from": "caldera",
+  "reason": "model pass 2026-09-13: caldeirar not a standard verb form"
+ },
+ "cano": {
+  "class": "transparent",
+  "from": "caña",
+  "reason": "model pass 2026-09-13: meanings diverged too far, false friend"
+ },
+ "capar": {
+  "class": "transparent",
+  "from": "capa",
+  "reason": "model pass 2026-09-13: different meanings, different Latin roots"
+ },
+ "capitar": {
+  "class": "transparent",
+  "from": "cápita",
+  "reason": "model pass 2026-09-13: cápita not standalone word"
+ },
+ "carpir": {
+  "class": "transparent",
+  "from": "carpa",
+  "reason": "model pass 2026-09-13: different meanings, unrelated roots"
+ },
+ "cartar": {
+  "class": "transparent",
+  "from": "carta",
+  "reason": "model pass 2026-09-13: cartar not a real verb"
+ },
+ "casaca": {
+  "class": "altered",
+  "from": "cazadora",
+  "reason": "model pass 2026-09-13: different words, unrelated origin"
+ },
+ "casar": {
+  "class": "transparent",
+  "from": "casa",
+  "reason": "model pass 2026-09-13: casar/casa different meanings"
+ },
+ "casita": {
+  "class": "transparent",
+  "from": "casita",
+  "reason": "model pass 2026-09-13: casita not a Portuguese word"
+ },
+ "certar": {
+  "class": "transparent",
+  "from": "cierto",
+  "reason": "model pass 2026-09-13: certar is not a real Portuguese word"
+ },
+ "chinela": {
+  "class": "altered",
+  "from": "chancla",
+  "reason": "model pass 2026-09-13: chinela and chancla are different source words"
+ },
+ "chiqueirinho": {
+  "class": "altered",
+  "from": "chiquitito",
+  "reason": "model pass 2026-09-13: chiqueirinho relates to chiqueiro, not chiquito"
+ },
+ "chuchar": {
+  "class": "altered",
+  "from": "chuchería",
+  "reason": "model pass 2026-09-23: not a real word, meaning mismatch"
+ },
+ "cincar": {
+  "class": "transparent",
+  "from": "cinco",
+  "reason": "model pass 2026-09-13: cincar not a real Portuguese word"
+ },
+ "cintar": {
+  "class": "transparent",
+  "from": "cinta",
+  "reason": "model pass 2026-09-13: cintar not a real Portuguese word"
+ },
+ "cinzar": {
+  "class": "altered",
+  "from": "ceniza",
+  "reason": "model pass 2026-09-13: cinzar not a real Portuguese word"
+ },
+ "coca-colar": {
+  "class": "transparent",
+  "from": "coca-cola",
+  "reason": "model pass 2026-09-23: not a real word"
+ },
+ "colômbio": {
+  "class": "altered",
+  "from": "colombia",
+  "reason": "model pass 2026-09-13: element name vs country name, different referents"
+ },
+ "comarcar": {
+  "class": "transparent",
+  "from": "comarca",
+  "reason": "model pass 2026-09-13: comarcar not a real Portuguese word"
+ },
+ "comedir": {
+  "class": "altered",
+  "from": "comienzo",
+  "reason": "model pass 2026-09-13: different meanings: moderate vs beginning"
+ },
+ "compu": {
+  "class": "transparent",
+  "from": "compu",
+  "reason": "model pass 2026-09-13: not real lemma, informal fragment"
+ },
+ "concêntrico": {
+  "class": "transparent",
+  "from": "céntrico",
+  "reason": "model pass 2026-09-13: different words: concêntrico vs céntrico, mismatched meaning"
+ },
+ "condir": {
+  "class": "transparent",
+  "from": "conde",
+  "reason": "model pass 2026-09-13: condir not real word; conde unrelated meaning"
+ },
+ "convidar": {
+  "class": "altered",
+  "from": "invitar",
+  "reason": "model pass 2026-09-13: different Latin roots, not cognates"
+ },
+ "copo": {
+  "class": "transparent",
+  "from": "copo",
+  "reason": "model pass 2026-09-13: false friend: cup vs flake"
+ },
+ "cordo": {
+  "class": "altered",
+  "from": "cuerda",
+  "reason": "model pass 2026-09-13: cordo means sane, unrelated to cuerda"
+ },
+ "corretar": {
+  "class": "altered",
+  "from": "correcto",
+  "reason": "model pass 2026-09-13: corretar not related to correcto meaning"
+ },
+ "costas": {
+  "class": "transparent",
+  "from": "costa",
+  "reason": "model pass 2026-09-13: costas 'back' vs costa 'coast', false friend"
+ },
+ "coto": {
+  "class": "transparent",
+  "from": "coto",
+  "reason": "model pass 2026-09-13: coto meanings unrelated, different source"
+ },
+ "croácio": {
+  "class": "altered",
+  "from": "croacia",
+  "reason": "model pass 2026-09-13: croácio not real word; croacia is place name"
+ },
+ "cubar": {
+  "class": "transparent",
+  "from": "cuba",
+  "reason": "model pass 2026-09-13: cubar not a real word matching cuba"
+ },
+ "decote": {
+  "class": "altered",
+  "from": "escote",
+  "reason": "model pass 2026-09-23: different source words"
+ },
+ "del": {
+  "class": "transparent",
+  "from": "del",
+  "reason": "model pass 2026-09-13: 'del' not standalone Portuguese word"
+ },
+ "delir": {
+  "class": "transparent",
+  "from": "dele",
+  "reason": "model pass 2026-09-23: not clearly same source"
+ },
+ "demasiar": {
+  "class": "transparent",
+  "from": "demasiado",
+  "reason": "model pass 2026-09-13: 'demasiar' not a real Portuguese word"
+ },
+ "dentro": {
+  "class": "transparent",
+  "from": "dentrar",
+  "reason": "model pass 2026-09-13: 'dentrar' not a real Spanish word"
+ },
+ "descolar": {
+  "class": "altered",
+  "from": "despegar",
+  "reason": "model pass 2026-09-13: different roots: colar vs pegar"
+ },
+ "desfecho": {
+  "class": "altered",
+  "from": "desenlace",
+  "reason": "model pass 2026-09-13: different roots: fecho vs enlace"
+ },
+ "desnecessário": {
+  "class": "transparent",
+  "from": "innecesario",
+  "reason": "model pass 2026-09-13: different prefixes: des- vs in-"
+ },
+ "despegar": {
+  "class": "transparent",
+  "from": "despegue",
+  "reason": "model pass 2026-09-13: despegar not standard Portuguese word"
+ },
+ "despejo": {
+  "class": "altered",
+  "from": "desecho",
+  "reason": "model pass 2026-09-13: different roots: despejo vs desecho"
+ },
+ "divisar": {
+  "class": "transparent",
+  "from": "divisa",
+  "reason": "model pass 2026-09-13: divisar (discern) vs divisa (currency/emblem), unrelated meaning"
+ },
+ "doar": {
+  "class": "altered",
+  "from": "doler",
+  "reason": "model pass 2026-09-13: doar (donate) vs doler (to hurt), different meaning"
+ },
+ "elo": {
+  "class": "altered",
+  "from": "ello",
+  "reason": "model pass 2026-09-13: false friend: link vs pronoun 'it'"
+ },
+ "embaixar": {
+  "class": "altered",
+  "from": "embajada",
+  "reason": "model pass 2026-09-13: not a real Portuguese word/form"
+ },
+ "embalsamento": {
+  "class": "altered",
+  "from": "embalse",
+  "reason": "model pass 2026-09-13: false friend: embalming vs reservoir"
+ },
+ "embebedar": {
+  "class": "altered",
+  "from": "emborrachar",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "encarceramento": {
+  "class": "altered",
+  "from": "encierro",
+  "reason": "model pass 2026-09-13: different roots, meanings diverge"
+ },
+ "encobrir": {
+  "class": "altered",
+  "from": "encubertar",
+  "reason": "model pass 2026-09-13: encubertar not real Spanish word"
+ },
+ "enquadrar": {
+  "class": "altered",
+  "from": "enmarcar",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "escorregadio": {
+  "class": "altered",
+  "from": "resbaladizo",
+  "reason": "model pass 2026-09-23: different roots: escorregar vs resbalar"
+ },
+ "espirrar": {
+  "class": "altered",
+  "from": "espiar",
+  "reason": "model pass 2026-09-23: different meanings: sneeze vs spy"
+ },
+ "esporte": {
+  "class": "altered",
+  "from": "deporte",
+  "reason": "model pass 2026-09-13: esporte from English sport, not deporte"
+ },
+ "esportes": {
+  "class": "altered",
+  "from": "deporte",
+  "reason": "model pass 2026-09-13: esporte from English sport, not deporte"
+ },
+ "esportivo": {
+  "class": "altered",
+  "from": "deportivo",
+  "reason": "model pass 2026-09-13: esportivo from English sport, not deporte"
+ },
+ "esposar": {
+  "class": "transparent",
+  "from": "esposar",
+  "reason": "model pass 2026-09-13: false friend: marry vs handcuff"
+ },
+ "espremer": {
+  "class": "altered",
+  "from": "estrujar",
+  "reason": "model pass 2026-09-23: different roots: exprimere vs extorquere"
+ },
+ "esquerdar": {
+  "class": "altered",
+  "from": "izquierda",
+  "reason": "model pass 2026-09-13: esquerdar not a real Portuguese word"
+ },
+ "estreiar": {
+  "class": "altered",
+  "from": "estreno",
+  "reason": "model pass 2026-09-13: estreiar not a real word, misspelling"
+ },
+ "estágio": {
+  "class": "altered",
+  "from": "estancia",
+  "reason": "model pass 2026-09-13: different source; estágio from French stage, not estancia"
+ },
+ "exortação": {
+  "class": "altered",
+  "from": "exhorto",
+  "reason": "model pass 2026-09-23: different meanings: exhortation vs legal writ"
+ },
+ "extratar": {
+  "class": "altered",
+  "from": "extracto",
+  "reason": "model pass 2026-09-13: extratar not a real Portuguese lemma"
+ },
+ "falir": {
+  "class": "altered",
+  "from": "fallir",
+  "reason": "model pass 2026-09-13: fallir not a real Spanish word"
+ },
+ "fechadura": {
+  "class": "altered",
+  "from": "cerradura",
+  "reason": "model pass 2026-09-13: different Latin roots, not true cognates"
+ },
+ "ficar": {
+  "class": "transparent",
+  "from": "quedarse",
+  "reason": "model pass 2026-09-13: different verbs, no shared source"
+ },
+ "filhar": {
+  "class": "altered",
+  "from": "filiar",
+  "reason": "model pass 2026-09-13: different meanings, not true cognates"
+ },
+ "foguete": {
+  "class": "altered",
+  "from": "cohete",
+  "reason": "model pass 2026-09-13: different source roots, not cognate"
+ },
+ "fortalezar": {
+  "class": "transparent",
+  "from": "fortaleza",
+  "reason": "model pass 2026-09-13: not a real Portuguese word"
+ },
+ "galar": {
+  "class": "transparent",
+  "from": "gala",
+  "reason": "model pass 2026-09-13: galar not a standard Portuguese word"
+ },
+ "gatinhar": {
+  "class": "transparent",
+  "from": "gatito",
+  "reason": "model pass 2026-09-13: crawl vs kitten, unrelated meanings"
+ },
+ "germano": {
+  "class": "altered",
+  "from": "germán",
+  "reason": "model pass 2026-09-13: germano (German) vs Germán (given name)"
+ },
+ "goleiro": {
+  "class": "altered",
+  "from": "portero",
+  "reason": "model pass 2026-09-13: different words, not cognates"
+ },
+ "granar": {
+  "class": "transparent",
+  "from": "granada",
+  "reason": "model pass 2026-09-13: different meanings, not true cognates"
+ },
+ "gravata": {
+  "class": "altered",
+  "from": "corbata",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "greve": {
+  "class": "altered",
+  "from": "greña",
+  "reason": "model pass 2026-09-13: false friend: strike vs tangled hair"
+ },
+ "heleno": {
+  "class": "altered",
+  "from": "elena",
+  "reason": "model pass 2026-09-13: different meanings/proper names"
+ },
+ "horar": {
+  "class": "transparent",
+  "from": "hora",
+  "reason": "model pass 2026-09-13: 'horar' not a real Portuguese word"
+ },
+ "hortar": {
+  "class": "altered",
+  "from": "huerta",
+  "reason": "model pass 2026-09-13: 'hortar' not a real Portuguese word"
+ },
+ "invés": {
+  "class": "altered",
+  "from": "envés",
+  "reason": "model pass 2026-09-13: different meanings: instead vs reverse side"
+ },
+ "isto": {
+  "class": "altered",
+  "from": "este",
+  "reason": "model pass 2026-09-13: different demonstrative source words"
+ },
+ "janelar": {
+  "class": "altered",
+  "from": "ventanilla",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "jeito": {
+  "class": "altered",
+  "from": "hecho",
+  "reason": "model pass 2026-09-13: different source words (iectus vs factus)"
+ },
+ "jornalismo": {
+  "class": "altered",
+  "from": "periodismo",
+  "reason": "model pass 2026-09-13: translation, not cognate"
+ },
+ "jornalista": {
+  "class": "altered",
+  "from": "periodista",
+  "reason": "model pass 2026-09-13: translation, not cognate"
+ },
+ "just": {
+  "class": "transparent",
+  "from": "justo",
+  "reason": "model pass 2026-09-23: not real Portuguese word; unrelated meaning"
+ },
+ "laje": {
+  "class": "altered",
+  "from": "losa",
+  "reason": "model pass 2026-09-13: different roots for slab"
+ },
+ "land": {
+  "class": "transparent",
+  "from": "land",
+  "reason": "model pass 2026-09-13: land not a Portuguese word"
+ },
+ "laranjo": {
+  "class": "altered",
+  "from": "naranja",
+  "reason": "model pass 2026-09-13: laranjo not a standard word"
+ },
+ "lato": {
+  "class": "transparent",
+  "from": "lata",
+  "reason": "model pass 2026-09-13: different meanings/roots"
+ },
+ "lavanda": {
+  "class": "altered",
+  "from": "lavender",
+  "reason": "model pass 2026-09-23: donor 'lavender' is English, not Spanish"
+ },
+ "lazer": {
+  "class": "altered",
+  "from": "láser",
+  "reason": "model pass 2026-09-13: false friend, unrelated meanings"
+ },
+ "librar": {
+  "class": "transparent",
+  "from": "libra",
+  "reason": "model pass 2026-09-13: librar (to free) vs libra (pound), different meanings"
+ },
+ "livrar": {
+  "class": "altered",
+  "from": "librería",
+  "reason": "model pass 2026-09-13: livrar (to free) vs librería (bookstore), different source"
+ },
+ "lotar": {
+  "class": "altered",
+  "from": "llenar",
+  "reason": "model pass 2026-09-13: lotar vs llenar, different source words"
+ },
+ "lácio": {
+  "class": "altered",
+  "from": "lacio",
+  "reason": "model pass 2026-09-23: proper noun (Latium) vs adjective 'limp'"
+ },
+ "maconha": {
+  "class": "altered",
+  "from": "marihuana",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "malhar": {
+  "class": "altered",
+  "from": "malla",
+  "reason": "model pass 2026-09-13: different roots, unrelated meanings"
+ },
+ "mamão": {
+  "class": "altered",
+  "from": "mamón",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "manar": {
+  "class": "transparent",
+  "from": "manada",
+  "reason": "model pass 2026-09-13: different meanings, unrelated senses"
+ },
+ "mandioca": {
+  "class": "altered",
+  "from": "yuca",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "maneiro": {
+  "class": "altered",
+  "from": "manera",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "mangar": {
+  "class": "transparent",
+  "from": "manga",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "manir": {
+  "class": "transparent",
+  "from": "manía",
+  "reason": "model pass 2026-09-13: different meanings, not cognate"
+ },
+ "marinhar": {
+  "class": "altered",
+  "from": "marina",
+  "reason": "model pass 2026-09-13: not a standard word, unrelated meaning"
+ },
+ "mato": {
+  "class": "transparent",
+  "from": "matar",
+  "reason": "model pass 2026-09-13: different meanings, unrelated source"
+ },
+ "maçar": {
+  "class": "transparent",
+  "from": "maza",
+  "reason": "model pass 2026-09-13: different meanings, unrelated source"
+ },
+ "meio-sangue": {
+  "class": "transparent",
+  "from": "sangre",
+  "reason": "model pass 2026-09-23: translation only, not shared source word"
+ },
+ "melancia": {
+  "class": "altered",
+  "from": "sandía",
+  "reason": "model pass 2026-09-13: different source words (melancia vs sandía)"
+ },
+ "melar": {
+  "class": "altered",
+  "from": "mella",
+  "reason": "model pass 2026-09-13: different source, unrelated meaning (mella=notch)"
+ },
+ "melo": {
+  "class": "transparent",
+  "from": "melar",
+  "reason": "model pass 2026-09-23: unrelated meaning, unclear shared source"
+ },
+ "mentir": {
+  "class": "transparent",
+  "from": "mente",
+  "reason": "model pass 2026-09-13: different source, mente means mind"
+ },
+ "mesão": {
+  "class": "altered",
+  "from": "mesón",
+  "reason": "model pass 2026-09-23: different meanings: big table vs inn"
+ },
+ "milho": {
+  "class": "altered",
+  "from": "maíz",
+  "reason": "model pass 2026-09-13: different source words (milho vs maíz)"
+ },
+ "milão": {
+  "class": "altered",
+  "from": "milan",
+  "reason": "model pass 2026-09-13: different proper name/meaning (bird vs city)"
+ },
+ "namorar": {
+  "class": "altered",
+  "from": "noviar",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "nao": {
+  "class": "altered",
+  "from": "no",
+  "reason": "model pass 2026-09-13: not a valid lemma; ambiguous/misspelled"
+ },
+ "nimbo": {
+  "class": "altered",
+  "from": "nimbus",
+  "reason": "model pass 2026-09-23: donor 'nimbus' not a Spanish word"
+ },
+ "nininha": {
+  "class": "altered",
+  "from": "niñera",
+  "reason": "model pass 2026-09-13: nininha not standard word; meaning mismatch"
+ },
+ "notar": {
+  "class": "transparent",
+  "from": "nota",
+  "reason": "model pass 2026-09-13: different meanings: notar 'notice' vs nota 'note'"
+ },
+ "olheiro": {
+  "class": "altered",
+  "from": "ojera",
+  "reason": "model pass 2026-09-23: different meanings: scout vs dark circles"
+ },
+ "operário": {
+  "class": "altered",
+  "from": "obrero",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "or": {
+  "class": "altered",
+  "from": "oro",
+  "reason": "model pass 2026-09-13: 'or' is French, not Portuguese"
+ },
+ "orçamentário": {
+  "class": "altered",
+  "from": "presupuestario",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "pampo": {
+  "class": "transparent",
+  "from": "pampa",
+  "reason": "model pass 2026-09-13: pampo means fish, unrelated to pampa"
+ },
+ "papar": {
+  "class": "transparent",
+  "from": "papá",
+  "reason": "model pass 2026-09-13: papar (eat) unrelated to papá (dad)"
+ },
+ "papila": {
+  "class": "altered",
+  "from": "papilla",
+  "reason": "model pass 2026-09-23: different meanings: papilla vs baby food"
+ },
+ "parceria": {
+  "class": "altered",
+  "from": "compañerismo",
+  "reason": "model pass 2026-09-13: different words, not cognates"
+ },
+ "park": {
+  "class": "altered",
+  "from": "parque",
+  "reason": "model pass 2026-09-13: park is English, not Portuguese"
+ },
+ "passarinhar": {
+  "class": "altered",
+  "from": "pajarito",
+  "reason": "model pass 2026-09-13: different roots, not same source word"
+ },
+ "pastar": {
+  "class": "transparent",
+  "from": "pasta",
+  "reason": "model pass 2026-09-13: different meanings, unrelated source words"
+ },
+ "pe": {
+  "class": "altered",
+  "from": "pie",
+  "reason": "model pass 2026-09-13: 'pe' not a valid Portuguese word"
+ },
+ "pedrar": {
+  "class": "transparent",
+  "from": "pedro",
+  "reason": "model pass 2026-09-13: 'pedrar' not real word; 'pedro' is a name"
+ },
+ "pepper": {
+  "class": "transparent",
+  "from": "pepper",
+  "reason": "model pass 2026-09-23: not a real word in either language"
+ },
+ "pilhar": {
+  "class": "altered",
+  "from": "pila",
+  "reason": "model pass 2026-09-13: pilhar/pila unrelated meanings, false friend"
+ },
+ "pinto": {
+  "class": "transparent",
+  "from": "pintar",
+  "reason": "model pass 2026-09-13: pinto/pintar unrelated meanings"
+ },
+ "pip": {
+  "class": "transparent",
+  "from": "pip",
+  "reason": "model pass 2026-09-23: not a real word in either language"
+ },
+ "pistar": {
+  "class": "transparent",
+  "from": "pista",
+  "reason": "model pass 2026-09-13: pistar not a standard Portuguese word"
+ },
+ "pitar": {
+  "class": "transparent",
+  "from": "pita",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "placar": {
+  "class": "transparent",
+  "from": "placa",
+  "reason": "model pass 2026-09-13: placar/placa unrelated meanings"
+ },
+ "polir": {
+  "class": "transparent",
+  "from": "poli",
+  "reason": "model pass 2026-09-13: different meanings: polir vs poli"
+ },
+ "portar": {
+  "class": "altered",
+  "from": "puerta",
+  "reason": "model pass 2026-09-13: portar (carry) vs puerta (door)"
+ },
+ "portuense": {
+  "class": "altered",
+  "from": "porteño",
+  "reason": "model pass 2026-09-13: portuense (from Porto) vs porteño (port city)"
+ },
+ "postar": {
+  "class": "altered",
+  "from": "puesta",
+  "reason": "model pass 2026-09-13: unrelated meanings: station/place vs sunset/laying"
+ },
+ "prender": {
+  "class": "altered",
+  "from": "prendar",
+  "reason": "model pass 2026-09-13: different meanings: arrest vs give gift"
+ },
+ "pressuposto": {
+  "class": "altered",
+  "from": "presupuesto",
+  "reason": "model pass 2026-09-13: false friend: assumption vs budget"
+ },
+ "previsível": {
+  "class": "altered",
+  "from": "predecible",
+  "reason": "model pass 2026-09-13: different roots: previsão vs predecir"
+ },
+ "primar": {
+  "class": "transparent",
+  "from": "prima",
+  "reason": "model pass 2026-09-13: unrelated meanings: excel vs cousin/premium"
+ },
+ "pull": {
+  "class": "transparent",
+  "from": "pull",
+  "reason": "model pass 2026-09-23: not a standard lemma in either language"
+ },
+ "pérsio": {
+  "class": "transparent",
+  "from": "persia",
+  "reason": "model pass 2026-09-13: pérsio not a real Portuguese lemma"
+ },
+ "quantiar": {
+  "class": "altered",
+  "from": "cuantía",
+  "reason": "model pass 2026-09-13: quantiar not a real Portuguese word"
+ },
+ "quarentar": {
+  "class": "altered",
+  "from": "cuarenta",
+  "reason": "model pass 2026-09-13: quarentar not a real Portuguese word"
+ },
+ "quarentenar": {
+  "class": "altered",
+  "from": "cuarentena",
+  "reason": "model pass 2026-09-13: quarentenar not a real Portuguese word"
+ },
+ "quaresmar": {
+  "class": "altered",
+  "from": "cuaresma",
+  "reason": "model pass 2026-09-13: quaresmar not a real Portuguese word"
+ },
+ "quartar": {
+  "class": "transparent",
+  "from": "cuarta",
+  "reason": "model pass 2026-09-13: quartar not a real Portuguese word"
+ },
+ "quebra-cabeça": {
+  "class": "altered",
+  "from": "rompecabezas",
+  "reason": "model pass 2026-09-13: calque translation, not cognate"
+ },
+ "quedar": {
+  "class": "transparent",
+  "from": "queda",
+  "reason": "model pass 2026-09-13: different meanings, not cognate"
+ },
+ "quintar": {
+  "class": "transparent",
+  "from": "quinta",
+  "reason": "model pass 2026-09-13: different meanings, not cognate"
+ },
+ "rainho": {
+  "class": "altered",
+  "from": "reina",
+  "reason": "model pass 2026-09-13: 'rainho' not a real word"
+ },
+ "raspar": {
+  "class": "altered",
+  "from": "rascar",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "ratar": {
+  "class": "transparent",
+  "from": "rata",
+  "reason": "model pass 2026-09-13: different meanings, unrelated"
+ },
+ "realistar": {
+  "class": "transparent",
+  "from": "realista",
+  "reason": "model pass 2026-09-13: 'realistar' not a real word"
+ },
+ "realçar": {
+  "class": "altered",
+  "from": "resaltar",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "rebater": {
+  "class": "altered",
+  "from": "rebotar",
+  "reason": "model pass 2026-09-13: different meanings, unrelated roots"
+ },
+ "rechear": {
+  "class": "altered",
+  "from": "relleno",
+  "reason": "model pass 2026-09-13: different roots, not clearly cognate"
+ },
+ "regina": {
+  "class": "altered",
+  "from": "reina",
+  "reason": "model pass 2026-09-13: regina not real Portuguese word for queen"
+ },
+ "repúblico": {
+  "class": "transparent",
+  "from": "república",
+  "reason": "model pass 2026-09-13: repúblico is not a real Portuguese word"
+ },
+ "respostar": {
+  "class": "altered",
+  "from": "respuesta",
+  "reason": "model pass 2026-09-13: respostar not a real Portuguese word"
+ },
+ "rest": {
+  "class": "transparent",
+  "from": "rest",
+  "reason": "model pass 2026-09-23: not a real word/fragment"
+ },
+ "reta": {
+  "class": "transparent",
+  "from": "retar",
+  "reason": "model pass 2026-09-23: different meanings, not shared source"
+ },
+ "retinir": {
+  "class": "transparent",
+  "from": "retina",
+  "reason": "model pass 2026-09-13: retinir (ring/sound) vs retina, unrelated meaning"
+ },
+ "rir": {
+  "class": "transparent",
+  "from": "río",
+  "reason": "model pass 2026-09-13: rir (laugh) vs río (river), unrelated"
+ },
+ "riso": {
+  "class": "altered",
+  "from": "rizo",
+  "reason": "model pass 2026-09-13: riso (laughter) vs rizo (curl), false friend"
+ },
+ "rodagem": {
+  "class": "altered",
+  "from": "rodaje",
+  "reason": "model pass 2026-09-13: rodagem (tread) vs rodaje (filming), unrelated meaning"
+ },
+ "roma": {
+  "class": "transparent",
+  "from": "romo",
+  "reason": "model pass 2026-09-13: different meanings, not same source"
+ },
+ "rotar": {
+  "class": "altered",
+  "from": "ruta",
+  "reason": "model pass 2026-09-13: rotate vs route, unrelated meanings"
+ },
+ "ruir": {
+  "class": "transparent",
+  "from": "ruido",
+  "reason": "model pass 2026-09-13: collapse vs noise, unrelated meanings"
+ },
+ "sabel": {
+  "class": "altered",
+  "from": "sable",
+  "reason": "model pass 2026-09-13: not a real Portuguese word"
+ },
+ "se": {
+  "class": "transparent",
+  "from": "él",
+  "reason": "model pass 2026-09-13: different words, not cognates"
+ },
+ "secretar": {
+  "class": "transparent",
+  "from": "secretaría",
+  "reason": "model pass 2026-09-13: different meaning, unrelated source"
+ },
+ "seven": {
+  "class": "transparent",
+  "from": "seven",
+  "reason": "model pass 2026-09-13: not native word in either language"
+ },
+ "sob": {
+  "class": "altered",
+  "from": "sobre",
+  "reason": "model pass 2026-09-13: different meanings, different Latin roots (under vs on)"
+ },
+ "soberbo": {
+  "class": "altered",
+  "from": "soberbia",
+  "reason": "model pass 2026-09-13: false friends: superb vs pride/arrogance"
+ },
+ "soldar": {
+  "class": "transparent",
+  "from": "soldado",
+  "reason": "model pass 2026-09-13: false friends: to weld vs soldier"
+ },
+ "solid": {
+  "class": "transparent",
+  "from": "solid",
+  "reason": "model pass 2026-09-13: 'solid' not a real Portuguese word"
+ },
+ "solita": {
+  "class": "transparent",
+  "from": "solita",
+  "reason": "model pass 2026-09-23: not standard Portuguese lemma"
+ },
+ "soma": {
+  "class": "altered",
+  "from": "sumo",
+  "reason": "model pass 2026-09-13: sumo means supreme, not sum"
+ },
+ "something": {
+  "class": "transparent",
+  "from": "something",
+  "reason": "model pass 2026-09-13: 'something' is English, not Portuguese"
+ },
+ "sono": {
+  "class": "altered",
+  "from": "sonido",
+  "reason": "model pass 2026-09-13: sono=sleep vs sonido=sound, false friend"
+ },
+ "sortir": {
+  "class": "altered",
+  "from": "suerte",
+  "reason": "model pass 2026-09-13: sortir/suerte different words, meanings"
+ },
+ "stable": {
+  "class": "transparent",
+  "from": "stable",
+  "reason": "model pass 2026-09-23: not a Portuguese word (English/French form)"
+ },
+ "sucata": {
+  "class": "transparent",
+  "from": "chatarra",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "suco": {
+  "class": "altered",
+  "from": "zumo",
+  "reason": "model pass 2026-09-13: different etymological roots"
+ },
+ "surto": {
+  "class": "transparent",
+  "from": "surtir",
+  "reason": "model pass 2026-09-23: unrelated meanings, false cognate"
+ },
+ "suspense": {
+  "class": "altered",
+  "from": "suspenso",
+  "reason": "model pass 2026-09-13: different meanings: suspense vs failed exam"
+ },
+ "tala": {
+  "class": "transparent",
+  "from": "talla",
+  "reason": "model pass 2026-09-13: meanings diverged: splint vs size/carving"
+ },
+ "tarar": {
+  "class": "transparent",
+  "from": "tarado",
+  "reason": "model pass 2026-09-13: false friend: tare vs deranged"
+ },
+ "te": {
+  "class": "transparent",
+  "from": "tú",
+  "reason": "model pass 2026-09-13: different pronoun forms/functions, not same word"
+ },
+ "temer": {
+  "class": "transparent",
+  "from": "tema",
+  "reason": "model pass 2026-09-13: temer means fear, tema means topic"
+ },
+ "tento": {
+  "class": "transparent",
+  "from": "tentar",
+  "reason": "model pass 2026-09-23: unrelated meanings, false cognate"
+ },
+ "testo": {
+  "class": "transparent",
+  "from": "testar",
+  "reason": "model pass 2026-09-23: unrelated meanings, false cognate"
+ },
+ "tinir": {
+  "class": "transparent",
+  "from": "tina",
+  "reason": "model pass 2026-09-13: unrelated meanings, different words"
+ },
+ "tornozelo": {
+  "class": "altered",
+  "from": "tobillo",
+  "reason": "model pass 2026-09-13: different roots, not true cognates"
+ },
+ "tremer": {
+  "class": "transparent",
+  "from": "tremendo",
+  "reason": "model pass 2026-09-13: different source, unrelated meaning"
+ },
+ "trintar": {
+  "class": "altered",
+  "from": "treinta",
+  "reason": "model pass 2026-09-13: not a real Portuguese word"
+ },
+ "tunisia": {
+  "class": "transparent",
+  "from": "tunisia",
+  "reason": "model pass 2026-09-13: not proper spelling/lemma"
+ },
+ "turbar": {
+  "class": "transparent",
+  "from": "turbo",
+  "reason": "model pass 2026-09-13: different source, unrelated meaning"
+ },
+ "têmpora": {
+  "class": "altered",
+  "from": "temple",
+  "reason": "model pass 2026-09-13: different meanings, unrelated"
+ },
+ "val": {
+  "class": "transparent",
+  "from": "val",
+  "reason": "model pass 2026-09-13: not a real Portuguese word"
+ },
+ "vendar": {
+  "class": "transparent",
+  "from": "vender",
+  "reason": "model pass 2026-09-13: different meanings, not cognates"
+ },
+ "ventana": {
+  "class": "transparent",
+  "from": "ventana",
+  "reason": "model pass 2026-09-13: not a real Portuguese word"
+ },
+ "vereador": {
+  "class": "altered",
+  "from": "regidor",
+  "reason": "model pass 2026-09-13: different words, not cognates"
+ },
+ "village": {
+  "class": "transparent",
+  "from": "village",
+  "reason": "model pass 2026-09-13: not a Portuguese word"
+ },
+ "vir": {
+  "class": "altered",
+  "from": "viña",
+  "reason": "model pass 2026-09-13: different meanings, unrelated words"
+ },
+ "visionário": {
+  "class": "altered",
+  "from": "visionar",
+  "reason": "model pass 2026-09-13: different meanings, not same sense"
+ },
+ "visto": {
+  "class": "transparent",
+  "from": "vestir",
+  "reason": "model pass 2026-09-13: different meanings, unrelated words"
+ },
+ "voce": {
+  "class": "altered",
+  "from": "voz",
+  "reason": "model pass 2026-09-13: você (pronoun) unrelated to voz (voice)"
+ },
+ "welcome": {
+  "class": "transparent",
+  "from": "welcome",
+  "reason": "model pass 2026-09-23: welcome not Portuguese or Spanish word"
+ },
+ "zoar": {
+  "class": "transparent",
+  "from": "zoo",
+  "reason": "model pass 2026-09-13: zoar (to mock) unrelated to zoo"
+ }
+}

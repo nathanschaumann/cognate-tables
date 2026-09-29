@@ -1,0 +1,312 @@
+{
+ "ата": {
+  "class": "transparent",
+  "from": "ատոմ",
+  "reason": "model pass 2026-09-13: receiver 'ата' unrelated to donor 'atom'"
+ },
+ "бак": {
+  "class": "transparent",
+  "from": "բաքու",
+  "reason": "\"tank, tub\"; Baku is a city"
+ },
+ "банальный": {
+  "class": "altered",
+  "from": "բան",
+  "reason": "model pass 2026-09-13: donor 'բան' means thing/word, not banal"
+ },
+ "банда": {
+  "class": "transparent",
+  "from": "բան",
+  "reason": "ban is Armenian for \"thing\", not a cognate"
+ },
+ "барин": {
+  "class": "transparent",
+  "from": "բար",
+  "reason": "native \"gentleman, master\"; bar is a drinking place"
+ },
+ "вено": {
+  "class": "altered",
+  "from": "վիեննա",
+  "reason": "model pass 2026-09-13: вено means dowry, not Vienna"
+ },
+ "верка": {
+  "class": "altered",
+  "from": "վերք",
+  "reason": "model pass 2026-09-23: name vs unrelated word 'wound'"
+ },
+ "голосовой": {
+  "class": "altered",
+  "from": "գոլային",
+  "reason": "model pass 2026-09-23: голос vs гол mismatch"
+ },
+ "голый": {
+  "class": "transparent",
+  "from": "գոլ",
+  "reason": "native \"naked\"; gol is a sports goal"
+ },
+ "гран": {
+  "class": "transparent",
+  "from": "գրան",
+  "reason": "\"grand\"; the Armenian donor is not a real word"
+ },
+ "дублин": {
+  "class": "transparent",
+  "from": "դուբլ",
+  "reason": "the city Dublin; dubl is a take or double"
+ },
+ "интерьер": {
+  "class": "transparent",
+  "from": "ինտեր",
+  "reason": "model pass 2026-09-13: donor is fragment, not real word"
+ },
+ "капут": {
+  "class": "transparent",
+  "from": "կապուտ",
+  "reason": "model pass 2026-09-23: meaning of Armenian word unclear, unsure shared source"
+ },
+ "карат": {
+  "class": "transparent",
+  "from": "կարատե",
+  "reason": "model pass 2026-09-13: karat vs karate, different meaning"
+ },
+ "картель": {
+  "class": "altered",
+  "from": "քարտեզ",
+  "reason": "model pass 2026-09-13: cartel vs map, unrelated meaning"
+ },
+ "католицизм": {
+  "class": "altered",
+  "from": "կաթողիկոս",
+  "reason": "model pass 2026-09-13: catholicism vs catholicos, different meaning"
+ },
+ "квартира": {
+  "class": "altered",
+  "from": "բնակարան",
+  "reason": "\"apartment\"; cuartilla is a sheet of paper, bnakaran a translation"
+ },
+ "клан": {
+  "class": "transparent",
+  "from": "կլանել",
+  "reason": "model pass 2026-09-13: clan vs absorb, unrelated meaning"
+ },
+ "концентрация": {
+  "class": "altered",
+  "from": "կենտրոնացում",
+  "reason": "model pass 2026-09-13: native Armenian coinage, not borrowed"
+ },
+ "коралл": {
+  "class": "altered",
+  "from": "կոր",
+  "reason": "model pass 2026-09-13: coral vs curved, unrelated meaning"
+ },
+ "корона": {
+  "class": "altered",
+  "from": "կրոն",
+  "reason": "model pass 2026-09-13: crown vs religion, unrelated meaning"
+ },
+ "кран": {
+  "class": "altered",
+  "from": "կռունկ",
+  "reason": "model pass 2026-09-23: кран (tap) vs կռունկ (crane bird) false friend"
+ },
+ "куб": {
+  "class": "transparent",
+  "from": "կուբա",
+  "reason": "the shape cube; Kuba is the country Cuba"
+ },
+ "кубань": {
+  "class": "transparent",
+  "from": "կուբա",
+  "reason": "model pass 2026-09-13: Kuban vs Cuba, different proper names"
+ },
+ "кулиса": {
+  "class": "transparent",
+  "from": "կուլ",
+  "reason": "the stage wing; kul is Armenian for \"swallow\""
+ },
+ "лен": {
+  "class": "transparent",
+  "from": "լենա",
+  "reason": "native \"flax, fief\"; Lena is a personal name"
+ },
+ "маять": {
+  "class": "transparent",
+  "from": "մայիս",
+  "reason": "native \"to torment\"; mayo/mai is the month May"
+ },
+ "медицина": {
+  "class": "transparent",
+  "from": "medicine-ի",
+  "reason": "model pass 2026-09-13: donor is English word inserted, not Armenian"
+ },
+ "минуть": {
+  "class": "transparent",
+  "from": "մինի",
+  "reason": "native \"to pass by\"; the minute words are a different root"
+ },
+ "мир": {
+  "class": "transparent",
+  "from": "միր",
+  "reason": "native \"world, peace\"; neither donor is a real word in its language"
+ },
+ "нижний": {
+  "class": "altered",
+  "from": "նիժնի",
+  "reason": "native \"lower\"; Nizhny is a Russian place name"
+ },
+ "новость": {
+  "class": "transparent",
+  "from": "նովոստի",
+  "reason": "native \"news\"; novosti is Russian in Armenian letters, news is English"
+ },
+ "новый": {
+  "class": "transparent",
+  "from": "նովա",
+  "reason": "native \"new\"; the donor lemma is the astronomy term nova"
+ },
+ "ом": {
+  "class": "transparent",
+  "from": "մոմ",
+  "reason": "the unit ohm; mom is Armenian for \"candle\""
+ },
+ "партия": {
+  "class": "altered",
+  "from": "պարտիա",
+  "reason": "\"political party\"; partida/partie are different words"
+ },
+ "полый": {
+  "class": "transparent",
+  "from": "պոլո",
+  "reason": "model pass 2026-09-23: полый (hollow) unrelated to поло (polo)"
+ },
+ "портал": {
+  "class": "transparent",
+  "from": "պորտ",
+  "reason": "model pass 2026-09-13: portal vs port, unrelated meanings"
+ },
+ "раса": {
+  "class": "transparent",
+  "from": "ռա",
+  "reason": "the Armenian donor is not a real word"
+ },
+ "рифт": {
+  "class": "transparent",
+  "from": "rift-ը",
+  "reason": "model pass 2026-09-13: donor not real Armenian word, mixed script"
+ },
+ "род": {
+  "class": "transparent",
+  "from": "ռոդ",
+  "reason": "native \"kin, genus\"; neither donor is a real word in its language"
+ },
+ "рост": {
+  "class": "transparent",
+  "from": "ռոստով",
+  "reason": "native \"growth\"; Rostov is a city"
+ },
+ "свой": {
+  "class": "transparent",
+  "from": "սվոյիխ",
+  "reason": "a Russian word written in Armenian letters, not an Armenian word"
+ },
+ "седой": {
+  "class": "transparent",
+  "from": "սեդա",
+  "reason": "native \"grey-haired\"; Seda is a personal name"
+ },
+ "стопа": {
+  "class": "transparent",
+  "from": "ստոպ",
+  "reason": "native \"foot\"; stop is the loanword"
+ },
+ "структура": {
+  "class": "altered",
+  "from": "ստրուկ",
+  "reason": "model pass 2026-09-13: donor means slave, unrelated meaning"
+ },
+ "судан": {
+  "class": "transparent",
+  "from": "սու",
+  "reason": "model pass 2026-09-13: donor is truncated fragment"
+ },
+ "сумма": {
+  "class": "transparent",
+  "from": "գումար",
+  "reason": "\"sum\"; sumo and sommaire are different words"
+ },
+ "сушить": {
+  "class": "transparent",
+  "from": "սուշի",
+  "reason": "model pass 2026-09-23: сушить (dry) vs суши (sushi), different meanings"
+ },
+ "телеграф": {
+  "class": "transparent",
+  "from": "telegraph-ը",
+  "reason": "model pass 2026-09-13: donor not a real Armenian word"
+ },
+ "терминал": {
+  "class": "transparent",
+  "from": "տերմին",
+  "reason": "model pass 2026-09-13: different meanings: terminal vs term"
+ },
+ "тесто": {
+  "class": "transparent",
+  "from": "թեստ",
+  "reason": "native \"dough\"; test is an examination"
+ },
+ "трибуна": {
+  "class": "transparent",
+  "from": "տրիբունալ",
+  "reason": "model pass 2026-09-13: tribune vs tribunal, different words"
+ },
+ "урал": {
+  "class": "transparent",
+  "from": "ուր",
+  "reason": "the Ural mountains; ur is Armenian for \"where\""
+ },
+ "уран": {
+  "class": "transparent",
+  "from": "ուր",
+  "reason": "model pass 2026-09-13: uranium vs Armenian 'where', unrelated"
+ },
+ "установить": {
+  "class": "transparent",
+  "from": "հաստատել",
+  "reason": "native \"to install\"; hastatel is a translation"
+ },
+ "участник": {
+  "class": "altered",
+  "from": "մասնակից",
+  "reason": "model pass 2026-09-13: native Russian/Armenian words, not shared source"
+ },
+ "факт": {
+  "class": "transparent",
+  "from": "փաստ",
+  "reason": "past is Armenian for \"fact\" but not a cognate"
+ },
+ "фома": {
+  "class": "altered",
+  "from": "տոմաշ",
+  "reason": "model pass 2026-09-23: different proper names (Foma vs Tomash)"
+ },
+ "химия": {
+  "class": "altered",
+  "from": "քիմ",
+  "reason": "model pass 2026-09-13: donor is fragment, not full word"
+ },
+ "хороший": {
+  "class": "altered",
+  "from": "խոշոր",
+  "reason": "native \"good\"; khoshor is Armenian for \"large\""
+ },
+ "шарап": {
+  "class": "transparent",
+  "from": "շարապովա",
+  "reason": "model pass 2026-09-23: fragments of a name, not real words"
+ },
+ "як": {
+  "class": "altered",
+  "from": "յակոբ",
+  "reason": "the animal yak; Yakob is a personal name"
+ }
+}

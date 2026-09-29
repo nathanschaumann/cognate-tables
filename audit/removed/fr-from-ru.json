@@ -1,0 +1,862 @@
+{
+ "ak": {
+  "class": "transparent",
+  "from": "ак",
+  "reason": "model pass 2026-09-13: fragment/code, not a real word"
+ },
+ "amber": {
+  "class": "transparent",
+  "from": "амбер",
+  "reason": "model pass 2026-09-13: not standard French word; wrong form"
+ },
+ "amir": {
+  "class": "transparent",
+  "from": "амир",
+  "reason": "model pass 2026-09-13: not a real French lemma"
+ },
+ "ancre": {
+  "class": "transparent",
+  "from": "якорь",
+  "reason": "model pass 2026-09-13: different source roots, not cognate"
+ },
+ "arbitraire": {
+  "class": "altered",
+  "from": "арбитраж",
+  "reason": "model pass 2026-09-13: false friend: arbitrary vs arbitration"
+ },
+ "atome": {
+  "class": "transparent",
+  "from": "ата",
+  "reason": "model pass 2026-09-13: ата is not atom, unrelated word"
+ },
+ "atomique": {
+  "class": "altered",
+  "from": "номер",
+  "reason": "model pass 2026-09-13: номер means number, unrelated"
+ },
+ "beauty": {
+  "class": "transparent",
+  "from": "бьюти",
+  "reason": "model pass 2026-09-23: not a French word"
+ },
+ "big": {
+  "class": "transparent",
+  "from": "биг",
+  "reason": "model pass 2026-09-23: not a French word"
+ },
+ "bin": {
+  "class": "transparent",
+  "from": "бин",
+  "reason": "model pass 2026-09-13: not real words in either language"
+ },
+ "bravo": {
+  "class": "transparent",
+  "from": "бравый",
+  "reason": "model pass 2026-09-13: different source; бравый means valiant, not bravo"
+ },
+ "bus": {
+  "class": "transparent",
+  "from": "бусы",
+  "reason": "model pass 2026-09-13: бусы means beads, false friend"
+ },
+ "case": {
+  "class": "transparent",
+  "from": "кейс",
+  "reason": "model pass 2026-09-23: different source words"
+ },
+ "chalet": {
+  "class": "transparent",
+  "from": "шалый",
+  "reason": "model pass 2026-09-13: unrelated Russian word, not from chalet"
+ },
+ "chemin": {
+  "class": "altered",
+  "from": "камин",
+  "reason": "model pass 2026-09-13: chemin vs fireplace, false friend"
+ },
+ "citron": {
+  "class": "altered",
+  "from": "лимонный",
+  "reason": "model pass 2026-09-13: citron vs lemon, different roots"
+ },
+ "cola": {
+  "class": "transparent",
+  "from": "кол",
+  "reason": "model pass 2026-09-13: cola vs stake, unrelated meaning"
+ },
+ "colonial": {
+  "class": "altered",
+  "from": "колонный",
+  "reason": "model pass 2026-09-13: colonial vs columned, false friend"
+ },
+ "costa": {
+  "class": "transparent",
+  "from": "коста",
+  "reason": "model pass 2026-09-13: ‘costa’ not a French word"
+ },
+ "couché": {
+  "class": "altered",
+  "from": "кушетка",
+  "reason": "model pass 2026-09-13: different meanings, false match"
+ },
+ "coulomb": {
+  "class": "altered",
+  "from": "кулон",
+  "reason": "model pass 2026-09-23: false friend, unrelated meanings"
+ },
+ "coûter": {
+  "class": "altered",
+  "from": "кусать",
+  "reason": "model pass 2026-09-13: false friend, unrelated meaning"
+ },
+ "crash": {
+  "class": "transparent",
+  "from": "краш",
+  "reason": "model pass 2026-09-23: different meanings, false friend"
+ },
+ "croisière": {
+  "class": "altered",
+  "from": "крейсер",
+  "reason": "model pass 2026-09-13: croisière means cruise, not cruiser"
+ },
+ "crossover": {
+  "class": "transparent",
+  "from": "кросс",
+  "reason": "model pass 2026-09-13: crossover vs cross-country, unrelated meaning"
+ },
+ "crystal": {
+  "class": "altered",
+  "from": "кристалл",
+  "reason": "model pass 2026-09-13: not a French spelling, duplicate of cristal"
+ },
+ "cuba": {
+  "class": "altered",
+  "from": "куб",
+  "reason": "model pass 2026-09-13: proper name vs unrelated common noun"
+ },
+ "dar": {
+  "class": "altered",
+  "from": "дать",
+  "reason": "model pass 2026-09-13: not a French word"
+ },
+ "delhi": {
+  "class": "transparent",
+  "from": "делить",
+  "reason": "model pass 2026-09-13: Delhi vs 'to divide', unrelated meaning"
+ },
+ "diva": {
+  "class": "transparent",
+  "from": "диво",
+  "reason": "model pass 2026-09-13: diva vs 'wonder', false friend"
+ },
+ "division": {
+  "class": "transparent",
+  "from": "движение",
+  "reason": "model pass 2026-09-13: division vs 'movement', unrelated"
+ },
+ "drogue": {
+  "class": "altered",
+  "from": "драга",
+  "reason": "model pass 2026-09-13: drug vs dredge, unrelated meaning"
+ },
+ "délit": {
+  "class": "transparent",
+  "from": "делить",
+  "reason": "model pass 2026-09-13: délit vs 'to divide', unrelated meaning"
+ },
+ "dôme": {
+  "class": "altered",
+  "from": "дом",
+  "reason": "model pass 2026-09-13: dôme (dome) vs дом (house) - unrelated meaning"
+ },
+ "festin": {
+  "class": "altered",
+  "from": "фестиваль",
+  "reason": "model pass 2026-09-13: festin (feast) vs фестиваль (festival) - different meaning"
+ },
+ "fil": {
+  "class": "altered",
+  "from": "филя",
+  "reason": "model pass 2026-09-13: филя not a real word"
+ },
+ "forer": {
+  "class": "transparent",
+  "from": "фора",
+  "reason": "model pass 2026-09-13: forer (drill) vs фора (handicap) unrelated"
+ },
+ "fun": {
+  "class": "transparent",
+  "from": "фан",
+  "reason": "model pass 2026-09-13: fun vs фан (fan), unrelated meaning"
+ },
+ "fédora": {
+  "class": "altered",
+  "from": "фёдор",
+  "reason": "model pass 2026-09-13: fedora hat vs name Fyodor, unrelated"
+ },
+ "gaffe": {
+  "class": "transparent",
+  "from": "гаф",
+  "reason": "model pass 2026-09-13: гаф not a real Russian word"
+ },
+ "gag": {
+  "class": "transparent",
+  "from": "гага",
+  "reason": "model pass 2026-09-13: гага means eider duck, unrelated"
+ },
+ "gaga": {
+  "class": "transparent",
+  "from": "гага",
+  "reason": "model pass 2026-09-13: гага (eider) unrelated to gaga"
+ },
+ "gain": {
+  "class": "altered",
+  "from": "гана",
+  "reason": "model pass 2026-09-23: unrelated meanings, false friend"
+ },
+ "gang": {
+  "class": "transparent",
+  "from": "ганг",
+  "reason": "model pass 2026-09-13: ганг refers to Ganges, not gang"
+ },
+ "gaze": {
+  "class": "altered",
+  "from": "газ",
+  "reason": "model pass 2026-09-23: different meanings, false friend"
+ },
+ "giga": {
+  "class": "altered",
+  "from": "гиг",
+  "reason": "model pass 2026-09-23: different meanings, false friend"
+ },
+ "glass": {
+  "class": "altered",
+  "from": "глас",
+  "reason": "model pass 2026-09-13: глас means voice, unrelated to glass"
+ },
+ "golfe": {
+  "class": "transparent",
+  "from": "гольф",
+  "reason": "model pass 2026-09-13: golfe (gulf) vs гольф (golf sport)"
+ },
+ "grade": {
+  "class": "altered",
+  "from": "градус",
+  "reason": "model pass 2026-09-13: grade vs градус (degree) unrelated roots"
+ },
+ "grand": {
+  "class": "altered",
+  "from": "гран",
+  "reason": "model pass 2026-09-13: grand vs гран (grain unit) unrelated"
+ },
+ "génome": {
+  "class": "transparent",
+  "from": "ген",
+  "reason": "model pass 2026-09-13: genome vs gene, different lemma"
+ },
+ "générosité": {
+  "class": "altered",
+  "from": "щедрость",
+  "reason": "model pass 2026-09-13: générosité vs щедрость, unrelated roots"
+ },
+ "halle": {
+  "class": "altered",
+  "from": "галл",
+  "reason": "model pass 2026-09-13: halle (market) vs галл (Gaul), unrelated meanings"
+ },
+ "haram": {
+  "class": "transparent",
+  "from": "хара",
+  "reason": "model pass 2026-09-13: хара is not a real match for haram"
+ },
+ "hypocrisie": {
+  "class": "transparent",
+  "from": "лицемерие",
+  "reason": "model pass 2026-09-13: лицемерие is native Russian word, not cognate"
+ },
+ "idem": {
+  "class": "transparent",
+  "from": "идти",
+  "reason": "model pass 2026-09-13: idem (Latin 'same') vs идти ('go'), unrelated"
+ },
+ "important": {
+  "class": "altered",
+  "from": "импорт",
+  "reason": "model pass 2026-09-13: important vs импорт, unrelated meanings"
+ },
+ "impressionnant": {
+  "class": "altered",
+  "from": "импрессионизм",
+  "reason": "model pass 2026-09-13: impressionnant vs импрессионизм, unrelated meanings"
+ },
+ "insomnie": {
+  "class": "altered",
+  "from": "бессонница",
+  "reason": "model pass 2026-09-23: different source words, not cognate"
+ },
+ "instituteur": {
+  "class": "altered",
+  "from": "институт",
+  "reason": "model pass 2026-09-13: instituteur (teacher) vs институт (institute), unrelated"
+ },
+ "intelligent": {
+  "class": "altered",
+  "from": "интеллигентный",
+  "reason": "model pass 2026-09-13: false friend: intelligent vs cultured/refined"
+ },
+ "inévitablement": {
+  "class": "altered",
+  "from": "неизбежный",
+  "reason": "model pass 2026-09-13: native Slavic word, not borrowed cognate"
+ },
+ "kit": {
+  "class": "transparent",
+  "from": "кит",
+  "reason": "model pass 2026-09-13: false friend: kit vs whale"
+ },
+ "lascar": {
+  "class": "altered",
+  "from": "ласка",
+  "reason": "model pass 2026-09-13: false friend: rascal vs weasel"
+ },
+ "lis": {
+  "class": "transparent",
+  "from": "лис",
+  "reason": "model pass 2026-09-13: false friend: lily/lire vs fox"
+ },
+ "léon": {
+  "class": "altered",
+  "from": "лео",
+  "reason": "model pass 2026-09-13: different proper names, not same name"
+ },
+ "léonard": {
+  "class": "altered",
+  "from": "леонардо",
+  "reason": "model pass 2026-09-13: different proper names, Leonard vs Leonardo"
+ },
+ "macaron": {
+  "class": "altered",
+  "from": "макароны",
+  "reason": "model pass 2026-09-23: different foods, meaning diverged"
+ },
+ "maire": {
+  "class": "altered",
+  "from": "майор",
+  "reason": "model pass 2026-09-13: mayor vs major, false friend"
+ },
+ "mal": {
+  "class": "transparent",
+  "from": "малый",
+  "reason": "model pass 2026-09-13: bad vs small, unrelated meaning"
+ },
+ "manche": {
+  "class": "altered",
+  "from": "манга",
+  "reason": "model pass 2026-09-13: sleeve vs manga, unrelated words"
+ },
+ "marier": {
+  "class": "altered",
+  "from": "мария",
+  "reason": "model pass 2026-09-13: marry vs Maria, unrelated"
+ },
+ "marque": {
+  "class": "altered",
+  "from": "марк",
+  "reason": "model pass 2026-09-13: brand vs name Mark, unrelated"
+ },
+ "mater": {
+  "class": "transparent",
+  "from": "матёрый",
+  "reason": "model pass 2026-09-13: false friend, unrelated meaning"
+ },
+ "menthe": {
+  "class": "altered",
+  "from": "мент",
+  "reason": "model pass 2026-09-13: mint vs slang cop, unrelated"
+ },
+ "menton": {
+  "class": "altered",
+  "from": "мена",
+  "reason": "model pass 2026-09-13: chin vs exchange, unrelated"
+ },
+ "miel": {
+  "class": "altered",
+  "from": "мел",
+  "reason": "model pass 2026-09-23: unrelated meanings, false friend"
+ },
+ "mime": {
+  "class": "transparent",
+  "from": "мимо",
+  "reason": "model pass 2026-09-13: mime vs 'past', unrelated"
+ },
+ "mini": {
+  "class": "transparent",
+  "from": "минуть",
+  "reason": "model pass 2026-09-13: mini vs 'to pass', unrelated"
+ },
+ "mois": {
+  "class": "altered",
+  "from": "мес",
+  "reason": "model pass 2026-09-13: мес not a real word"
+ },
+ "mosquée": {
+  "class": "altered",
+  "from": "мечеть",
+  "reason": "model pass 2026-09-13: different words, not direct cognates"
+ },
+ "multiplication": {
+  "class": "altered",
+  "from": "мультипликация",
+  "reason": "model pass 2026-09-13: false friend: multiplication vs cartoon"
+ },
+ "médecin": {
+  "class": "altered",
+  "from": "медико",
+  "reason": "model pass 2026-09-13: медико not a real word"
+ },
+ "nancy": {
+  "class": "altered",
+  "from": "нэнси",
+  "reason": "model pass 2026-09-13: different proper names (city vs person)"
+ },
+ "naples": {
+  "class": "altered",
+  "from": "наполоть",
+  "reason": "model pass 2026-09-13: наполоть unrelated Russian verb"
+ },
+ "navale": {
+  "class": "altered",
+  "from": "навальный",
+  "reason": "model pass 2026-09-13: навальный is unrelated proper name"
+ },
+ "nova": {
+  "class": "transparent",
+  "from": "новый",
+  "reason": "model pass 2026-09-13: different words, not borrowing relation"
+ },
+ "obligation": {
+  "class": "altered",
+  "from": "обязательство",
+  "reason": "model pass 2026-09-13: native Slavic word, not cognate"
+ },
+ "ok": {
+  "class": "transparent",
+  "from": "около",
+  "reason": "model pass 2026-09-13: unrelated words, false friend"
+ },
+ "opposant": {
+  "class": "altered",
+  "from": "оппонент",
+  "reason": "model pass 2026-09-13: different roots, not real cognate"
+ },
+ "orient": {
+  "class": "altered",
+  "from": "ориент",
+  "reason": "model pass 2026-09-13: ориент not a real Russian word"
+ },
+ "orienter": {
+  "class": "altered",
+  "from": "ориентир",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "origine": {
+  "class": "altered",
+  "from": "оригинальный",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "orque": {
+  "class": "altered",
+  "from": "орк",
+  "reason": "model pass 2026-09-23: different meanings, false friend"
+ },
+ "pal": {
+  "class": "transparent",
+  "from": "палый",
+  "reason": "model pass 2026-09-13: neither is a real standalone word"
+ },
+ "part": {
+  "class": "transparent",
+  "from": "парта",
+  "reason": "model pass 2026-09-13: false friend, unrelated meanings"
+ },
+ "parti": {
+  "class": "transparent",
+  "from": "парти",
+  "reason": "model pass 2026-09-13: парти not standard Russian word"
+ },
+ "pas": {
+  "class": "transparent",
+  "from": "пасть",
+  "reason": "model pass 2026-09-13: false friend, unrelated meanings"
+ },
+ "patienter": {
+  "class": "transparent",
+  "from": "пациентка",
+  "reason": "model pass 2026-09-13: different meanings, waiting vs female patient"
+ },
+ "patrice": {
+  "class": "transparent",
+  "from": "патриция",
+  "reason": "model pass 2026-09-13: proper name vs common noun, not same word"
+ },
+ "paume": {
+  "class": "altered",
+  "from": "пальма",
+  "reason": "model pass 2026-09-13: palm of hand vs palm tree, unrelated meaning"
+ },
+ "phone": {
+  "class": "altered",
+  "from": "фон",
+  "reason": "model pass 2026-09-13: phone vs background, false friend"
+ },
+ "piers": {
+  "class": "transparent",
+  "from": "пирс",
+  "reason": "model pass 2026-09-13: proper name vs pier structure, unrelated"
+ },
+ "pile": {
+  "class": "transparent",
+  "from": "пить",
+  "reason": "model pass 2026-09-13: battery/stack vs to drink, unrelated"
+ },
+ "pion": {
+  "class": "transparent",
+  "from": "пион",
+  "reason": "model pass 2026-09-13: pawn/supervisor vs peony flower, unrelated"
+ },
+ "planet": {
+  "class": "altered",
+  "from": "планета",
+  "reason": "model pass 2026-09-13: not a real French word"
+ },
+ "plot": {
+  "class": "transparent",
+  "from": "плоть",
+  "reason": "model pass 2026-09-13: plot vs flesh, unrelated meaning"
+ },
+ "polo": {
+  "class": "transparent",
+  "from": "полый",
+  "reason": "model pass 2026-09-13: polo vs hollow, unrelated meaning"
+ },
+ "preste": {
+  "class": "altered",
+  "from": "просто",
+  "reason": "model pass 2026-09-23: different meanings, unrelated"
+ },
+ "pro": {
+  "class": "transparent",
+  "from": "про",
+  "reason": "model pass 2026-09-13: про means 'about', not pro"
+ },
+ "producteur": {
+  "class": "altered",
+  "from": "производитель",
+  "reason": "model pass 2026-09-13: производитель is native word, not cognate"
+ },
+ "profit": {
+  "class": "transparent",
+  "from": "прибыль",
+  "reason": "model pass 2026-09-13: прибыль is native Russian, unrelated root"
+ },
+ "préjugé": {
+  "class": "altered",
+  "from": "предубеждение",
+  "reason": "model pass 2026-09-13: предубеждение is native compound, not borrowed"
+ },
+ "pus": {
+  "class": "transparent",
+  "from": "пус",
+  "reason": "model pass 2026-09-13: пус is not a real word"
+ },
+ "quart": {
+  "class": "altered",
+  "from": "квартира",
+  "reason": "model pass 2026-09-13: квартира diverged to 'apartment', false friend"
+ },
+ "rail": {
+  "class": "altered",
+  "from": "рельс",
+  "reason": "model pass 2026-09-13: rail from English, not from рельс"
+ },
+ "ram": {
+  "class": "altered",
+  "from": "таран",
+  "reason": "model pass 2026-09-13: different meanings, not same source"
+ },
+ "ratio": {
+  "class": "altered",
+  "from": "рацион",
+  "reason": "model pass 2026-09-13: ratio vs diet, false friend"
+ },
+ "rayon": {
+  "class": "altered",
+  "from": "район",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "remontage": {
+  "class": "altered",
+  "from": "ремонт",
+  "reason": "model pass 2026-09-13: different derivational roots, meaning mismatch"
+ },
+ "resort": {
+  "class": "altered",
+  "from": "курортный",
+  "reason": "model pass 2026-09-13: unrelated words"
+ },
+ "rhinocéros": {
+  "class": "transparent",
+  "from": "носорог",
+  "reason": "model pass 2026-09-13: different source words entirely"
+ },
+ "roder": {
+  "class": "altered",
+  "from": "родиться",
+  "reason": "model pass 2026-09-13: unrelated meanings"
+ },
+ "roter": {
+  "class": "transparent",
+  "from": "рота",
+  "reason": "model pass 2026-09-13: unrelated meanings, false friend"
+ },
+ "ruban": {
+  "class": "transparent",
+  "from": "рубать",
+  "reason": "model pass 2026-09-13: unrelated meanings"
+ },
+ "ruby": {
+  "class": "transparent",
+  "from": "рубить",
+  "reason": "model pass 2026-09-13: unrelated meanings"
+ },
+ "réadaptation": {
+  "class": "altered",
+  "from": "реабилитация",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "réalisateur": {
+  "class": "transparent",
+  "from": "режиссёр",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "réalité": {
+  "class": "altered",
+  "from": "реалия",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "rénover": {
+  "class": "altered",
+  "from": "ремонтировать",
+  "reason": "model pass 2026-09-13: different source words"
+ },
+ "sainte": {
+  "class": "altered",
+  "from": "санта",
+  "reason": "model pass 2026-09-13: unrelated words"
+ },
+ "sale": {
+  "class": "transparent",
+  "from": "соль",
+  "reason": "model pass 2026-09-13: sale (dirty) unrelated to соль (salt)"
+ },
+ "sand": {
+  "class": "transparent",
+  "from": "санда",
+  "reason": "model pass 2026-09-13: санда not a real Russian word"
+ },
+ "save": {
+  "class": "transparent",
+  "from": "сейв",
+  "reason": "model pass 2026-09-13: save not standard French word"
+ },
+ "score": {
+  "class": "altered",
+  "from": "скорый",
+  "reason": "model pass 2026-09-13: score vs скорый unrelated meanings"
+ },
+ "scène": {
+  "class": "transparent",
+  "from": "цена",
+  "reason": "model pass 2026-09-13: scène vs цена unrelated meanings"
+ },
+ "serena": {
+  "class": "altered",
+  "from": "серить",
+  "reason": "model pass 2026-09-13: серить not a real word"
+ },
+ "shoot": {
+  "class": "altered",
+  "from": "шут",
+  "reason": "model pass 2026-09-13: shoot vs шут unrelated meanings"
+ },
+ "sida": {
+  "class": "altered",
+  "from": "спид",
+  "reason": "model pass 2026-09-13: different acronyms, not shared source"
+ },
+ "sky": {
+  "class": "transparent",
+  "from": "скай",
+  "reason": "model pass 2026-09-23: not a French word"
+ },
+ "smog": {
+  "class": "transparent",
+  "from": "смочь",
+  "reason": "model pass 2026-09-13: smog vs смочь unrelated meanings"
+ },
+ "steward": {
+  "class": "altered",
+  "from": "стюарт",
+  "reason": "model pass 2026-09-13: стюарт is surname Stewart, not steward"
+ },
+ "sweat": {
+  "class": "altered",
+  "from": "свита",
+  "reason": "model pass 2026-09-13: свита means retinue, unrelated"
+ },
+ "tailleur": {
+  "class": "altered",
+  "from": "тайлер",
+  "reason": "model pass 2026-09-13: тайлер is name Tyler, not tailor"
+ },
+ "tap": {
+  "class": "transparent",
+  "from": "тапа",
+  "reason": "model pass 2026-09-13: тапа not a real Russian word"
+ },
+ "tarte": {
+  "class": "altered",
+  "from": "тортик",
+  "reason": "model pass 2026-09-23: different source words, not cognate"
+ },
+ "terrer": {
+  "class": "transparent",
+  "from": "терраса",
+  "reason": "model pass 2026-09-13: terrer unrelated to терраса meaning"
+ },
+ "tesla": {
+  "class": "transparent",
+  "from": "тесло",
+  "reason": "model pass 2026-09-13: тесло means adze, unrelated word"
+ },
+ "test": {
+  "class": "transparent",
+  "from": "тесто",
+  "reason": "model pass 2026-09-13: тесто means dough, unrelated"
+ },
+ "tin": {
+  "class": "transparent",
+  "from": "тина",
+  "reason": "model pass 2026-09-13: different meanings, not same source"
+ },
+ "tome": {
+  "class": "transparent",
+  "from": "тот",
+  "reason": "model pass 2026-09-13: тот 'that' unrelated to tome"
+ },
+ "tube": {
+  "class": "altered",
+  "from": "труба",
+  "reason": "model pass 2026-09-13: труба native Slavic, different source"
+ },
+ "télécom": {
+  "class": "transparent",
+  "from": "телек",
+  "reason": "model pass 2026-09-13: телек 'TV set' vs telecom, different meaning"
+ },
+ "utilisable": {
+  "class": "altered",
+  "from": "утилизировать",
+  "reason": "model pass 2026-09-13: утилизировать means dispose, false friend"
+ },
+ "utilisation": {
+  "class": "altered",
+  "from": "утилизация",
+  "reason": "model pass 2026-09-13: утилизация means recycling, false friend"
+ },
+ "utiliser": {
+  "class": "altered",
+  "from": "утилизировать",
+  "reason": "model pass 2026-09-13: утилизировать means dispose, false friend"
+ },
+ "vacance": {
+  "class": "altered",
+  "from": "вакансия",
+  "reason": "model pass 2026-09-13: vacance 'holiday' vs вакансия 'job opening'"
+ },
+ "valence": {
+  "class": "altered",
+  "from": "валенсия",
+  "reason": "model pass 2026-09-23: mismatched referents, false friend"
+ },
+ "verge": {
+  "class": "altered",
+  "from": "верфь",
+  "reason": "model pass 2026-09-13: different meanings, not cognates"
+ },
+ "via": {
+  "class": "transparent",
+  "from": "виа",
+  "reason": "model pass 2026-09-13: виа not matching meaning"
+ },
+ "vinyle": {
+  "class": "transparent",
+  "from": "винить",
+  "reason": "model pass 2026-09-13: vinyle vs 'to blame', unrelated"
+ },
+ "vis": {
+  "class": "altered",
+  "from": "виза",
+  "reason": "model pass 2026-09-13: vis 'screw' vs viza, unrelated"
+ },
+ "ward": {
+  "class": "transparent",
+  "from": "вард",
+  "reason": "model pass 2026-09-13: ward not a French word"
+ },
+ "whisky": {
+  "class": "transparent",
+  "from": "висок",
+  "reason": "model pass 2026-09-13: whisky vs temple, unrelated"
+ },
+ "wiki": {
+  "class": "transparent",
+  "from": "вика",
+  "reason": "model pass 2026-09-13: вика means vetch, not wiki"
+ },
+ "yoga": {
+  "class": "transparent",
+  "from": "йог",
+  "reason": "model pass 2026-09-13: yoga vs yogi, different meaning"
+ },
+ "zèle": {
+  "class": "altered",
+  "from": "зело",
+  "reason": "model pass 2026-09-13: zèle vs archaic 'very', unrelated"
+ },
+ "âme": {
+  "class": "altered",
+  "from": "альма",
+  "reason": "model pass 2026-09-13: âme vs alma, unrelated word"
+ },
+ "écaille": {
+  "class": "altered",
+  "from": "скала",
+  "reason": "model pass 2026-09-13: écaille vs cliff, unrelated"
+ },
+ "éditeur": {
+  "class": "altered",
+  "from": "редактор",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "éditorial": {
+  "class": "altered",
+  "from": "редакционный",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "évident": {
+  "class": "transparent",
+  "from": "очевидный",
+  "reason": "model pass 2026-09-13: native calque, not borrowed cognate"
+ }
+}

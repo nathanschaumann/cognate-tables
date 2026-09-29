@@ -1,0 +1,542 @@
+{
+ "account": {
+  "class": "transparent",
+  "from": "account-ը",
+  "reason": "model pass 2026-09-13: English word, not Portuguese lemma"
+ },
+ "alexandria": {
+  "class": "altered",
+  "from": "ալեքսանդր",
+  "reason": "model pass 2026-09-13: Alexandria vs Alexandr, different proper names"
+ },
+ "amar": {
+  "class": "transparent",
+  "from": "ամա",
+  "reason": "model pass 2026-09-23: ամա not a real Armenian word"
+ },
+ "analytics": {
+  "class": "transparent",
+  "from": "analytics-ի",
+  "reason": "model pass 2026-09-13: English word, not Portuguese lemma"
+ },
+ "andorra": {
+  "class": "altered",
+  "from": "անդորր",
+  "reason": "model pass 2026-09-13: false friend: Armenian word means calm, not Andorra"
+ },
+ "anorak": {
+  "class": "transparent",
+  "from": "անորակ",
+  "reason": "model pass 2026-09-13: false friend: means poor quality, not anorak"
+ },
+ "anus": {
+  "class": "transparent",
+  "from": "անուս",
+  "reason": "model pass 2026-09-23: not a real Armenian word; fabricated form"
+ },
+ "apple": {
+  "class": "transparent",
+  "from": "apple-ը",
+  "reason": "model pass 2026-09-13: English word, not Portuguese lemma"
+ },
+ "argos": {
+  "class": "transparent",
+  "from": "արգո",
+  "reason": "model pass 2026-09-13: different proper names: Argos vs Argo"
+ },
+ "arte": {
+  "class": "transparent",
+  "from": "արվեստ",
+  "reason": "model pass 2026-09-13: native word, not cognate of Latin arte"
+ },
+ "arteriosclerose": {
+  "class": "altered",
+  "from": "աթերոսկլերոզ",
+  "reason": "model pass 2026-09-13: different medical terms, different roots"
+ },
+ "assador": {
+  "class": "altered",
+  "from": "ասատուր",
+  "reason": "model pass 2026-09-13: false friend: Armenian is a personal name"
+ },
+ "avo": {
+  "class": "transparent",
+  "from": "ավո",
+  "reason": "model pass 2026-09-13: unrelated meanings: fraction term vs name"
+ },
+ "balar": {
+  "class": "transparent",
+  "from": "բալլադը",
+  "reason": "model pass 2026-09-13: balar=bleat, different meaning from ballad"
+ },
+ "bambu": {
+  "class": "altered",
+  "from": "բամբակ",
+  "reason": "model pass 2026-09-13: bamboo vs cotton, unrelated meaning"
+ },
+ "banal": {
+  "class": "transparent",
+  "from": "բան",
+  "reason": "model pass 2026-09-13: banal vs 'thing', unrelated meaning"
+ },
+ "bandar": {
+  "class": "transparent",
+  "from": "բան",
+  "reason": "model pass 2026-09-13: not a real Portuguese word"
+ },
+ "belo": {
+  "class": "altered",
+  "from": "բելլա",
+  "reason": "model pass 2026-09-23: belo vs Bella, unrelated meaning/name"
+ },
+ "bernal": {
+  "class": "transparent",
+  "from": "բեռնել",
+  "reason": "model pass 2026-09-13: bernal not related to 'load'"
+ },
+ "bruto": {
+  "class": "altered",
+  "from": "բրուտ",
+  "reason": "model pass 2026-09-23: bruto vs potter, unrelated meaning"
+ },
+ "bárbaro": {
+  "class": "transparent",
+  "from": "բարբարա",
+  "reason": "model pass 2026-09-13: barbarian vs proper name Barbara"
+ },
+ "bônus": {
+  "class": "altered",
+  "from": "բոնդ",
+  "reason": "model pass 2026-09-13: bonus vs bond, unrelated meaning"
+ },
+ "cartaz": {
+  "class": "altered",
+  "from": "քարտեզ",
+  "reason": "model pass 2026-09-13: poster vs map, unrelated meaning"
+ },
+ "caçar": {
+  "class": "altered",
+  "from": "կազա",
+  "reason": "model pass 2026-09-13: caçar vs kaza, unrelated meaning"
+ },
+ "clã": {
+  "class": "transparent",
+  "from": "կլանել",
+  "reason": "model pass 2026-09-13: clã (clan) vs կլանել (to absorb) unrelated"
+ },
+ "colômbio": {
+  "class": "altered",
+  "from": "կոլումբիա",
+  "reason": "model pass 2026-09-23: colombio (element) vs Colombia (country)"
+ },
+ "comer": {
+  "class": "transparent",
+  "from": "կոմա",
+  "reason": "model pass 2026-09-13: comer (eat) vs կոմա (coma) unrelated"
+ },
+ "concentração": {
+  "class": "altered",
+  "from": "կենտրոնացում",
+  "reason": "model pass 2026-09-13: native Armenian compound, not borrowed cognate"
+ },
+ "concha": {
+  "class": "transparent",
+  "from": "կոնչիտա",
+  "reason": "model pass 2026-09-13: concha (shell) vs Conchita (name) mismatch"
+ },
+ "contexto": {
+  "class": "altered",
+  "from": "համատեքստ",
+  "reason": "model pass 2026-09-13: native Armenian compound, not borrowed cognate"
+ },
+ "coral": {
+  "class": "transparent",
+  "from": "կոր",
+  "reason": "model pass 2026-09-13: coral vs կոր (curve) unrelated meaning"
+ },
+ "coroar": {
+  "class": "altered",
+  "from": "կրոն",
+  "reason": "model pass 2026-09-13: coroar (crown) vs կրոն (religion) unrelated"
+ },
+ "corretar": {
+  "class": "transparent",
+  "from": "կոռեկտ",
+  "reason": "model pass 2026-09-13: corretar not a real Portuguese word"
+ },
+ "costa": {
+  "class": "transparent",
+  "from": "կոստա",
+  "reason": "model pass 2026-09-23: costa (coast) vs Kosta (name), unclear source"
+ },
+ "cubar": {
+  "class": "transparent",
+  "from": "կուբա",
+  "reason": "model pass 2026-09-13: cubar not a real Portuguese word"
+ },
+ "césar": {
+  "class": "altered",
+  "from": "կայսր",
+  "reason": "model pass 2026-09-13: proper name vs common noun mismatch"
+ },
+ "diretor": {
+  "class": "transparent",
+  "from": "դիրիժոր",
+  "reason": "model pass 2026-09-13: diretor (director) vs conductor false friend"
+ },
+ "doador": {
+  "class": "altered",
+  "from": "դոնոր",
+  "reason": "model pass 2026-09-13: native derivation, not shared source word"
+ },
+ "dublin": {
+  "class": "transparent",
+  "from": "դուբլ",
+  "reason": "model pass 2026-09-13: Dublin vs 'dubl' (dub/double), unrelated"
+ },
+ "débil": {
+  "class": "transparent",
+  "from": "դեբիլ",
+  "reason": "model pass 2026-09-23: débil vs slur, meaning drifted"
+ },
+ "estabelecer": {
+  "class": "transparent",
+  "from": "հաստատել",
+  "reason": "model pass 2026-09-13: native Armenian word, not borrowing/cognate"
+ },
+ "filial": {
+  "class": "altered",
+  "from": "ֆայլային",
+  "reason": "model pass 2026-09-13: filial vs file-related, unrelated meaning"
+ },
+ "guardar": {
+  "class": "altered",
+  "from": "գվարդիա",
+  "reason": "model pass 2026-09-13: guardar (keep) vs gvardia (guard) meaning mismatch"
+ },
+ "hindu": {
+  "class": "altered",
+  "from": "հնդիկ",
+  "reason": "model pass 2026-09-13: hindu (Hindu) vs հնդիկ (Indian) false friend"
+ },
+ "html": {
+  "class": "transparent",
+  "from": "html-ը",
+  "reason": "model pass 2026-09-13: html not a real lemma/word"
+ },
+ "imã": {
+  "class": "altered",
+  "from": "իմամ",
+  "reason": "model pass 2026-09-13: imã (magnet) vs imam meaning mismatch"
+ },
+ "inca": {
+  "class": "altered",
+  "from": "ինկ",
+  "reason": "model pass 2026-09-13: ինկ not a real word/fragment"
+ },
+ "interior": {
+  "class": "altered",
+  "from": "ինտեր",
+  "reason": "model pass 2026-09-13: interior vs inter meaning mismatch"
+ },
+ "julho": {
+  "class": "altered",
+  "from": "հուլիոս",
+  "reason": "model pass 2026-09-23: julho (month) vs Julius (name), different"
+ },
+ "lavar": {
+  "class": "transparent",
+  "from": "լավ",
+  "reason": "model pass 2026-09-13: lavar (wash) unrelated to Armenian 'good'"
+ },
+ "laço": {
+  "class": "altered",
+  "from": "օղակ",
+  "reason": "model pass 2026-09-13: different words, no shared source"
+ },
+ "leão": {
+  "class": "altered",
+  "from": "լիոն",
+  "reason": "model pass 2026-09-13: leão (lion) vs Lyon place name"
+ },
+ "ligar": {
+  "class": "transparent",
+  "from": "լիգա",
+  "reason": "model pass 2026-09-13: ligar (connect) vs liga (league), unrelated"
+ },
+ "lindar": {
+  "class": "transparent",
+  "from": "լինդա",
+  "reason": "model pass 2026-09-23: lindar (border) vs Linda (name), unrelated"
+ },
+ "linho": {
+  "class": "altered",
+  "from": "լին",
+  "reason": "model pass 2026-09-13: linho vs fragment, no shared source"
+ },
+ "líder": {
+  "class": "transparent",
+  "from": "լի",
+  "reason": "model pass 2026-09-13: líder (leader) vs լի (full), unrelated"
+ },
+ "maca": {
+  "class": "altered",
+  "from": "մակ",
+  "reason": "model pass 2026-09-13: maca vs unclear root, no shared source"
+ },
+ "maltar": {
+  "class": "transparent",
+  "from": "մալթա",
+  "reason": "model pass 2026-09-13: maltar not a real word"
+ },
+ "mamãe": {
+  "class": "altered",
+  "from": "մայել",
+  "reason": "model pass 2026-09-13: mamãe vs non-matching Armenian form"
+ },
+ "mar": {
+  "class": "transparent",
+  "from": "մար",
+  "reason": "model pass 2026-09-13: mar vs unrelated fragment"
+ },
+ "marcar": {
+  "class": "transparent",
+  "from": "marca-նոճի",
+  "reason": "model pass 2026-09-13: mashed-up donor form, not a word"
+ },
+ "marinar": {
+  "class": "transparent",
+  "from": "մարինա",
+  "reason": "model pass 2026-09-23: different meanings: marinate vs marina, not cognate"
+ },
+ "marinhar": {
+  "class": "altered",
+  "from": "մարինա",
+  "reason": "model pass 2026-09-13: marinhar not real verb, meaning mismatch"
+ },
+ "medicinar": {
+  "class": "transparent",
+  "from": "medicine-ի",
+  "reason": "model pass 2026-09-13: medicinar not a real Portuguese word"
+ },
+ "meter": {
+  "class": "transparent",
+  "from": "մետ",
+  "reason": "model pass 2026-09-13: donor is a fragment, not real word"
+ },
+ "metropolita": {
+  "class": "altered",
+  "from": "մետրոպոլիտեն",
+  "reason": "model pass 2026-09-23: metropolitan bishop vs subway, different meanings"
+ },
+ "mural": {
+  "class": "transparent",
+  "from": "մուր",
+  "reason": "model pass 2026-09-23: mural vs soot, unrelated meanings"
+ },
+ "máximo": {
+  "class": "altered",
+  "from": "մաքսիմ",
+  "reason": "model pass 2026-09-13: máximo vs Maxim (name) - different meaning"
+ },
+ "médio": {
+  "class": "transparent",
+  "from": "մեդիա",
+  "reason": "model pass 2026-09-13: médio (average) vs media - different meaning"
+ },
+ "oliva": {
+  "class": "altered",
+  "from": "օլիվեր",
+  "reason": "model pass 2026-09-13: oliva (olive) vs Oliver (name)"
+ },
+ "osso": {
+  "class": "altered",
+  "from": "օս",
+  "reason": "model pass 2026-09-13: donor is a fragment, not real word"
+ },
+ "papar": {
+  "class": "transparent",
+  "from": "պապ",
+  "reason": "model pass 2026-09-23: eat vs pope/grandfather, unrelated meanings"
+ },
+ "par": {
+  "class": "transparent",
+  "from": "պար",
+  "reason": "model pass 2026-09-23: pair vs dance, unrelated meanings"
+ },
+ "parir": {
+  "class": "transparent",
+  "from": "փարիզ",
+  "reason": "model pass 2026-09-13: parir (give birth) vs Paris, unrelated"
+ },
+ "partir": {
+  "class": "altered",
+  "from": "պարտիա",
+  "reason": "model pass 2026-09-13: different source: partir vs party"
+ },
+ "patrão": {
+  "class": "transparent",
+  "from": "պատրոն",
+  "reason": "model pass 2026-09-23: boss vs cartridge, different meanings"
+ },
+ "pedrar": {
+  "class": "altered",
+  "from": "պետրոս",
+  "reason": "model pass 2026-09-13: pedrar not a real word"
+ },
+ "pescar": {
+  "class": "altered",
+  "from": "ձկնորս",
+  "reason": "model pass 2026-09-13: different source: pescar vs fisherman word"
+ },
+ "portal": {
+  "class": "transparent",
+  "from": "պորտ",
+  "reason": "model pass 2026-09-13: portal vs port, unrelated meaning"
+ },
+ "pão": {
+  "class": "altered",
+  "from": "պան",
+  "reason": "model pass 2026-09-13: unclear/unrelated Armenian form"
+ },
+ "pólo": {
+  "class": "transparent",
+  "from": "փոլ",
+  "reason": "model pass 2026-09-13: pólo (pole) vs Paul name"
+ },
+ "rayon": {
+  "class": "transparent",
+  "from": "ռայոն",
+  "reason": "model pass 2026-09-23: rayon fabric vs district, unrelated meanings"
+ },
+ "raça": {
+  "class": "transparent",
+  "from": "ռա",
+  "reason": "model pass 2026-09-13: fragment, not a real cognate"
+ },
+ "rei": {
+  "class": "altered",
+  "from": "ռեյ",
+  "reason": "model pass 2026-09-13: rei (king) vs Ray name"
+ },
+ "retinir": {
+  "class": "altered",
+  "from": "ռետինե",
+  "reason": "model pass 2026-09-13: retinir vs rubber, unrelated"
+ },
+ "retirar": {
+  "class": "altered",
+  "from": "հեռավոր",
+  "reason": "model pass 2026-09-13: retirar vs distant, unrelated"
+ },
+ "rir": {
+  "class": "transparent",
+  "from": "ռիո",
+  "reason": "model pass 2026-09-13: rir (laugh) vs Rio place name"
+ },
+ "ruir": {
+  "class": "transparent",
+  "from": "ռուի",
+  "reason": "model pass 2026-09-13: donor word unrelated/unclear source"
+ },
+ "selo": {
+  "class": "altered",
+  "from": "սել",
+  "reason": "model pass 2026-09-13: donor fragment, not real word"
+ },
+ "seminal": {
+  "class": "altered",
+  "from": "սեմական",
+  "reason": "model pass 2026-09-13: means Semitic, false friend"
+ },
+ "sofá": {
+  "class": "altered",
+  "from": "սոֆի",
+  "reason": "model pass 2026-09-13: donor likely name Sophie, mismatch"
+ },
+ "sport": {
+  "class": "transparent",
+  "from": "sport-ի",
+  "reason": "model pass 2026-09-13: donor mixed script, not real lemma"
+ },
+ "sudão": {
+  "class": "altered",
+  "from": "սու",
+  "reason": "model pass 2026-09-13: donor truncated fragment"
+ },
+ "sódio": {
+  "class": "altered",
+  "from": "սոցիումի",
+  "reason": "model pass 2026-09-23: sodium vs 'socium/society', different meanings"
+ },
+ "telegrafia": {
+  "class": "altered",
+  "from": "telegraph-ը",
+  "reason": "model pass 2026-09-13: donor is code-switched, not real word"
+ },
+ "temer": {
+  "class": "transparent",
+  "from": "թեմա",
+  "reason": "model pass 2026-09-13: different roots: fear vs theme"
+ },
+ "tenente": {
+  "class": "altered",
+  "from": "լեյտենանտ",
+  "reason": "model pass 2026-09-13: different source words for lieutenant"
+ },
+ "ter": {
+  "class": "altered",
+  "from": "տերմին",
+  "reason": "model pass 2026-09-13: false friend: have vs term"
+ },
+ "teseu": {
+  "class": "altered",
+  "from": "տևեսի",
+  "reason": "model pass 2026-09-13: donor spelling unclear/unverifiable match"
+ },
+ "torto": {
+  "class": "altered",
+  "from": "տորթ",
+  "reason": "model pass 2026-09-23: crooked vs cake, unrelated meanings"
+ },
+ "tribuna": {
+  "class": "transparent",
+  "from": "տրիբունալ",
+  "reason": "model pass 2026-09-13: tribuna vs tribunal, different meanings"
+ },
+ "ural": {
+  "class": "transparent",
+  "from": "ուր",
+  "reason": "model pass 2026-09-13: Armenian word means 'where', unrelated"
+ },
+ "urânio": {
+  "class": "altered",
+  "from": "ուր",
+  "reason": "model pass 2026-09-13: Armenian word means 'where', not uranium"
+ },
+ "varsóvia": {
+  "class": "altered",
+  "from": "վարսավիր",
+  "reason": "model pass 2026-09-13: Armenian word means 'barber', not Warsaw"
+ },
+ "venera": {
+  "class": "transparent",
+  "from": "վեներա",
+  "reason": "model pass 2026-09-23: shell/scallop vs Venus, unrelated meanings"
+ },
+ "vero": {
+  "class": "transparent",
+  "from": "վերա",
+  "reason": "model pass 2026-09-13: donor is name Vera, unrelated meaning"
+ },
+ "vinho": {
+  "class": "transparent",
+  "from": "գին",
+  "reason": "model pass 2026-09-13: Armenian word means 'price', not wine"
+ },
+ "ímã": {
+  "class": "altered",
+  "from": "մագնիս",
+  "reason": "model pass 2026-09-23: words don't share a common source spelling"
+ }
+}

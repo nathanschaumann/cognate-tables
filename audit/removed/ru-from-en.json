@@ -1,0 +1,467 @@
+{
+ "аккаунт": {
+  "class": "altered",
+  "from": "accountant",
+  "reason": "model pass 2026-09-13: account vs accountant, meaning mismatch"
+ },
+ "александр": {
+  "class": "altered",
+  "from": "aleksandar",
+  "reason": "model pass 2026-09-13: aleksandar not standard English form"
+ },
+ "алмаз": {
+  "class": "altered",
+  "from": "adamant",
+  "reason": "model pass 2026-09-13: алмаз from Turkic, not adamant"
+ },
+ "алый": {
+  "class": "transparent",
+  "from": "ala",
+  "reason": "native \"scarlet\"; ala is \"wing\""
+ },
+ "альбом": {
+  "class": "transparent",
+  "from": "album's",
+  "reason": "model pass 2026-09-13: album's not a lemma"
+ },
+ "амбулатория": {
+  "class": "altered",
+  "from": "ambulance",
+  "reason": "model pass 2026-09-13: different meanings: clinic vs vehicle"
+ },
+ "ата": {
+  "class": "transparent",
+  "from": "atom",
+  "reason": "model pass 2026-09-13: fragment, not a real word"
+ },
+ "баба": {
+  "class": "transparent",
+  "from": "baba",
+  "reason": "native \"old woman\"; baba is a rum cake in both donors"
+ },
+ "бить": {
+  "class": "transparent",
+  "from": "bey",
+  "reason": "native \"to hit\"; bey is an Ottoman title"
+ },
+ "бляшка": {
+  "class": "altered",
+  "from": "plaque",
+  "reason": "model pass 2026-09-13: native word, not borrowed from English plaque"
+ },
+ "брат": {
+  "class": "transparent",
+  "from": "brat",
+  "reason": "native \"brother\"; brat is a spoiled child"
+ },
+ "брейк": {
+  "class": "transparent",
+  "from": "brake",
+  "reason": "the dance/break; brake is a vehicle brake"
+ },
+ "бусы": {
+  "class": "transparent",
+  "from": "bus",
+  "reason": "model pass 2026-09-13: false friend, unrelated meaning (beads)"
+ },
+ "винить": {
+  "class": "transparent",
+  "from": "vinyl",
+  "reason": "native \"to blame\"; vinyl is the plastic"
+ },
+ "висок": {
+  "class": "transparent",
+  "from": "whiskey",
+  "reason": "model pass 2026-09-13: false friend, unrelated meaning (temple)"
+ },
+ "вист": {
+  "class": "transparent",
+  "from": "vista",
+  "reason": "model pass 2026-09-13: different source, card game vs view"
+ },
+ "вокс": {
+  "class": "transparent",
+  "from": "vox",
+  "reason": "model pass 2026-09-13: not a standalone Russian lemma"
+ },
+ "гениальный": {
+  "class": "altered",
+  "from": "genial",
+  "reason": "model pass 2026-09-13: false friend: genial≠genius-like"
+ },
+ "град": {
+  "class": "altered",
+  "from": "grad",
+  "reason": "model pass 2026-09-13: град means hail, unrelated to grad"
+ },
+ "дезинформация": {
+  "class": "altered",
+  "from": "misinformation",
+  "reason": "model pass 2026-09-13: wrong donor, actual source is disinformation"
+ },
+ "добровольный": {
+  "class": "altered",
+  "from": "voluntary",
+  "reason": "model pass 2026-09-13: native Russian word, not borrowed from English 'voluntary'"
+ },
+ "дом": {
+  "class": "transparent",
+  "from": "dom",
+  "reason": "native \"house\"; dôme is a dome"
+ },
+ "зарина": {
+  "class": "transparent",
+  "from": "sarin",
+  "reason": "model pass 2026-09-13: different meaning, not same word (name)"
+ },
+ "ион": {
+  "class": "altered",
+  "from": "jonah",
+  "reason": "model pass 2026-09-13: ion vs Jonah, different words"
+ },
+ "каза": {
+  "class": "altered",
+  "from": "casa",
+  "reason": "not a Russian lemma; casa is a house"
+ },
+ "квота": {
+  "class": "altered",
+  "from": "quote",
+  "reason": "model pass 2026-09-13: quota vs quote, different meaning"
+ },
+ "кой": {
+  "class": "transparent",
+  "from": "koi",
+  "reason": "an archaic pronoun \"which\"; koi is the fish"
+ },
+ "конденсатор": {
+  "class": "transparent",
+  "from": "capacitor",
+  "reason": "model pass 2026-09-13: конденсатор cognates with 'condenser', not 'capacitor'"
+ },
+ "криптон": {
+  "class": "transparent",
+  "from": "kryptonite",
+  "reason": "model pass 2026-09-13: krypton element vs kryptonite fictional substance, different meanings"
+ },
+ "купа": {
+  "class": "transparent",
+  "from": "coupe",
+  "reason": "native \"clump of trees\"; coupe is a car or glass"
+ },
+ "лазарь": {
+  "class": "transparent",
+  "from": "lazar",
+  "reason": "model pass 2026-09-13: лазарь is name Lazarus, unrelated meaning to lazar/leper"
+ },
+ "левый": {
+  "class": "transparent",
+  "from": "lev",
+  "reason": "native \"left\"; león is \"lion\""
+ },
+ "лимб": {
+  "class": "altered",
+  "from": "limbo",
+  "reason": "model pass 2026-09-13: лимб means limb (astronomy), not limbo"
+ },
+ "лоб": {
+  "class": "altered",
+  "from": "lobe",
+  "reason": "native \"forehead\"; lobe is an anatomical lobe"
+ },
+ "мак": {
+  "class": "transparent",
+  "from": "mak",
+  "reason": "native \"poppy\"; mak is not an English word"
+ },
+ "маршрут": {
+  "class": "transparent",
+  "from": "route",
+  "reason": "\"route\" from German Marschroute; only half the word matches"
+ },
+ "метить": {
+  "class": "transparent",
+  "from": "methyl",
+  "reason": "native \"to mark\"; methyl is the chemical group"
+ },
+ "минный": {
+  "class": "altered",
+  "from": "mina",
+  "reason": "native \"mine, of mines\"; mina is not an English word"
+ },
+ "минуть": {
+  "class": "transparent",
+  "from": "mini",
+  "reason": "native \"to pass by\"; the minute words are a different root"
+ },
+ "нева": {
+  "class": "transparent",
+  "from": "neva",
+  "reason": "the river Neva; neva is not an English word"
+ },
+ "неизбежный": {
+  "class": "altered",
+  "from": "inevitably",
+  "reason": "model pass 2026-09-13: native Russian formation, not English cognate"
+ },
+ "ненормальный": {
+  "class": "transparent",
+  "from": "abnormal",
+  "reason": "model pass 2026-09-13: native prefix formation, not borrowed compound"
+ },
+ "непопулярный": {
+  "class": "transparent",
+  "from": "unpopular",
+  "reason": "model pass 2026-09-13: native prefix formation, not borrowed compound"
+ },
+ "новый": {
+  "class": "transparent",
+  "from": "nova",
+  "reason": "native \"new\"; the donor lemma is the astronomy term nova"
+ },
+ "носорог": {
+  "class": "altered",
+  "from": "rhinoceros",
+  "reason": "native compound \"rhinoceros\"; the donors are translations"
+ },
+ "ну": {
+  "class": "transparent",
+  "from": "nu",
+  "reason": "the particle \"well\"; nu is unrelated"
+ },
+ "орк": {
+  "class": "transparent",
+  "from": "orca",
+  "reason": "model pass 2026-09-13: orc (creature) vs orca (whale) unrelated meanings"
+ },
+ "очевидный": {
+  "class": "altered",
+  "from": "evident",
+  "reason": "native \"obvious\"; evident is a translation"
+ },
+ "педагог": {
+  "class": "altered",
+  "from": "educator",
+  "reason": "model pass 2026-09-13: педагог from Greek pedagogue, not English educator"
+ },
+ "перо": {
+  "class": "transparent",
+  "from": "peru",
+  "reason": "native \"feather, pen\"; Peru is the country"
+ },
+ "персонал": {
+  "class": "transparent",
+  "from": "personality",
+  "reason": "model pass 2026-09-13: персонал means staff, not personality"
+ },
+ "петь": {
+  "class": "transparent",
+  "from": "peta",
+  "reason": "model pass 2026-09-13: петь means to sing, unrelated to peta"
+ },
+ "полить": {
+  "class": "altered",
+  "from": "polite",
+  "reason": "model pass 2026-09-13: полить means to water, false friend"
+ },
+ "полуфинал": {
+  "class": "altered",
+  "from": "semifinal",
+  "reason": "model pass 2026-09-13: полуфинал is calque, not borrowed from semifinal"
+ },
+ "полый": {
+  "class": "transparent",
+  "from": "polo",
+  "reason": "native \"hollow\"; polo is the sport or shirt"
+ },
+ "поршень": {
+  "class": "transparent",
+  "from": "piston",
+  "reason": "native \"piston\"; piston is a translation"
+ },
+ "пра": {
+  "class": "altered",
+  "from": "pre",
+  "reason": "model pass 2026-09-13: пра is native prefix, not from pre"
+ },
+ "представитель": {
+  "class": "altered",
+  "from": "representative",
+  "reason": "native \"representative\"; the donor is a translation"
+ },
+ "презент": {
+  "class": "transparent",
+  "from": "presenter",
+  "reason": "model pass 2026-09-13: презент means gift, not presenter"
+ },
+ "пром": {
+  "class": "transparent",
+  "from": "prom",
+  "reason": "an industrial abbreviation; prom is a school dance"
+ },
+ "радж": {
+  "class": "altered",
+  "from": "rajah",
+  "reason": "model pass 2026-09-13: different meanings: raj vs rajah"
+ },
+ "радиус": {
+  "class": "altered",
+  "from": "radiance",
+  "reason": "\"radius\"; radiance and rayon are different words"
+ },
+ "район": {
+  "class": "altered",
+  "from": "rayon",
+  "reason": "model pass 2026-09-13: район means district, unrelated to rayon fabric"
+ },
+ "рамный": {
+  "class": "transparent",
+  "from": "ramen",
+  "reason": "model pass 2026-09-13: рамный relates to frame, not ramen"
+ },
+ "рифт": {
+  "class": "transparent",
+  "from": "drift",
+  "reason": "model pass 2026-09-13: different words: rift vs drift"
+ },
+ "саша": {
+  "class": "altered",
+  "from": "sash",
+  "reason": "model pass 2026-09-13: native Russian name, not from sash"
+ },
+ "серить": {
+  "class": "altered",
+  "from": "serene",
+  "reason": "model pass 2026-09-13: not a real word, meaning mismatch"
+ },
+ "сетевой": {
+  "class": "altered",
+  "from": "network's",
+  "reason": "model pass 2026-09-13: native derivative of сеть, not borrowed"
+ },
+ "смертельный": {
+  "class": "altered",
+  "from": "mortally",
+  "reason": "native \"deadly\"; mortally is a translation"
+ },
+ "союз": {
+  "class": "altered",
+  "from": "soyuz",
+  "reason": "model pass 2026-09-13: proper name vs common noun mismatch"
+ },
+ "стопа": {
+  "class": "transparent",
+  "from": "stop",
+  "reason": "native \"foot\"; stop is the loanword"
+ },
+ "сушить": {
+  "class": "transparent",
+  "from": "sushi",
+  "reason": "native \"to dry\"; sushi is the food"
+ },
+ "таинственный": {
+  "class": "transparent",
+  "from": "mysterious",
+  "reason": "native \"mysterious\"; mysterious is a translation"
+ },
+ "тот": {
+  "class": "transparent",
+  "from": "tome",
+  "reason": "native \"that\"; tomo/tome is a volume"
+ },
+ "тран": {
+  "class": "altered",
+  "from": "train",
+  "reason": "model pass 2026-09-13: not real word/fragment"
+ },
+ "транс": {
+  "class": "altered",
+  "from": "entrance",
+  "reason": "\"trance\"; entrance and tranzar are different words"
+ },
+ "тролль": {
+  "class": "transparent",
+  "from": "trolley",
+  "reason": "model pass 2026-09-13: troll vs trolley, false friend"
+ },
+ "тула": {
+  "class": "altered",
+  "from": "thule",
+  "reason": "model pass 2026-09-13: different proper names, Tula vs Thule"
+ },
+ "урд": {
+  "class": "transparent",
+  "from": "urdu",
+  "reason": "model pass 2026-09-13: not a real word, fragment"
+ },
+ "фидель": {
+  "class": "transparent",
+  "from": "fidelity",
+  "reason": "model pass 2026-09-13: proper name vs unrelated common noun"
+ },
+ "фосс": {
+  "class": "transparent",
+  "from": "fossa",
+  "reason": "model pass 2026-09-13: not a standard Russian word"
+ },
+ "хадж": {
+  "class": "transparent",
+  "from": "haji",
+  "reason": "model pass 2026-09-13: different meanings: pilgrimage vs pilgrim person"
+ },
+ "хаус": {
+  "class": "transparent",
+  "from": "haus",
+  "reason": "the music genre house; haus is German, not English"
+ },
+ "хромой": {
+  "class": "transparent",
+  "from": "chrome",
+  "reason": "native \"lame\"; chrome is the metal"
+ },
+ "цена": {
+  "class": "transparent",
+  "from": "cena",
+  "reason": "native \"price\"; scène is a scene"
+ },
+ "чара": {
+  "class": "transparent",
+  "from": "chara",
+  "reason": "native \"goblet, charm\"; Chara is a genus of algae"
+ },
+ "частица": {
+  "class": "altered",
+  "from": "particle",
+  "reason": "native \"particle\"; particle is a translation"
+ },
+ "шалый": {
+  "class": "transparent",
+  "from": "chalet",
+  "reason": "model pass 2026-09-13: native Russian word unrelated to chalet"
+ },
+ "шиллинг": {
+  "class": "transparent",
+  "from": "shill",
+  "reason": "model pass 2026-09-13: shilling vs shill, different words"
+ },
+ "шпиль": {
+  "class": "altered",
+  "from": "spiel",
+  "reason": "model pass 2026-09-13: spire vs speech, different German roots"
+ },
+ "шприц": {
+  "class": "altered",
+  "from": "syringe",
+  "reason": "model pass 2026-09-13: German Spritze vs Greek syrinx, different source"
+ },
+ "экспозиция": {
+  "class": "altered",
+  "from": "expose",
+  "reason": "model pass 2026-09-13: different meaning: exhibition vs reveal"
+ },
+ "юбилейный": {
+  "class": "transparent",
+  "from": "jubilant",
+  "reason": "model pass 2026-09-13: different meanings: jubilee vs jubilant"
+ }
+}

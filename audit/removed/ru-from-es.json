@@ -1,0 +1,1247 @@
+{
+ "автопоезд": {
+  "class": "altered",
+  "from": "autopista",
+  "reason": "native compound \"road train\"; autopista is a motorway"
+ },
+ "аккаунт": {
+  "class": "transparent",
+  "from": "account",
+  "reason": "model pass 2026-09-13: donor 'account' is English, not Spanish"
+ },
+ "ала": {
+  "class": "transparent",
+  "from": "ala",
+  "reason": "model pass 2026-09-23: ала not a real word"
+ },
+ "алма": {
+  "class": "transparent",
+  "from": "alma",
+  "reason": "Alma-Ata or a name; alma is \"soul\""
+ },
+ "алый": {
+  "class": "transparent",
+  "from": "ala",
+  "reason": "native \"scarlet\"; ala is \"wing\""
+ },
+ "альма": {
+  "class": "transparent",
+  "from": "alma",
+  "reason": "a personal name; alma/âme is \"soul\""
+ },
+ "амбулатория": {
+  "class": "altered",
+  "from": "ambulancia",
+  "reason": "model pass 2026-09-13: ambulatory/clinic vs ambulance, false friend"
+ },
+ "андре": {
+  "class": "altered",
+  "from": "andrés",
+  "reason": "model pass 2026-09-13: different proper names (André vs Andrés)"
+ },
+ "аниме": {
+  "class": "transparent",
+  "from": "animar",
+  "reason": "the animation style anime; animar is \"to animate\""
+ },
+ "антон": {
+  "class": "altered",
+  "from": "antonia",
+  "reason": "model pass 2026-09-13: different proper names (Anton vs Antonia)"
+ },
+ "аппаратный": {
+  "class": "altered",
+  "from": "aparatoso",
+  "reason": "model pass 2026-09-13: meaning mismatch, false friend"
+ },
+ "арка": {
+  "class": "transparent",
+  "from": "arca",
+  "reason": "\"arch\"; arca is a chest or ark"
+ },
+ "арма": {
+  "class": "transparent",
+  "from": "arma",
+  "reason": "not a Russian lemma; arma is \"weapon\""
+ },
+ "аут": {
+  "class": "transparent",
+  "from": "out",
+  "reason": "model pass 2026-09-13: donor is English, not Spanish"
+ },
+ "бампер": {
+  "class": "altered",
+  "from": "bumper",
+  "reason": "model pass 2026-09-13: donor is English, not Spanish"
+ },
+ "баннер": {
+  "class": "transparent",
+  "from": "banner",
+  "reason": "model pass 2026-09-13: donor is English, not Spanish"
+ },
+ "барин": {
+  "class": "transparent",
+  "from": "bar",
+  "reason": "native \"gentleman, master\"; bar is a drinking place"
+ },
+ "бат": {
+  "class": "transparent",
+  "from": "bat",
+  "reason": "model pass 2026-09-13: donor is English, not Spanish"
+ },
+ "белла": {
+  "class": "transparent",
+  "from": "bello",
+  "reason": "model pass 2026-09-23: different meaning, name vs adjective"
+ },
+ "бессонница": {
+  "class": "altered",
+  "from": "insomnio",
+  "reason": "model pass 2026-09-23: native Russian word, not borrowed"
+ },
+ "билборд": {
+  "class": "transparent",
+  "from": "billboard",
+  "reason": "model pass 2026-09-13: donor is English, not Spanish"
+ },
+ "билл": {
+  "class": "transparent",
+  "from": "bill",
+  "reason": "model pass 2026-09-13: donor is English, not Spanish"
+ },
+ "билла": {
+  "class": "altered",
+  "from": "villa",
+  "reason": "the name Bill; villa is a house"
+ },
+ "билль": {
+  "class": "altered",
+  "from": "billete",
+  "reason": "\"bill\" of law; billete is a ticket or banknote"
+ },
+ "бин": {
+  "class": "transparent",
+  "from": "bin",
+  "reason": "model pass 2026-09-13: donor is English, not Spanish"
+ },
+ "болеть": {
+  "class": "transparent",
+  "from": "doler",
+  "reason": "native \"to be ill\"; doler is a translation"
+ },
+ "бренд": {
+  "class": "transparent",
+  "from": "brand",
+  "reason": "brand is not a Spanish word"
+ },
+ "брэд": {
+  "class": "transparent",
+  "from": "brad",
+  "reason": "model pass 2026-09-23: brad not a Spanish word"
+ },
+ "буйный": {
+  "class": "altered",
+  "from": "bueno",
+  "reason": "model pass 2026-09-13: false friend, unrelated meaning"
+ },
+ "валерий": {
+  "class": "altered",
+  "from": "valeriana",
+  "reason": "model pass 2026-09-13: name vs plant, unrelated meaning"
+ },
+ "венок": {
+  "class": "altered",
+  "from": "vena",
+  "reason": "native \"wreath\"; vena is \"vein\""
+ },
+ "виг": {
+  "class": "transparent",
+  "from": "viga",
+  "reason": "the Whig party; viga is a beam"
+ },
+ "вика": {
+  "class": "transparent",
+  "from": "wiki",
+  "reason": "a personal name or the vetch plant; wiki is unrelated"
+ },
+ "винить": {
+  "class": "transparent",
+  "from": "vinilo",
+  "reason": "native \"to blame\"; vinyl is the plastic"
+ },
+ "винт": {
+  "class": "altered",
+  "from": "vinto",
+  "reason": "\"screw\"; vinto is not a Spanish word"
+ },
+ "висок": {
+  "class": "altered",
+  "from": "whisky",
+  "reason": "model pass 2026-09-13: false friend, unrelated meaning"
+ },
+ "вица": {
+  "class": "transparent",
+  "from": "vice",
+  "reason": "model pass 2026-09-13: вица not real cognate of vice"
+ },
+ "вия": {
+  "class": "transparent",
+  "from": "vía",
+  "reason": "model pass 2026-09-13: вия not a real Russian word"
+ },
+ "влагалище": {
+  "class": "altered",
+  "from": "vagina",
+  "reason": "model pass 2026-09-13: native word, different etymology than vagina"
+ },
+ "воз": {
+  "class": "transparent",
+  "from": "voz",
+  "reason": "native \"cart\"; voz is \"voice\""
+ },
+ "вокс": {
+  "class": "transparent",
+  "from": "vox",
+  "reason": "model pass 2026-09-13: вокс not a real Russian word"
+ },
+ "гана": {
+  "class": "transparent",
+  "from": "gana",
+  "reason": "model pass 2026-09-23: gana means desire, not Ghana"
+ },
+ "гвинея": {
+  "class": "transparent",
+  "from": "guineo",
+  "reason": "model pass 2026-09-23: guineo means banana, not Guinea"
+ },
+ "гильдия": {
+  "class": "altered",
+  "from": "gilda",
+  "reason": "model pass 2026-09-13: гильдия unrelated to Spanish gilda"
+ },
+ "гиро": {
+  "class": "transparent",
+  "from": "giro",
+  "reason": "model pass 2026-09-13: different meanings, unrelated source"
+ },
+ "голый": {
+  "class": "transparent",
+  "from": "gol",
+  "reason": "native \"naked\"; gol is a sports goal"
+ },
+ "град": {
+  "class": "altered",
+  "from": "grado",
+  "reason": "model pass 2026-09-13: град means hail, false friend"
+ },
+ "грей": {
+  "class": "transparent",
+  "from": "grey",
+  "reason": "model pass 2026-09-23: grey false friend, different meaning"
+ },
+ "гриф": {
+  "class": "altered",
+  "from": "grifo",
+  "reason": "model pass 2026-09-23: faucet vs vulture, false friends"
+ },
+ "громкий": {
+  "class": "transparent",
+  "from": "prominente",
+  "reason": "native \"loud\"; prominente is unrelated"
+ },
+ "даллас": {
+  "class": "transparent",
+  "from": "dallar",
+  "reason": "model pass 2026-09-23: dallar not a real Spanish word"
+ },
+ "дать": {
+  "class": "transparent",
+  "from": "dar",
+  "reason": "native \"to give\"; dar is inherited only and dar is not French"
+ },
+ "дель": {
+  "class": "altered",
+  "from": "delta",
+  "reason": "model pass 2026-09-13: not a real Russian word/fragment"
+ },
+ "десять": {
+  "class": "altered",
+  "from": "diez",
+  "reason": "model pass 2026-09-23: native Russian numeral, not borrowed"
+ },
+ "дивергенция": {
+  "class": "altered",
+  "from": "diversión",
+  "reason": "model pass 2026-09-13: false friend: divergence vs fun/entertainment"
+ },
+ "диктовать": {
+  "class": "altered",
+  "from": "dictaminar",
+  "reason": "model pass 2026-09-13: different source word (dictar vs dictaminar)"
+ },
+ "добровольный": {
+  "class": "altered",
+  "from": "voluntario",
+  "reason": "model pass 2026-09-13: native Russian word, not borrowed from voluntario"
+ },
+ "дорофей": {
+  "class": "transparent",
+  "from": "dorothy",
+  "reason": "model pass 2026-09-13: different proper names (Dorofey vs Dorothy)"
+ },
+ "закуска": {
+  "class": "altered",
+  "from": "casaca",
+  "reason": "native \"appetizer\"; casaca is a coat"
+ },
+ "заместитель": {
+  "class": "altered",
+  "from": "sustituto",
+  "reason": "model pass 2026-09-13: native Russian word, not borrowed from sustituto"
+ },
+ "идти": {
+  "class": "transparent",
+  "from": "ídem",
+  "reason": "model pass 2026-09-13: idem means 'same', not cognate with идти"
+ },
+ "инвестировать": {
+  "class": "altered",
+  "from": "investir",
+  "reason": "model pass 2026-09-13: different meanings: invest money vs bestow authority"
+ },
+ "интер": {
+  "class": "transparent",
+  "from": "inter",
+  "reason": "model pass 2026-09-13: not a standalone real word either side"
+ },
+ "интервент": {
+  "class": "transparent",
+  "from": "interventor",
+  "reason": "model pass 2026-09-13: invader vs auditor, unrelated meanings"
+ },
+ "иоанн": {
+  "class": "altered",
+  "from": "juana",
+  "reason": "model pass 2026-09-13: different names, male vs female"
+ },
+ "иран": {
+  "class": "transparent",
+  "from": "ir",
+  "reason": "the country Iran; ir is \"to go\""
+ },
+ "к": {
+  "class": "transparent",
+  "from": "k",
+  "reason": "the preposition \"to\"; k is just the letter"
+ },
+ "казань": {
+  "class": "transparent",
+  "from": "kazán",
+  "reason": "model pass 2026-09-13: place name vs common noun 'cauldron'"
+ },
+ "казаться": {
+  "class": "altered",
+  "from": "casar",
+  "reason": "native \"to seem\"; casar is \"to marry\""
+ },
+ "камин": {
+  "class": "transparent",
+  "from": "camín",
+  "reason": "\"fireplace\"; chemin is a path and camín is not standard Spanish"
+ },
+ "канна": {
+  "class": "transparent",
+  "from": "cana",
+  "reason": "model pass 2026-09-13: false friend, meanings unrelated"
+ },
+ "канон": {
+  "class": "transparent",
+  "from": "cañón",
+  "reason": "\"canon, rule\"; cañón is a cannon or canyon"
+ },
+ "карат": {
+  "class": "transparent",
+  "from": "karate",
+  "reason": "the unit carat; karate is the martial art"
+ },
+ "каска": {
+  "class": "altered",
+  "from": "cascar",
+  "reason": "\"helmet\"; cascar is \"to crack\""
+ },
+ "касса": {
+  "class": "transparent",
+  "from": "caja",
+  "reason": "model pass 2026-09-13: different source word (Italian cassa) not caja"
+ },
+ "квартира": {
+  "class": "altered",
+  "from": "cuartilla",
+  "reason": "\"apartment\"; cuartilla is a sheet of paper, bnakaran a translation"
+ },
+ "клетка": {
+  "class": "transparent",
+  "from": "célula",
+  "reason": "native \"cell, cage\"; célula is a translation"
+ },
+ "ключица": {
+  "class": "altered",
+  "from": "clavícula",
+  "reason": "model pass 2026-09-13: native calque, not actual borrowing from Latin"
+ },
+ "колонный": {
+  "class": "altered",
+  "from": "colonial",
+  "reason": "model pass 2026-09-13: колонный relates to column, not colonial"
+ },
+ "колорадо": {
+  "class": "transparent",
+  "from": "colorar",
+  "reason": "the state Colorado; colorar is \"to colour\""
+ },
+ "компресс": {
+  "class": "altered",
+  "from": "comprensión",
+  "reason": "model pass 2026-09-13: compress vs comprehension, different source"
+ },
+ "комфорт": {
+  "class": "transparent",
+  "from": "comodidad",
+  "reason": "comodidad is a translation, not a cognate"
+ },
+ "концерн": {
+  "class": "transparent",
+  "from": "concern",
+  "reason": "model pass 2026-09-13: donor 'concern' not Spanish word"
+ },
+ "коста": {
+  "class": "transparent",
+  "from": "cost",
+  "reason": "model pass 2026-09-13: donor 'cost' is English, not Spanish"
+ },
+ "крест": {
+  "class": "altered",
+  "from": "cresta",
+  "reason": "native \"cross\"; cresta is a crest and cruz a different root"
+ },
+ "крис": {
+  "class": "transparent",
+  "from": "cri",
+  "reason": "model pass 2026-09-13: 'cri' not a Spanish word"
+ },
+ "кулон": {
+  "class": "transparent",
+  "from": "culón",
+  "reason": "model pass 2026-09-23: pendant vs big-butted, false friends"
+ },
+ "курортный": {
+  "class": "altered",
+  "from": "resort",
+  "reason": "\"resort\" from German Kurort; resort is a different word"
+ },
+ "кусать": {
+  "class": "altered",
+  "from": "costar",
+  "reason": "native \"to bite\"; costar/coûter is \"to cost\""
+ },
+ "лавина": {
+  "class": "altered",
+  "from": "lavandera",
+  "reason": "model pass 2026-09-13: false friend, unrelated meanings"
+ },
+ "ладо": {
+  "class": "transparent",
+  "from": "lado",
+  "reason": "the archaic \"beloved\"; lado is \"side\""
+ },
+ "лаос": {
+  "class": "altered",
+  "from": "lao",
+  "reason": "model pass 2026-09-13: donor not real Spanish word"
+ },
+ "лапа": {
+  "class": "transparent",
+  "from": "lapa",
+  "reason": "native \"paw\"; lapa is a limpet"
+ },
+ "левый": {
+  "class": "altered",
+  "from": "león",
+  "reason": "native \"left\"; león is \"lion\""
+ },
+ "лейтенант": {
+  "class": "altered",
+  "from": "teniente",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "лена": {
+  "class": "altered",
+  "from": "leña",
+  "reason": "model pass 2026-09-23: Lena vs firewood, false friends"
+ },
+ "летать": {
+  "class": "altered",
+  "from": "llegar",
+  "reason": "native \"to fly\"; llegar is \"to arrive\""
+ },
+ "магнит": {
+  "class": "transparent",
+  "from": "magnitud",
+  "reason": "\"magnet\"; magnitud is \"magnitude\""
+ },
+ "мало": {
+  "class": "transparent",
+  "from": "malo",
+  "reason": "model pass 2026-09-23: little vs bad, false friends"
+ },
+ "малый": {
+  "class": "transparent",
+  "from": "malo",
+  "reason": "native \"small\"; malo/mal is \"bad\""
+ },
+ "маргарет": {
+  "class": "altered",
+  "from": "margarita",
+  "reason": "model pass 2026-09-13: different words, uncertain shared source"
+ },
+ "мариновать": {
+  "class": "altered",
+  "from": "marino",
+  "reason": "model pass 2026-09-13: marinate vs marine/sailor, unrelated meanings"
+ },
+ "марк": {
+  "class": "transparent",
+  "from": "marca",
+  "reason": "model pass 2026-09-13: name Mark vs 'brand', different meaning"
+ },
+ "мартин": {
+  "class": "transparent",
+  "from": "martina",
+  "reason": "model pass 2026-09-13: different proper names (Martin vs Martina)"
+ },
+ "матерь": {
+  "class": "altered",
+  "from": "madre",
+  "reason": "the archaic \"mother\"; madre is inherited only"
+ },
+ "матрас": {
+  "class": "altered",
+  "from": "matraz",
+  "reason": "\"mattress\"; matraz is a laboratory flask"
+ },
+ "мать": {
+  "class": "altered",
+  "from": "madre",
+  "reason": "native \"mother\"; madre is inherited only and mau is \"bad\""
+ },
+ "маять": {
+  "class": "altered",
+  "from": "mayo",
+  "reason": "native \"to torment\"; mayo/mai is the month May"
+ },
+ "медицинский": {
+  "class": "altered",
+  "from": "medical",
+  "reason": "medical is not a Spanish word"
+ },
+ "мена": {
+  "class": "transparent",
+  "from": "mena",
+  "reason": "native \"exchange\"; mena is ore and menton a chin"
+ },
+ "мент": {
+  "class": "transparent",
+  "from": "menta",
+  "reason": "Russian slang for a policeman; menta is \"mint\""
+ },
+ "мера": {
+  "class": "transparent",
+  "from": "merar",
+  "reason": "native \"measure\"; merar is not a word and mero is \"mere\""
+ },
+ "мерить": {
+  "class": "altered",
+  "from": "mérito",
+  "reason": "model pass 2026-09-13: false friend: measure vs merit"
+ },
+ "мес": {
+  "class": "transparent",
+  "from": "mes",
+  "reason": "an abbreviation of \"month\"; mes is the translation, not a cognate"
+ },
+ "мимо": {
+  "class": "transparent",
+  "from": "mimo",
+  "reason": "the adverb \"past, by\"; mimo is a mime or a treat"
+ },
+ "минуть": {
+  "class": "transparent",
+  "from": "minuto",
+  "reason": "native \"to pass by\"; the minute words are a different root"
+ },
+ "мир": {
+  "class": "transparent",
+  "from": "mir",
+  "reason": "native \"world, peace\"; neither donor is a real word in its language"
+ },
+ "мультик": {
+  "class": "altered",
+  "from": "múltiple",
+  "reason": "\"cartoon\"; múltiple is \"multiple\""
+ },
+ "мышца": {
+  "class": "transparent",
+  "from": "músculo",
+  "reason": "native \"muscle\"; músculo is a translation"
+ },
+ "мышь": {
+  "class": "transparent",
+  "from": "mouse",
+  "reason": "native \"mouse\"; the Spanish donor is the English computer word"
+ },
+ "навес": {
+  "class": "transparent",
+  "from": "nave",
+  "reason": "model pass 2026-09-23: awning vs ship, false friends"
+ },
+ "наполоть": {
+  "class": "altered",
+  "from": "nápoles",
+  "reason": "model pass 2026-09-13: false friend, means 'chop', unrelated"
+ },
+ "насекомое": {
+  "class": "transparent",
+  "from": "insecto",
+  "reason": "native \"insect\"; insecto is a translation"
+ },
+ "николаевич": {
+  "class": "altered",
+  "from": "nicolás",
+  "reason": "model pass 2026-09-13: patronymic, not derived from Spanish name"
+ },
+ "николь": {
+  "class": "altered",
+  "from": "nicolás",
+  "reason": "model pass 2026-09-13: different proper names (Nicole vs Nicolas)"
+ },
+ "обо": {
+  "class": "transparent",
+  "from": "oboe",
+  "reason": "a form of the preposition \"about\"; oboe is the instrument"
+ },
+ "око": {
+  "class": "altered",
+  "from": "ojo",
+  "reason": "the archaic \"eye\"; ojo is inherited only"
+ },
+ "около": {
+  "class": "transparent",
+  "from": "ok",
+  "reason": "model pass 2026-09-13: false friend, means 'around', unrelated"
+ },
+ "ол": {
+  "class": "transparent",
+  "from": "ole",
+  "reason": "model pass 2026-09-13: not a real Russian word/fragment"
+ },
+ "оля": {
+  "class": "transparent",
+  "from": "olia",
+  "reason": "the personal name Olya; olia is not a Spanish word"
+ },
+ "оса": {
+  "class": "transparent",
+  "from": "osar",
+  "reason": "model pass 2026-09-13: unrelated meanings, false friend"
+ },
+ "панна": {
+  "class": "altered",
+  "from": "pan",
+  "reason": "a Polish form of address; pan is \"bread\""
+ },
+ "папка": {
+  "class": "altered",
+  "from": "papel",
+  "reason": "native \"folder\"; papel is \"paper\""
+ },
+ "парадный": {
+  "class": "altered",
+  "from": "paradero",
+  "reason": "\"ceremonial, front\"; paradero is a stopping place"
+ },
+ "пари": {
+  "class": "altered",
+  "from": "parir",
+  "reason": "model pass 2026-09-23: bet vs give birth, false friends"
+ },
+ "парта": {
+  "class": "altered",
+  "from": "parte",
+  "reason": "\"school desk\"; parte/part is \"part\""
+ },
+ "партия": {
+  "class": "altered",
+  "from": "partida",
+  "reason": "\"political party\"; partida/partie are different words"
+ },
+ "пасть": {
+  "class": "altered",
+  "from": "pase",
+  "reason": "native \"jaws\" or \"to fall\"; pas is \"step, not\""
+ },
+ "пенни": {
+  "class": "transparent",
+  "from": "penny",
+  "reason": "model pass 2026-09-13: penny is English, not Spanish word"
+ },
+ "передозировка": {
+  "class": "transparent",
+  "from": "sobredosis",
+  "reason": "model pass 2026-09-13: native Russian compound, not borrowed word"
+ },
+ "перо": {
+  "class": "transparent",
+  "from": "perú",
+  "reason": "native \"feather, pen\"; Peru is the country"
+ },
+ "перфект": {
+  "class": "altered",
+  "from": "perfect",
+  "reason": "model pass 2026-09-13: perfect is English, not Spanish"
+ },
+ "пилар": {
+  "class": "transparent",
+  "from": "pilar",
+  "reason": "model pass 2026-09-13: пилар not a standard Russian word"
+ },
+ "пион": {
+  "class": "transparent",
+  "from": "peón",
+  "reason": "model pass 2026-09-13: peony vs pawn, unrelated meanings"
+ },
+ "пипа": {
+  "class": "transparent",
+  "from": "pipa",
+  "reason": "model pass 2026-09-13: пипа not matching Spanish meaning"
+ },
+ "пирс": {
+  "class": "transparent",
+  "from": "piers",
+  "reason": "\"pier\"; piers is not a Spanish word"
+ },
+ "поет": {
+  "class": "altered",
+  "from": "poeta",
+  "reason": "a verb form of \"to sing\"; poeta is a poet"
+ },
+ "поза": {
+  "class": "altered",
+  "from": "postura",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "полк": {
+  "class": "altered",
+  "from": "polca",
+  "reason": "native \"regiment\"; polca is the polka"
+ },
+ "полуфинал": {
+  "class": "altered",
+  "from": "semifinal",
+  "reason": "model pass 2026-09-13: native calque полу+финал, not borrowed"
+ },
+ "портер": {
+  "class": "transparent",
+  "from": "porter",
+  "reason": "model pass 2026-09-13: porter not a standard Spanish word"
+ },
+ "послание": {
+  "class": "transparent",
+  "from": "epístola",
+  "reason": "native \"epistle\"; epístola is a translation"
+ },
+ "поттер": {
+  "class": "transparent",
+  "from": "potter",
+  "reason": "model pass 2026-09-13: potter not a standard Spanish word"
+ },
+ "представлять": {
+  "class": "transparent",
+  "from": "representar",
+  "reason": "native \"to present\"; representar is a translation"
+ },
+ "премиум": {
+  "class": "altered",
+  "from": "premio",
+  "reason": "\"premium\"; premio is a prize"
+ },
+ "приз": {
+  "class": "transparent",
+  "from": "premio",
+  "reason": "\"prize\"; premio is a translation"
+ },
+ "примус": {
+  "class": "altered",
+  "from": "primo",
+  "reason": "model pass 2026-09-13: primo means cousin, unrelated meaning"
+ },
+ "про": {
+  "class": "transparent",
+  "from": "pro",
+  "reason": "the preposition \"about\"; pro is a different word"
+ },
+ "пропасть": {
+  "class": "altered",
+  "from": "propuesta",
+  "reason": "native \"abyss\"; propuesta is a proposal"
+ },
+ "просто": {
+  "class": "altered",
+  "from": "presto",
+  "reason": "model pass 2026-09-23: simply vs quickly, false friends"
+ },
+ "рана": {
+  "class": "transparent",
+  "from": "rana",
+  "reason": "native \"wound\"; rana is \"frog\""
+ },
+ "ревю": {
+  "class": "altered",
+  "from": "revistar",
+  "reason": "model pass 2026-09-13: different source, revue vs revistar unrelated"
+ },
+ "регин": {
+  "class": "transparent",
+  "from": "regina",
+  "reason": "model pass 2026-09-13: регин not real Russian word"
+ },
+ "редактор": {
+  "class": "altered",
+  "from": "editor",
+  "reason": "model pass 2026-09-13: different roots, not true cognate"
+ },
+ "редакция": {
+  "class": "altered",
+  "from": "red",
+  "reason": "\"editorial office\"; red is a network"
+ },
+ "рейс": {
+  "class": "altered",
+  "from": "reja",
+  "reason": "\"flight\" (from German Reise); reja is a grating"
+ },
+ "реклама": {
+  "class": "altered",
+  "from": "reclamar",
+  "reason": "model pass 2026-09-13: meanings diverged too far, false friend"
+ },
+ "рес": {
+  "class": "transparent",
+  "from": "res",
+  "reason": "model pass 2026-09-13: рес not a real Russian word"
+ },
+ "ретро": {
+  "class": "transparent",
+  "from": "retraso",
+  "reason": "the retro style; retraso is a delay"
+ },
+ "решающий": {
+  "class": "transparent",
+  "from": "decisivo",
+  "reason": "native \"decisive\"; decisivo is a translation"
+ },
+ "рипа": {
+  "class": "transparent",
+  "from": "rip",
+  "reason": "model pass 2026-09-13: рипа not real word; donor not Spanish"
+ },
+ "рис": {
+  "class": "altered",
+  "from": "arroz",
+  "reason": "model pass 2026-09-13: different source words (arroz vs рис)"
+ },
+ "род": {
+  "class": "transparent",
+  "from": "rod",
+  "reason": "native \"kin, genus\"; neither donor is a real word in its language"
+ },
+ "ролл": {
+  "class": "transparent",
+  "from": "rol",
+  "reason": "a bread or sushi roll; rol/rôle is a part in a play"
+ },
+ "рома": {
+  "class": "transparent",
+  "from": "romo",
+  "reason": "model pass 2026-09-23: Roma vs blunt, false friends"
+ },
+ "рота": {
+  "class": "transparent",
+  "from": "rotar",
+  "reason": "\"company of soldiers\"; rotar is \"to rotate\""
+ },
+ "рулить": {
+  "class": "altered",
+  "from": "ruleta",
+  "reason": "model pass 2026-09-23: steer vs roulette, different source"
+ },
+ "рэд": {
+  "class": "transparent",
+  "from": "red",
+  "reason": "model pass 2026-09-23: red color vs network, false friends"
+ },
+ "рэй": {
+  "class": "transparent",
+  "from": "rey",
+  "reason": "model pass 2026-09-13: proper name vs common noun mismatch"
+ },
+ "сайт": {
+  "class": "altered",
+  "from": "site",
+  "reason": "model pass 2026-09-13: donor 'site' not a Spanish word"
+ },
+ "саммит": {
+  "class": "transparent",
+  "from": "summit",
+  "reason": "model pass 2026-09-13: donor 'summit' not a Spanish word"
+ },
+ "сан": {
+  "class": "transparent",
+  "from": "san",
+  "reason": "\"ecclesiastical rank\"; san is \"saint\""
+ },
+ "саша": {
+  "class": "transparent",
+  "from": "sasha",
+  "reason": "model pass 2026-09-13: donor 'sasha' not real Spanish word"
+ },
+ "свечка": {
+  "class": "altered",
+  "from": "vela",
+  "reason": "model pass 2026-09-23: native Russian word, not borrowed"
+ },
+ "сезонный": {
+  "class": "transparent",
+  "from": "estacional",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "сейф": {
+  "class": "transparent",
+  "from": "safe",
+  "reason": "\"safe\"; safe is English, not Spanish"
+ },
+ "семь": {
+  "class": "altered",
+  "from": "siete",
+  "reason": "model pass 2026-09-23: native Russian numeral, not borrowed"
+ },
+ "семья": {
+  "class": "transparent",
+  "from": "familia",
+  "reason": "native \"family\"; familia is a translation"
+ },
+ "сено": {
+  "class": "transparent",
+  "from": "seno",
+  "reason": "native \"hay\"; seno is a breast or sinus"
+ },
+ "сервант": {
+  "class": "altered",
+  "from": "siervo",
+  "reason": "model pass 2026-09-13: false friend: cabinet vs servant"
+ },
+ "сило": {
+  "class": "transparent",
+  "from": "silo",
+  "reason": "model pass 2026-09-13: receiver not standard Russian word"
+ },
+ "скала": {
+  "class": "altered",
+  "from": "escala",
+  "reason": "native Slavic \"cliff\"; escala is a scale or ladder"
+ },
+ "славный": {
+  "class": "altered",
+  "from": "esclavo",
+  "reason": "model pass 2026-09-13: false friend: glorious vs slave"
+ },
+ "смочь": {
+  "class": "transparent",
+  "from": "smog",
+  "reason": "native \"to be able\"; smog is unrelated"
+ },
+ "событие": {
+  "class": "altered",
+  "from": "horizonte",
+  "reason": "native \"event\"; horizonte is \"horizon\""
+ },
+ "совершенство": {
+  "class": "transparent",
+  "from": "perfecto",
+  "reason": "native \"perfection\"; perfecto is a translation"
+ },
+ "сон": {
+  "class": "transparent",
+  "from": "son",
+  "reason": "native \"sleep, dream\"; son is a sound or the verb \"are\""
+ },
+ "сорт": {
+  "class": "altered",
+  "from": "surtido",
+  "reason": "model pass 2026-09-13: сорт from German/French sort, not Spanish surtido"
+ },
+ "спид": {
+  "class": "altered",
+  "from": "sida",
+  "reason": "the AIDS acronym; SIDA is the same acronym translated, not a cognate"
+ },
+ "стопа": {
+  "class": "transparent",
+  "from": "stop",
+  "reason": "native \"foot\"; stop is the loanword"
+ },
+ "строгий": {
+  "class": "altered",
+  "from": "estricto",
+  "reason": "native \"strict\"; estricto is a translation"
+ },
+ "стюарт": {
+  "class": "altered",
+  "from": "steward",
+  "reason": "model pass 2026-09-13: different proper name vs common noun"
+ },
+ "сума": {
+  "class": "transparent",
+  "from": "sumo",
+  "reason": "native \"bag\"; sumo and soma are different words"
+ },
+ "сумма": {
+  "class": "transparent",
+  "from": "sumo",
+  "reason": "\"sum\"; sumo and sommaire are different words"
+ },
+ "супермен": {
+  "class": "altered",
+  "from": "superhombre",
+  "reason": "model pass 2026-09-13: супермен from English, not Spanish superhombre"
+ },
+ "сушить": {
+  "class": "transparent",
+  "from": "sushi",
+  "reason": "native \"to dry\"; sushi is the food"
+ },
+ "сюжет": {
+  "class": "altered",
+  "from": "sujeto",
+  "reason": "model pass 2026-09-13: false friend: plot vs subject"
+ },
+ "табло": {
+  "class": "altered",
+  "from": "tablao",
+  "reason": "model pass 2026-09-23: different words: billboard vs flamenco stage"
+ },
+ "тайм": {
+  "class": "transparent",
+  "from": "timar",
+  "reason": "a period of play; timar is \"to swindle\""
+ },
+ "тело": {
+  "class": "transparent",
+  "from": "tele",
+  "reason": "native \"body\"; tele is a television"
+ },
+ "тендер": {
+  "class": "transparent",
+  "from": "tender",
+  "reason": "model pass 2026-09-13: different meanings, not true cognate"
+ },
+ "тесло": {
+  "class": "transparent",
+  "from": "tesla",
+  "reason": "native \"adze\"; Tesla is a name"
+ },
+ "тесто": {
+  "class": "transparent",
+  "from": "test",
+  "reason": "native \"dough\"; test is an examination"
+ },
+ "титаник": {
+  "class": "transparent",
+  "from": "titánico",
+  "reason": "model pass 2026-09-23: proper name Titanic vs adjective titánico"
+ },
+ "тор": {
+  "class": "altered",
+  "from": "toro",
+  "reason": "the torus or the god Thor; toro is \"bull\""
+ },
+ "тот": {
+  "class": "transparent",
+  "from": "tomo",
+  "reason": "native \"that\"; tomo/tome is a volume"
+ },
+ "трак": {
+  "class": "altered",
+  "from": "tractor",
+  "reason": "model pass 2026-09-23: means track, not tractor; false friend"
+ },
+ "транзитный": {
+  "class": "altered",
+  "from": "transitorio",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "транс": {
+  "class": "transparent",
+  "from": "tranzar",
+  "reason": "\"trance\"; entrance and tranzar are different words"
+ },
+ "трата": {
+  "class": "transparent",
+  "from": "trata",
+  "reason": "native \"expenditure\"; trata is \"trade\" and tratar \"to treat\""
+ },
+ "троить": {
+  "class": "transparent",
+  "from": "troya",
+  "reason": "model pass 2026-09-13: native word from три, unrelated to Troya"
+ },
+ "тула": {
+  "class": "transparent",
+  "from": "tule",
+  "reason": "model pass 2026-09-13: тула is city name, unrelated to tule"
+ },
+ "уильям": {
+  "class": "altered",
+  "from": "guillermo",
+  "reason": "model pass 2026-09-13: different name forms, not same source"
+ },
+ "упаковать": {
+  "class": "altered",
+  "from": "empacar",
+  "reason": "model pass 2026-09-23: native Russian derivative, not from Spanish"
+ },
+ "факт": {
+  "class": "altered",
+  "from": "facto",
+  "reason": "model pass 2026-09-13: facto not standalone Spanish word"
+ },
+ "финишировать": {
+  "class": "altered",
+  "from": "finalizar",
+  "reason": "model pass 2026-09-13: different source word (finish vs finalizar)"
+ },
+ "флорида": {
+  "class": "transparent",
+  "from": "florido",
+  "reason": "model pass 2026-09-23: place name Florida vs adjective florido"
+ },
+ "фон": {
+  "class": "altered",
+  "from": "phone",
+  "reason": "\"background\" (from German); phone is neither Spanish nor French"
+ },
+ "фонтан": {
+  "class": "transparent",
+  "from": "fontán",
+  "reason": "\"fountain\"; Fontán is a surname, the Spanish is fuente"
+ },
+ "фрай": {
+  "class": "transparent",
+  "from": "fray",
+  "reason": "the name Fry; fray is a friar"
+ },
+ "фут": {
+  "class": "transparent",
+  "from": "fut",
+  "reason": "the unit foot; fut is Spanish slang for football"
+ },
+ "фёдор": {
+  "class": "transparent",
+  "from": "fedora",
+  "reason": "model pass 2026-09-13: Fyodor vs fedora, false friend"
+ },
+ "хи": {
+  "class": "altered",
+  "from": "ji",
+  "reason": "model pass 2026-09-13: not real words/lemmas"
+ },
+ "хромой": {
+  "class": "transparent",
+  "from": "chrome",
+  "reason": "native \"lame\"; chrome is the metal"
+ },
+ "чарльз": {
+  "class": "altered",
+  "from": "carlos",
+  "reason": "model pass 2026-09-13: different proper names, Charles vs Carlos"
+ },
+ "человек": {
+  "class": "altered",
+  "from": "jóven",
+  "reason": "native \"person\"; jóven is \"young\""
+ },
+ "штык": {
+  "class": "altered",
+  "from": "estoque",
+  "reason": "model pass 2026-09-13: different meanings, bayonet vs rapier"
+ },
+ "шёлк": {
+  "class": "altered",
+  "from": "seda",
+  "reason": "model pass 2026-09-23: native Russian word, not borrowed from seda"
+ },
+ "эдвард": {
+  "class": "altered",
+  "from": "eduardo",
+  "reason": "model pass 2026-09-13: different proper names, Edward vs Eduardo"
+ },
+ "эко": {
+  "class": "transparent",
+  "from": "eco",
+  "reason": "model pass 2026-09-13: false friend, echo vs eco- prefix"
+ },
+ "экспортный": {
+  "class": "altered",
+  "from": "exportador",
+  "reason": "model pass 2026-09-13: adjective vs agent noun, different meaning"
+ },
+ "экспресс": {
+  "class": "transparent",
+  "from": "express",
+  "reason": "model pass 2026-09-13: donor word is English, not Spanish"
+ },
+ "энд": {
+  "class": "transparent",
+  "from": "end",
+  "reason": "the English \"end\"; not a Spanish word"
+ },
+ "энтерпрайз": {
+  "class": "transparent",
+  "from": "enterprise",
+  "reason": "model pass 2026-09-13: donor word is English, not Spanish"
+ },
+ "эпизод": {
+  "class": "altered",
+  "from": "episode",
+  "reason": "model pass 2026-09-13: donor word is English, not Spanish"
+ },
+ "эра": {
+  "class": "transparent",
+  "from": "ser",
+  "reason": "\"era\"; ser is the verb \"to be\""
+ },
+ "эстрада": {
+  "class": "transparent",
+  "from": "estrada",
+  "reason": "\"variety stage\" from French estrade; neither donor is that word"
+ },
+ "эффективно": {
+  "class": "altered",
+  "from": "efectivamente",
+  "reason": "model pass 2026-09-23: false friend: effectively vs actually"
+ },
+ "юбиляр": {
+  "class": "altered",
+  "from": "jubilado",
+  "reason": "model pass 2026-09-13: meaning mismatch: honoree vs retiree"
+ }
+}

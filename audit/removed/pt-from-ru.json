@@ -1,0 +1,757 @@
+{
+ "abonar": {
+  "class": "altered",
+  "from": "абонент",
+  "reason": "model pass 2026-09-13: different meanings, not cognate"
+ },
+ "acessar": {
+  "class": "transparent",
+  "from": "аксессуар",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "acordar": {
+  "class": "altered",
+  "from": "аккорд",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "almo": {
+  "class": "transparent",
+  "from": "алма",
+  "reason": "model pass 2026-09-13: not real matching words, unrelated"
+ },
+ "ambiente": {
+  "class": "altered",
+  "from": "амбиция",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "amplo": {
+  "class": "altered",
+  "from": "ампула",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "apresentar": {
+  "class": "altered",
+  "from": "представить",
+  "reason": "model pass 2026-09-13: different source roots, not cognate"
+ },
+ "arcar": {
+  "class": "transparent",
+  "from": "арка",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "armar": {
+  "class": "transparent",
+  "from": "арма",
+  "reason": "model pass 2026-09-13: donor word not a real word"
+ },
+ "atento": {
+  "class": "transparent",
+  "from": "внимательный",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "ação": {
+  "class": "altered",
+  "from": "акция",
+  "reason": "model pass 2026-09-13: false friend: action vs stock/share"
+ },
+ "balar": {
+  "class": "altered",
+  "from": "баллада",
+  "reason": "model pass 2026-09-13: false friend: bleat vs ballad"
+ },
+ "bandar": {
+  "class": "transparent",
+  "from": "банда",
+  "reason": "model pass 2026-09-13: bandar not a real Portuguese word"
+ },
+ "barreirar": {
+  "class": "altered",
+  "from": "барьер",
+  "reason": "model pass 2026-09-13: barreirar not a real Portuguese word"
+ },
+ "betar": {
+  "class": "transparent",
+  "from": "бета",
+  "reason": "model pass 2026-09-13: betar not a real Portuguese word"
+ },
+ "bin": {
+  "class": "transparent",
+  "from": "бин",
+  "reason": "model pass 2026-09-13: bin not a real word either language"
+ },
+ "bit": {
+  "class": "transparent",
+  "from": "битый",
+  "reason": "model pass 2026-09-23: bit (data) vs битый (beaten), unrelated meaning"
+ },
+ "bolt": {
+  "class": "transparent",
+  "from": "болт",
+  "reason": "model pass 2026-09-13: bolt not a real Portuguese word"
+ },
+ "bombar": {
+  "class": "transparent",
+  "from": "бомба",
+  "reason": "model pass 2026-09-13: bombar not a real Portuguese word"
+ },
+ "brigar": {
+  "class": "transparent",
+  "from": "бригада",
+  "reason": "model pass 2026-09-13: false friend: to fight vs brigade"
+ },
+ "brisar": {
+  "class": "altered",
+  "from": "бриз",
+  "reason": "model pass 2026-09-23: brisar not standard Portuguese word"
+ },
+ "bular": {
+  "class": "altered",
+  "from": "булла",
+  "reason": "model pass 2026-09-13: bular not a real Portuguese word"
+ },
+ "bulhão": {
+  "class": "altered",
+  "from": "бульон",
+  "reason": "model pass 2026-09-13: false friend: uproar vs broth"
+ },
+ "campeonato": {
+  "class": "altered",
+  "from": "чемпионат",
+  "reason": "model pass 2026-09-13: different roots: campus vs champion"
+ },
+ "campeão": {
+  "class": "altered",
+  "from": "чемпион",
+  "reason": "model pass 2026-09-13: different roots: campus vs champion"
+ },
+ "cartar": {
+  "class": "transparent",
+  "from": "карта",
+  "reason": "model pass 2026-09-13: карта fragment, cartar not real word"
+ },
+ "casar": {
+  "class": "transparent",
+  "from": "кас",
+  "reason": "model pass 2026-09-13: кас is fragment, not a word"
+ },
+ "cientista": {
+  "class": "altered",
+  "from": "учёный",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "claro": {
+  "class": "transparent",
+  "from": "клара",
+  "reason": "model pass 2026-09-13: клара is proper name, unrelated meaning"
+ },
+ "colorar": {
+  "class": "transparent",
+  "from": "колорадо",
+  "reason": "model pass 2026-09-13: колорадо is place name, different source"
+ },
+ "comedir": {
+  "class": "altered",
+  "from": "комедия",
+  "reason": "model pass 2026-09-13: comedir vs comedy, unrelated meaning"
+ },
+ "cometer": {
+  "class": "transparent",
+  "from": "комета",
+  "reason": "model pass 2026-09-13: cometer vs cometa, unrelated meaning"
+ },
+ "copar": {
+  "class": "altered",
+  "from": "копать",
+  "reason": "model pass 2026-09-13: copar not a real Portuguese word"
+ },
+ "corretar": {
+  "class": "altered",
+  "from": "корректный",
+  "reason": "model pass 2026-09-13: corretar not a real Portuguese word"
+ },
+ "damasco": {
+  "class": "altered",
+  "from": "дамаск",
+  "reason": "model pass 2026-09-23: damasco (apricot) vs дамаск (Damascus/damask)"
+ },
+ "devido": {
+  "class": "altered",
+  "from": "дебит",
+  "reason": "model pass 2026-09-13: devido means 'due', false friend"
+ },
+ "dez": {
+  "class": "altered",
+  "from": "десять",
+  "reason": "model pass 2026-09-23: native number words, not borrowed"
+ },
+ "divino": {
+  "class": "altered",
+  "from": "дивный",
+  "reason": "model pass 2026-09-13: different roots; дивный means wonderful, not divine"
+ },
+ "dobro": {
+  "class": "transparent",
+  "from": "добрый",
+  "reason": "model pass 2026-09-13: добрый means kind, not double"
+ },
+ "eleição": {
+  "class": "altered",
+  "from": "электрон",
+  "reason": "model pass 2026-09-13: election vs electron, unrelated meaning"
+ },
+ "empacar": {
+  "class": "altered",
+  "from": "паковать",
+  "reason": "model pass 2026-09-23: empacar (balk) vs паковать (pack), unrelated"
+ },
+ "esboço": {
+  "class": "altered",
+  "from": "эскиз",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "escalar": {
+  "class": "altered",
+  "from": "скала",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "espécie": {
+  "class": "altered",
+  "from": "специальный",
+  "reason": "model pass 2026-09-13: species vs special, unrelated meaning"
+ },
+ "estabelecimento": {
+  "class": "altered",
+  "from": "установление",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "estradar": {
+  "class": "transparent",
+  "from": "эстрада",
+  "reason": "model pass 2026-09-13: estradar not a real word"
+ },
+ "extratar": {
+  "class": "altered",
+  "from": "экстракт",
+  "reason": "model pass 2026-09-13: extratar not a real Portuguese word"
+ },
+ "fazendeiro": {
+  "class": "transparent",
+  "from": "фермер",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "fedora": {
+  "class": "transparent",
+  "from": "фёдор",
+  "reason": "model pass 2026-09-13: unrelated meanings, name vs hat"
+ },
+ "feijão": {
+  "class": "altered",
+  "from": "фасоль",
+  "reason": "model pass 2026-09-13: different source words for bean"
+ },
+ "finalizar": {
+  "class": "altered",
+  "from": "финишировать",
+  "reason": "model pass 2026-09-13: different source roots, not cognate"
+ },
+ "frio": {
+  "class": "altered",
+  "from": "фрак",
+  "reason": "model pass 2026-09-13: unrelated meanings, cold vs tailcoat"
+ },
+ "ganhar": {
+  "class": "altered",
+  "from": "гана",
+  "reason": "model pass 2026-09-23: ganhar (earn) vs Гана (Ghana), unrelated"
+ },
+ "garrafa": {
+  "class": "altered",
+  "from": "графин",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "gaze": {
+  "class": "altered",
+  "from": "газ",
+  "reason": "model pass 2026-09-23: gaze (gauze) vs газ (gas), unrelated"
+ },
+ "gol": {
+  "class": "transparent",
+  "from": "голый",
+  "reason": "model pass 2026-09-13: голый means naked, unrelated"
+ },
+ "gramar": {
+  "class": "altered",
+  "from": "грамм",
+  "reason": "model pass 2026-09-13: грамм is unit, unrelated meaning"
+ },
+ "grato": {
+  "class": "altered",
+  "from": "врата",
+  "reason": "model pass 2026-09-13: врата means gates, unrelated"
+ },
+ "heleno": {
+  "class": "altered",
+  "from": "елена",
+  "reason": "model pass 2026-09-13: елена is name Elena, unrelated"
+ },
+ "horizonte": {
+  "class": "transparent",
+  "from": "событие",
+  "reason": "model pass 2026-09-13: событие means event, unrelated"
+ },
+ "idioma": {
+  "class": "transparent",
+  "from": "идиом",
+  "reason": "model pass 2026-09-13: идиом means idiom, false friend"
+ },
+ "insônia": {
+  "class": "altered",
+  "from": "бессонница",
+  "reason": "model pass 2026-09-23: different roots for insomnia, not cognate"
+ },
+ "juntar": {
+  "class": "altered",
+  "from": "хунта",
+  "reason": "model pass 2026-09-13: juntar 'join' vs хунта 'junta' unrelated meaning"
+ },
+ "leão": {
+  "class": "altered",
+  "from": "левый",
+  "reason": "model pass 2026-09-13: leão 'lion' vs левый 'left' unrelated"
+ },
+ "locação": {
+  "class": "altered",
+  "from": "локация",
+  "reason": "model pass 2026-09-13: locação 'rental' vs локация 'location' false friend"
+ },
+ "maior": {
+  "class": "altered",
+  "from": "майор",
+  "reason": "model pass 2026-09-13: maior 'bigger' vs майор 'military rank' false friend"
+ },
+ "mar": {
+  "class": "altered",
+  "from": "мор",
+  "reason": "model pass 2026-09-13: mar 'sea' vs мор 'plague' unrelated"
+ },
+ "marcar": {
+  "class": "transparent",
+  "from": "марк",
+  "reason": "model pass 2026-09-13: marcar 'to mark' vs марк name mismatch"
+ },
+ "marinhar": {
+  "class": "altered",
+  "from": "марина",
+  "reason": "model pass 2026-09-13: marinhar not a real Portuguese word"
+ },
+ "mau": {
+  "class": "altered",
+  "from": "мать",
+  "reason": "model pass 2026-09-13: mau (bad) vs мать (mother) unrelated"
+ },
+ "mero": {
+  "class": "transparent",
+  "from": "мера",
+  "reason": "model pass 2026-09-13: mero (fish) vs мера (measure) unrelated"
+ },
+ "mesa": {
+  "class": "altered",
+  "from": "место",
+  "reason": "model pass 2026-09-13: mesa (table) vs место (place) unrelated"
+ },
+ "meter": {
+  "class": "transparent",
+  "from": "мета",
+  "reason": "model pass 2026-09-13: meter (to put) vs мета unrelated"
+ },
+ "metodista": {
+  "class": "altered",
+  "from": "методист",
+  "reason": "model pass 2026-09-23: metodista (Methodist) vs методист (methodologist)"
+ },
+ "mil": {
+  "class": "altered",
+  "from": "миля",
+  "reason": "model pass 2026-09-13: mil (thousand) vs миля (mile) unrelated"
+ },
+ "mimo": {
+  "class": "transparent",
+  "from": "мимо",
+  "reason": "model pass 2026-09-13: mimo (cuddle) vs мимо (past) unrelated"
+ },
+ "mini": {
+  "class": "transparent",
+  "from": "минуть",
+  "reason": "model pass 2026-09-13: mini vs минуть (to pass) unrelated"
+ },
+ "mês": {
+  "class": "transparent",
+  "from": "мес",
+  "reason": "model pass 2026-09-13: мес is fragment, not a word"
+ },
+ "múltiplo": {
+  "class": "altered",
+  "from": "мультик",
+  "reason": "model pass 2026-09-13: múltiplo vs мультик (cartoon) unrelated"
+ },
+ "neto": {
+  "class": "altered",
+  "from": "нетто",
+  "reason": "model pass 2026-09-13: grandson vs net weight, unrelated meaning"
+ },
+ "news": {
+  "class": "altered",
+  "from": "новость",
+  "reason": "model pass 2026-09-13: news is English loan, not from Russian"
+ },
+ "nicolau": {
+  "class": "altered",
+  "from": "николаевич",
+  "reason": "model pass 2026-09-13: patronymic form, different name"
+ },
+ "novak": {
+  "class": "transparent",
+  "from": "новак",
+  "reason": "model pass 2026-09-13: proper name vs common noun 'novice'"
+ },
+ "novamente": {
+  "class": "altered",
+  "from": "новелла",
+  "reason": "model pass 2026-09-13: again vs novella, unrelated"
+ },
+ "nápoles": {
+  "class": "altered",
+  "from": "наполоть",
+  "reason": "model pass 2026-09-13: Naples vs chop up, unrelated"
+ },
+ "oficina": {
+  "class": "altered",
+  "from": "офиц",
+  "reason": "model pass 2026-09-13: офиц is not a real word"
+ },
+ "ok": {
+  "class": "transparent",
+  "from": "около",
+  "reason": "model pass 2026-09-13: ok vs about/near, unrelated"
+ },
+ "parar": {
+  "class": "altered",
+  "from": "парад",
+  "reason": "model pass 2026-09-13: to stop vs parade, unrelated"
+ },
+ "parceiro": {
+  "class": "altered",
+  "from": "партнёр",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "parir": {
+  "class": "transparent",
+  "from": "пари",
+  "reason": "model pass 2026-09-23: parir (give birth) vs пари (bet), unrelated"
+ },
+ "parquinho": {
+  "class": "altered",
+  "from": "парковка",
+  "reason": "model pass 2026-09-13: playground vs parking lot, unrelated"
+ },
+ "partir": {
+  "class": "altered",
+  "from": "партия",
+  "reason": "model pass 2026-09-13: to leave vs party, unrelated"
+ },
+ "pascal": {
+  "class": "altered",
+  "from": "пасхальный",
+  "reason": "model pass 2026-09-13: Pascal vs Easter-related, unrelated"
+ },
+ "pedrar": {
+  "class": "altered",
+  "from": "пётр",
+  "reason": "model pass 2026-09-13: pedrar not real word; Peter name"
+ },
+ "pensamento": {
+  "class": "altered",
+  "from": "пенсия",
+  "reason": "model pass 2026-09-13: thought vs pension, unrelated"
+ },
+ "peru": {
+  "class": "transparent",
+  "from": "перо",
+  "reason": "model pass 2026-09-13: turkey vs feather/pen, unrelated"
+ },
+ "plantar": {
+  "class": "altered",
+  "from": "план",
+  "reason": "model pass 2026-09-13: plantar unrelated to план (plan)"
+ },
+ "pleno": {
+  "class": "altered",
+  "from": "полно",
+  "reason": "model pass 2026-09-23: different roots, not borrowed cognates"
+ },
+ "porte": {
+  "class": "altered",
+  "from": "портал",
+  "reason": "model pass 2026-09-13: porte unrelated meaning to портал"
+ },
+ "prato": {
+  "class": "altered",
+  "from": "плато",
+  "reason": "model pass 2026-09-13: prato/плато different meanings, false friend"
+ },
+ "presto": {
+  "class": "altered",
+  "from": "просто",
+  "reason": "model pass 2026-09-23: presto vs просто, false friends"
+ },
+ "privar": {
+  "class": "transparent",
+  "from": "приватный",
+  "reason": "model pass 2026-09-13: privar meaning differs from приватный"
+ },
+ "propor": {
+  "class": "transparent",
+  "from": "пропорция",
+  "reason": "model pass 2026-09-13: propor unrelated to пропорция"
+ },
+ "pá": {
+  "class": "transparent",
+  "from": "пасть",
+  "reason": "model pass 2026-09-13: pá unrelated to пасть"
+ },
+ "rama": {
+  "class": "transparent",
+  "from": "рам",
+  "reason": "model pass 2026-09-23: rama vs рам, unclear unrelated meanings"
+ },
+ "razão": {
+  "class": "altered",
+  "from": "рацион",
+  "reason": "model pass 2026-09-13: razão from Latin ratio, not рацион"
+ },
+ "realidade": {
+  "class": "altered",
+  "from": "реалити",
+  "reason": "model pass 2026-09-13: realidade is native word, not borrowed"
+ },
+ "realistar": {
+  "class": "altered",
+  "from": "реалистичный",
+  "reason": "model pass 2026-09-13: not a real Portuguese word"
+ },
+ "recebido": {
+  "class": "altered",
+  "from": "рецепт",
+  "reason": "model pass 2026-09-13: recebido unrelated to рецепт"
+ },
+ "regina": {
+  "class": "transparent",
+  "from": "регин",
+  "reason": "model pass 2026-09-13: регин is not a real word"
+ },
+ "repetir": {
+  "class": "altered",
+  "from": "репетировать",
+  "reason": "model pass 2026-09-23: repetir (repeat) vs репетировать (rehearse)"
+ },
+ "resort": {
+  "class": "altered",
+  "from": "курортный",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "revistar": {
+  "class": "altered",
+  "from": "ревю",
+  "reason": "model pass 2026-09-13: revistar unrelated to ревю meaning"
+ },
+ "rir": {
+  "class": "transparent",
+  "from": "рио",
+  "reason": "model pass 2026-09-13: rir unrelated to рио"
+ },
+ "riso": {
+  "class": "transparent",
+  "from": "рис",
+  "reason": "model pass 2026-09-13: riso (laugh) vs рис (rice)"
+ },
+ "rosto": {
+  "class": "altered",
+  "from": "раст",
+  "reason": "model pass 2026-09-13: раст is a fragment, not real word"
+ },
+ "rã": {
+  "class": "altered",
+  "from": "рана",
+  "reason": "model pass 2026-09-13: rã (frog) vs рана (wound)"
+ },
+ "réu": {
+  "class": "transparent",
+  "from": "ре",
+  "reason": "model pass 2026-09-13: ре is not a real word"
+ },
+ "sarar": {
+  "class": "altered",
+  "from": "заживать",
+  "reason": "model pass 2026-09-13: different source words entirely"
+ },
+ "seda": {
+  "class": "altered",
+  "from": "шёлк",
+  "reason": "model pass 2026-09-23: different native roots for silk"
+ },
+ "selo": {
+  "class": "transparent",
+  "from": "сесть",
+  "reason": "model pass 2026-09-13: сесть means 'to sit', unrelated"
+ },
+ "ser": {
+  "class": "transparent",
+  "from": "эра",
+  "reason": "model pass 2026-09-13: эра means 'era', unrelated to ser"
+ },
+ "sete": {
+  "class": "altered",
+  "from": "семь",
+  "reason": "model pass 2026-09-23: native number words, not borrowed"
+ },
+ "sinceramente": {
+  "class": "altered",
+  "from": "искренний",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "smog": {
+  "class": "transparent",
+  "from": "смочь",
+  "reason": "model pass 2026-09-13: смочь means 'to be able', unrelated"
+ },
+ "soldar": {
+  "class": "altered",
+  "from": "солдат",
+  "reason": "model pass 2026-09-13: солдат unrelated meaning to soldar"
+ },
+ "steward": {
+  "class": "altered",
+  "from": "стюарт",
+  "reason": "model pass 2026-09-13: Stewart is a surname, not steward"
+ },
+ "suficiente": {
+  "class": "altered",
+  "from": "суффикс",
+  "reason": "model pass 2026-09-13: суффикс unrelated to suficiente"
+ },
+ "sushi": {
+  "class": "transparent",
+  "from": "сушить",
+  "reason": "model pass 2026-09-13: сушить means 'to dry', unrelated"
+ },
+ "tato": {
+  "class": "altered",
+  "from": "такт",
+  "reason": "model pass 2026-09-13: такт (rhythm) unrelated to tato"
+ },
+ "temer": {
+  "class": "transparent",
+  "from": "тема",
+  "reason": "model pass 2026-09-13: тема unrelated to temer"
+ },
+ "tenente": {
+  "class": "altered",
+  "from": "лейтенант",
+  "reason": "model pass 2026-09-13: different source words for lieutenant"
+ },
+ "ter": {
+  "class": "altered",
+  "from": "термин",
+  "reason": "model pass 2026-09-13: термин unrelated to ter"
+ },
+ "teste": {
+  "class": "altered",
+  "from": "тесто",
+  "reason": "model pass 2026-09-13: teste means test, тесто means dough"
+ },
+ "testo": {
+  "class": "altered",
+  "from": "тесто",
+  "reason": "model pass 2026-09-13: testo not a real word; тесто means dough"
+ },
+ "tom": {
+  "class": "transparent",
+  "from": "тот",
+  "reason": "model pass 2026-09-13: tom (tone) vs тот (that)"
+ },
+ "tomo": {
+  "class": "transparent",
+  "from": "тот",
+  "reason": "model pass 2026-09-13: tomo (volume) vs тот (that)"
+ },
+ "tornar": {
+  "class": "transparent",
+  "from": "торнадо",
+  "reason": "model pass 2026-09-13: tornar (to become) vs tornado, unrelated"
+ },
+ "torto": {
+  "class": "transparent",
+  "from": "торт",
+  "reason": "model pass 2026-09-13: torto (crooked) vs торт (cake)"
+ },
+ "touro": {
+  "class": "altered",
+  "from": "тор",
+  "reason": "model pass 2026-09-13: touro (bull) vs тор (Thor), unrelated"
+ },
+ "tradução": {
+  "class": "altered",
+  "from": "традиция",
+  "reason": "model pass 2026-09-13: tradução (translation) vs традиция (tradition)"
+ },
+ "transir": {
+  "class": "transparent",
+  "from": "транс",
+  "reason": "model pass 2026-09-13: transir (numbness) vs транс (trance), unrelated"
+ },
+ "tratar": {
+  "class": "transparent",
+  "from": "трата",
+  "reason": "model pass 2026-09-13: tratar (to treat) vs трата (expense), unrelated"
+ },
+ "treinador": {
+  "class": "altered",
+  "from": "тренажёрный",
+  "reason": "model pass 2026-09-23: treinador (coach) vs тренажёрный (gym-equipment adj)"
+ },
+ "trupe": {
+  "class": "altered",
+  "from": "труп",
+  "reason": "model pass 2026-09-13: trupe (troupe) vs труп (corpse), false friend"
+ },
+ "verdadeiro": {
+  "class": "altered",
+  "from": "вердикт",
+  "reason": "model pass 2026-09-13: verdadeiro (true) vs вердикт (verdict), unrelated"
+ },
+ "vestir": {
+  "class": "altered",
+  "from": "вест",
+  "reason": "model pass 2026-09-13: vestir (to dress) vs вест (west), unrelated"
+ },
+ "vítor": {
+  "class": "altered",
+  "from": "виктор",
+  "reason": "model pass 2026-09-13: vítor is common word, виктор is proper name"
+ },
+ "xale": {
+  "class": "altered",
+  "from": "халат",
+  "reason": "model pass 2026-09-13: xale from French, not Russian source"
+ },
+ "átomo": {
+  "class": "transparent",
+  "from": "ата",
+  "reason": "model pass 2026-09-13: ата is not a real Russian word"
+ },
+ "âmbar": {
+  "class": "altered",
+  "from": "янтарь",
+  "reason": "model pass 2026-09-23: different etymological roots for amber"
+ }
+}

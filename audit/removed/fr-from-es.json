@@ -1,0 +1,1892 @@
+{
+ "accompli": {
+  "class": "altered",
+  "from": "cumplido",
+  "reason": "model pass 2026-09-13: different meaning, unrelated roots not shared"
+ },
+ "accouchement": {
+  "class": "altered",
+  "from": "alumbramiento",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "achever": {
+  "class": "altered",
+  "from": "acabar",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "acquitter": {
+  "class": "altered",
+  "from": "adquirir",
+  "reason": "model pass 2026-09-13: false friend, different meanings"
+ },
+ "additif": {
+  "class": "altered",
+  "from": "adictivo",
+  "reason": "model pass 2026-09-13: false friend, different meanings"
+ },
+ "adjoint": {
+  "class": "altered",
+  "from": "adjunto",
+  "reason": "model pass 2026-09-13: false friend, unrelated meanings"
+ },
+ "affreux": {
+  "class": "altered",
+  "from": "atroz",
+  "reason": "model pass 2026-09-13: different roots, not true cognates"
+ },
+ "agréer": {
+  "class": "altered",
+  "from": "agradecer",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "alinéa": {
+  "class": "transparent",
+  "from": "alinear",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "allaiter": {
+  "class": "transparent",
+  "from": "amamantar",
+  "reason": "model pass 2026-09-13: different source roots"
+ },
+ "allocation": {
+  "class": "transparent",
+  "from": "asignación",
+  "reason": "model pass 2026-09-13: different source words"
+ },
+ "alphonse": {
+  "class": "altered",
+  "from": "alonso",
+  "reason": "model pass 2026-09-13: different proper names"
+ },
+ "amas": {
+  "class": "transparent",
+  "from": "ama",
+  "reason": "model pass 2026-09-13: unrelated meanings, false friend"
+ },
+ "amélioration": {
+  "class": "altered",
+  "from": "mejora",
+  "reason": "model pass 2026-09-13: different source words"
+ },
+ "améliorer": {
+  "class": "altered",
+  "from": "mejorar",
+  "reason": "model pass 2026-09-13: different source words"
+ },
+ "amélioré": {
+  "class": "altered",
+  "from": "mejorar",
+  "reason": "model pass 2026-09-13: different source words"
+ },
+ "annales": {
+  "class": "transparent",
+  "from": "anal",
+  "reason": "model pass 2026-09-13: unrelated meanings, false friend"
+ },
+ "annulation": {
+  "class": "altered",
+  "from": "cancelación",
+  "reason": "model pass 2026-09-13: different roots: annuler vs cancelar"
+ },
+ "annuler": {
+  "class": "altered",
+  "from": "cancelar",
+  "reason": "model pass 2026-09-13: different roots: annuler vs cancelar"
+ },
+ "anse": {
+  "class": "altered",
+  "from": "ensenada",
+  "reason": "model pass 2026-09-13: different roots, not true cognates"
+ },
+ "aperçu": {
+  "class": "altered",
+  "from": "apercibimiento",
+  "reason": "model pass 2026-09-13: different roots, meaning mismatch"
+ },
+ "apogée": {
+  "class": "altered",
+  "from": "auge",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "appartenance": {
+  "class": "altered",
+  "from": "pertenencia",
+  "reason": "model pass 2026-09-13: different roots: appartenance vs pertenencia"
+ },
+ "appartenir": {
+  "class": "altered",
+  "from": "pertenecer",
+  "reason": "model pass 2026-09-13: different roots: appartenir vs pertenecer"
+ },
+ "approche": {
+  "class": "altered",
+  "from": "enfoque",
+  "reason": "model pass 2026-09-13: different roots: approche vs enfoque"
+ },
+ "arcade": {
+  "class": "transparent",
+  "from": "arcade",
+  "reason": "model pass 2026-09-13: arcade not correct Spanish form"
+ },
+ "arena": {
+  "class": "transparent",
+  "from": "arena",
+  "reason": "model pass 2026-09-13: arena not standard French word (should be arène)"
+ },
+ "arranger": {
+  "class": "transparent",
+  "from": "arreglar",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "arrêt": {
+  "class": "altered",
+  "from": "paro",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "assez": {
+  "class": "altered",
+  "from": "bastante",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "assis": {
+  "class": "altered",
+  "from": "asir",
+  "reason": "model pass 2026-09-13: different roots and meanings"
+ },
+ "assorti": {
+  "class": "altered",
+  "from": "surtido",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "atlantic": {
+  "class": "altered",
+  "from": "atlántico",
+  "reason": "model pass 2026-09-13: not a real French word (atlantique)"
+ },
+ "atlético": {
+  "class": "transparent",
+  "from": "atlético",
+  "reason": "model pass 2026-09-13: not a real French word (athlétique)"
+ },
+ "attache": {
+  "class": "altered",
+  "from": "atadura",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "attacher": {
+  "class": "altered",
+  "from": "atar",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "attaché": {
+  "class": "altered",
+  "from": "atado",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "atteindre": {
+  "class": "altered",
+  "from": "atañer",
+  "reason": "model pass 2026-09-13: meanings diverged too far (reach vs concern)"
+ },
+ "atteint": {
+  "class": "altered",
+  "from": "atañer",
+  "reason": "model pass 2026-09-13: meanings diverged too far (reach vs concern)"
+ },
+ "attente": {
+  "class": "transparent",
+  "from": "atentar",
+  "reason": "model pass 2026-09-13: different Latin roots, unrelated meaning"
+ },
+ "attrape": {
+  "class": "altered",
+  "from": "trampa",
+  "reason": "model pass 2026-09-13: different words, not cognates"
+ },
+ "aussi": {
+  "class": "altered",
+  "from": "así",
+  "reason": "model pass 2026-09-13: different meanings, not same source"
+ },
+ "avenir": {
+  "class": "altered",
+  "from": "porvenir",
+  "reason": "model pass 2026-09-13: different formation, not cognate"
+ },
+ "axer": {
+  "class": "altered",
+  "from": "axial",
+  "reason": "model pass 2026-09-13: different derivation, not same word"
+ },
+ "bahut": {
+  "class": "altered",
+  "from": "baúl",
+  "reason": "model pass 2026-09-13: unclear shared source"
+ },
+ "balayer": {
+  "class": "altered",
+  "from": "barrer",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "ballot": {
+  "class": "altered",
+  "from": "bulto",
+  "reason": "model pass 2026-09-13: different etymological source (ballot vs bulto)"
+ },
+ "bander": {
+  "class": "transparent",
+  "from": "bandera",
+  "reason": "model pass 2026-09-13: bander vs bandera meanings unrelated"
+ },
+ "banni": {
+  "class": "altered",
+  "from": "bando",
+  "reason": "model pass 2026-09-13: banni vs bando meanings unrelated"
+ },
+ "bannière": {
+  "class": "altered",
+  "from": "banner",
+  "reason": "model pass 2026-09-13: banner is English, not Spanish"
+ },
+ "barrer": {
+  "class": "altered",
+  "from": "borrar",
+  "reason": "model pass 2026-09-13: barrer/borrar different etymological roots"
+ },
+ "barré": {
+  "class": "transparent",
+  "from": "barrar",
+  "reason": "model pass 2026-09-13: barré/barrar different roots and meanings"
+ },
+ "bat": {
+  "class": "transparent",
+  "from": "bate",
+  "reason": "model pass 2026-09-13: bat is not a valid French word"
+ },
+ "bateau": {
+  "class": "altered",
+  "from": "batea",
+  "reason": "model pass 2026-09-13: bateau/batea different etymological sources"
+ },
+ "bayer": {
+  "class": "altered",
+  "from": "bahía",
+  "reason": "model pass 2026-09-13: bayer/bahía different meanings and roots"
+ },
+ "beaucoup": {
+  "class": "altered",
+  "from": "mucho",
+  "reason": "model pass 2026-09-13: beaucoup/mucho not cognate, unrelated roots"
+ },
+ "bercer": {
+  "class": "altered",
+  "from": "mecer",
+  "reason": "model pass 2026-09-13: bercer/mecer different etymological roots"
+ },
+ "berner": {
+  "class": "altered",
+  "from": "burlar",
+  "reason": "model pass 2026-09-13: berner/burlar different etymological roots"
+ },
+ "bide": {
+  "class": "transparent",
+  "from": "bidé",
+  "reason": "model pass 2026-09-13: bide (flop) vs bidé (bidet) unrelated meanings"
+ },
+ "bigot": {
+  "class": "transparent",
+  "from": "bigote",
+  "reason": "model pass 2026-09-13: bigot vs bigote false friends"
+ },
+ "bille": {
+  "class": "altered",
+  "from": "bola",
+  "reason": "model pass 2026-09-13: bille/bola different etymological roots"
+ },
+ "bière": {
+  "class": "altered",
+  "from": "cerveza",
+  "reason": "model pass 2026-09-13: bière/cerveza unrelated roots, not cognate"
+ },
+ "boiter": {
+  "class": "altered",
+  "from": "cojear",
+  "reason": "model pass 2026-09-13: different words for limp, not cognate"
+ },
+ "bonhomme": {
+  "class": "altered",
+  "from": "bonachón",
+  "reason": "model pass 2026-09-13: bonhomme compound, not derived from bonachón"
+ },
+ "bosse": {
+  "class": "altered",
+  "from": "bozo",
+  "reason": "model pass 2026-09-13: bosse/bozo unrelated meanings"
+ },
+ "bouché": {
+  "class": "altered",
+  "from": "boca",
+  "reason": "model pass 2026-09-13: bouché means blocked, not mouth"
+ },
+ "bouger": {
+  "class": "altered",
+  "from": "mover",
+  "reason": "model pass 2026-09-13: bouger/mover unrelated roots"
+ },
+ "boulangerie": {
+  "class": "altered",
+  "from": "panadería",
+  "reason": "model pass 2026-09-13: boulangerie/panadería different roots"
+ },
+ "boulette": {
+  "class": "altered",
+  "from": "bola",
+  "reason": "model pass 2026-09-13: boulette from boule, not bola"
+ },
+ "brouillard": {
+  "class": "altered",
+  "from": "brujir",
+  "reason": "model pass 2026-09-13: brujir not real word, unrelated"
+ },
+ "buisson": {
+  "class": "altered",
+  "from": "arbusto",
+  "reason": "model pass 2026-09-13: buisson/arbusto different roots"
+ },
+ "bêtement": {
+  "class": "altered",
+  "from": "tontamente",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "caler": {
+  "class": "altered",
+  "from": "callar",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "came": {
+  "class": "altered",
+  "from": "caña",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "cancel": {
+  "class": "altered",
+  "from": "cancela",
+  "reason": "model pass 2026-09-13: not a real French word/false friend"
+ },
+ "capite": {
+  "class": "altered",
+  "from": "cápita",
+  "reason": "model pass 2026-09-13: not a real French word"
+ },
+ "caresse": {
+  "class": "altered",
+  "from": "cariño",
+  "reason": "model pass 2026-09-13: different roots, unrelated meaning"
+ },
+ "carnage": {
+  "class": "altered",
+  "from": "carnicería",
+  "reason": "model pass 2026-09-13: meanings diverged too far"
+ },
+ "casseur": {
+  "class": "altered",
+  "from": "cazador",
+  "reason": "model pass 2026-09-13: casseur (breaker) vs cazador (hunter), unrelated meaning"
+ },
+ "celer": {
+  "class": "altered",
+  "from": "calar",
+  "reason": "model pass 2026-09-13: different Latin roots, unrelated meanings"
+ },
+ "celui": {
+  "class": "altered",
+  "from": "aquel",
+  "reason": "model pass 2026-09-13: different demonstrative constructions, not same source"
+ },
+ "cercle": {
+  "class": "altered",
+  "from": "cerca",
+  "reason": "model pass 2026-09-13: circulus vs circa, different roots/meanings"
+ },
+ "change": {
+  "class": "altered",
+  "from": "canje",
+  "reason": "model pass 2026-09-13: uncertain shared source, different etymology"
+ },
+ "chantier": {
+  "class": "altered",
+  "from": "cantera",
+  "reason": "model pass 2026-09-13: chantier (worksite) vs cantera (quarry), different roots"
+ },
+ "chrome": {
+  "class": "transparent",
+  "from": "chrome",
+  "reason": "model pass 2026-09-13: donor not a Spanish word (should be cromo)"
+ },
+ "circonscrire": {
+  "class": "altered",
+  "from": "circundante",
+  "reason": "model pass 2026-09-13: different meanings/roots, not same source"
+ },
+ "ciseau": {
+  "class": "altered",
+  "from": "tijera",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "claquer": {
+  "class": "altered",
+  "from": "chasquear",
+  "reason": "model pass 2026-09-13: different onomatopoeic origins, not cognate"
+ },
+ "clara": {
+  "class": "transparent",
+  "from": "clara",
+  "reason": "model pass 2026-09-13: 'clara' not a French word"
+ },
+ "classic": {
+  "class": "altered",
+  "from": "clásico",
+  "reason": "model pass 2026-09-13: 'classic' not a French word"
+ },
+ "clic": {
+  "class": "altered",
+  "from": "click",
+  "reason": "model pass 2026-09-13: 'click' not a Spanish word"
+ },
+ "clos": {
+  "class": "transparent",
+  "from": "claus",
+  "reason": "model pass 2026-09-13: 'claus' not a Spanish word"
+ },
+ "col": {
+  "class": "altered",
+  "from": "cuello",
+  "reason": "model pass 2026-09-13: cuello and col are unrelated word forms, translation not cognate"
+ },
+ "colombier": {
+  "class": "altered",
+  "from": "palomar",
+  "reason": "model pass 2026-09-13: colombier and palomar come from different Latin roots"
+ },
+ "compre": {
+  "class": "altered",
+  "from": "compra",
+  "reason": "model pass 2026-09-13: 'compre' not a real French word"
+ },
+ "compris": {
+  "class": "transparent",
+  "from": "comprender",
+  "reason": "model pass 2026-09-13: donor 'comprendre' is French, not Spanish"
+ },
+ "conférencier": {
+  "class": "altered",
+  "from": "ponente",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "conquérir": {
+  "class": "altered",
+  "from": "conseguir",
+  "reason": "model pass 2026-09-13: different Latin roots, not cognate"
+ },
+ "conte": {
+  "class": "altered",
+  "from": "cuenta",
+  "reason": "model pass 2026-09-13: same root but unrelated meanings, false friend"
+ },
+ "corner": {
+  "class": "altered",
+  "from": "hornear",
+  "reason": "model pass 2026-09-13: different meanings; not related source (bake vs corner)"
+ },
+ "couche": {
+  "class": "altered",
+  "from": "cocha",
+  "reason": "model pass 2026-09-13: cocha not real cognate source for couche"
+ },
+ "couple": {
+  "class": "altered",
+  "from": "copla",
+  "reason": "model pass 2026-09-13: couple/copla meanings unrelated today"
+ },
+ "courtier": {
+  "class": "altered",
+  "from": "cortesano",
+  "reason": "model pass 2026-09-13: courtier/broker vs cortesano/courtier meanings diverged"
+ },
+ "croquer": {
+  "class": "altered",
+  "from": "croqueta",
+  "reason": "model pass 2026-09-13: verb vs noun, unrelated food item meaning"
+ },
+ "crosse": {
+  "class": "altered",
+  "from": "cruz",
+  "reason": "model pass 2026-09-13: different meanings, false friend (club vs cross)"
+ },
+ "créancier": {
+  "class": "altered",
+  "from": "acreedor",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "câlin": {
+  "class": "altered",
+  "from": "cariño",
+  "reason": "model pass 2026-09-13: native French word, false friend"
+ },
+ "côlon": {
+  "class": "transparent",
+  "from": "colón",
+  "reason": "model pass 2026-09-13: colon (anatomy) vs Columbus/currency, false friend"
+ },
+ "datta": {
+  "class": "altered",
+  "from": "dato",
+  "reason": "model pass 2026-09-13: datta is not a real French word"
+ },
+ "detroit": {
+  "class": "altered",
+  "from": "estrecho",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "devis": {
+  "class": "altered",
+  "from": "desvío",
+  "reason": "model pass 2026-09-13: unrelated meanings and roots"
+ },
+ "diner": {
+  "class": "altered",
+  "from": "dinero",
+  "reason": "model pass 2026-09-13: false friend: dinner vs money"
+ },
+ "discordance": {
+  "class": "altered",
+  "from": "discrepancia",
+  "reason": "model pass 2026-09-13: different Latin roots, not same source"
+ },
+ "donde": {
+  "class": "transparent",
+  "from": "dónde",
+  "reason": "model pass 2026-09-13: donde is Spanish, not French word"
+ },
+ "donner": {
+  "class": "altered",
+  "from": "dar",
+  "reason": "model pass 2026-09-13: donner from donare, dar from dare, different roots"
+ },
+ "déchausser": {
+  "class": "altered",
+  "from": "descalzar",
+  "reason": "model pass 2026-09-13: different roots (chausser vs calzar), not cognates"
+ },
+ "déchet": {
+  "class": "altered",
+  "from": "desecho",
+  "reason": "model pass 2026-09-13: déchet from choir, desecho from echar, different roots"
+ },
+ "décoller": {
+  "class": "altered",
+  "from": "despegar",
+  "reason": "model pass 2026-09-13: décoller from colle, despegar from pegar, different roots"
+ },
+ "découper": {
+  "class": "altered",
+  "from": "recortar",
+  "reason": "model pass 2026-09-13: découper and recortar are unrelated roots"
+ },
+ "décéder": {
+  "class": "altered",
+  "from": "fallecer",
+  "reason": "model pass 2026-09-13: décéder and fallecer share no common source"
+ },
+ "déesse": {
+  "class": "altered",
+  "from": "dios",
+  "reason": "model pass 2026-09-13: déesse (goddess) vs dios (god), meaning mismatch"
+ },
+ "délai": {
+  "class": "altered",
+  "from": "dilación",
+  "reason": "model pass 2026-09-13: different Latin roots, not same source"
+ },
+ "démarrage": {
+  "class": "altered",
+  "from": "arranque",
+  "reason": "model pass 2026-09-13: démarrage(amarrer) vs arranque(arrancar) different roots"
+ },
+ "dépassant": {
+  "class": "altered",
+  "from": "desbordante",
+  "reason": "model pass 2026-09-13: different verbs, unrelated roots"
+ },
+ "dépréciatif": {
+  "class": "altered",
+  "from": "despectivo",
+  "reason": "model pass 2026-09-13: different roots depreciare vs despicere"
+ },
+ "déranger": {
+  "class": "altered",
+  "from": "desordenar",
+  "reason": "model pass 2026-09-13: déranger(ranger) vs desordenar(orden) different roots"
+ },
+ "déroulement": {
+  "class": "altered",
+  "from": "desenvolvimiento",
+  "reason": "model pass 2026-09-13: dérouler(roll) vs desenvolver different roots"
+ },
+ "désarroi": {
+  "class": "altered",
+  "from": "desorden",
+  "reason": "model pass 2026-09-13: désarroi vs desorden different roots"
+ },
+ "détente": {
+  "class": "altered",
+  "from": "detente",
+  "reason": "model pass 2026-09-23: different sources: French détente vs Spanish imperative detente"
+ },
+ "détrôner": {
+  "class": "altered",
+  "from": "derrocar",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "déverser": {
+  "class": "altered",
+  "from": "derramar",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "efficace": {
+  "class": "altered",
+  "from": "eficiente",
+  "reason": "model pass 2026-09-13: mismatched Spanish word (eficiente vs eficaz)"
+ },
+ "effondrement": {
+  "class": "transparent",
+  "from": "hundimiento",
+  "reason": "model pass 2026-09-13: unrelated roots, not cognate"
+ },
+ "effraction": {
+  "class": "altered",
+  "from": "fractura",
+  "reason": "model pass 2026-09-13: different words, not same source"
+ },
+ "empoisonnement": {
+  "class": "altered",
+  "from": "envenenamiento",
+  "reason": "model pass 2026-09-13: different roots (poison vs veneno)"
+ },
+ "encadrer": {
+  "class": "altered",
+  "from": "enmarcar",
+  "reason": "model pass 2026-09-13: different roots (cadre vs marco)"
+ },
+ "encaisser": {
+  "class": "altered",
+  "from": "encajar",
+  "reason": "model pass 2026-09-13: meanings diverged too far, false friend"
+ },
+ "enclos": {
+  "class": "altered",
+  "from": "encierro",
+  "reason": "model pass 2026-09-13: different roots (clos vs cerrar)"
+ },
+ "encouragement": {
+  "class": "altered",
+  "from": "encarecimiento",
+  "reason": "model pass 2026-09-13: different roots/meanings"
+ },
+ "endurance": {
+  "class": "altered",
+  "from": "aguante",
+  "reason": "model pass 2026-09-13: unrelated roots"
+ },
+ "enflammer": {
+  "class": "altered",
+  "from": "encender",
+  "reason": "model pass 2026-09-13: different roots (flamme vs incendere)"
+ },
+ "enfoncer": {
+  "class": "altered",
+  "from": "enfundar",
+  "reason": "model pass 2026-09-13: different roots/meanings"
+ },
+ "engouement": {
+  "class": "altered",
+  "from": "enamoramiento",
+  "reason": "model pass 2026-09-13: different roots (goût vs amor)"
+ },
+ "engraisser": {
+  "class": "altered",
+  "from": "engordar",
+  "reason": "model pass 2026-09-13: different roots (graisse vs gordo)"
+ },
+ "entrave": {
+  "class": "altered",
+  "from": "traba",
+  "reason": "model pass 2026-09-13: different roots, unclear shared source"
+ },
+ "entreprise": {
+  "class": "altered",
+  "from": "enterprise",
+  "reason": "model pass 2026-09-13: donor 'enterprise' is English, not Spanish"
+ },
+ "escouade": {
+  "class": "altered",
+  "from": "escoba",
+  "reason": "model pass 2026-09-13: false friend: squad vs broom"
+ },
+ "etre": {
+  "class": "altered",
+  "from": "ser",
+  "reason": "unaccented duplicate of être; ser is a translation"
+ },
+ "european": {
+  "class": "altered",
+  "from": "europeo",
+  "reason": "model pass 2026-09-13: 'european' not a real French word"
+ },
+ "exploit": {
+  "class": "altered",
+  "from": "explotación",
+  "reason": "model pass 2026-09-13: different meanings, not related"
+ },
+ "faiblement": {
+  "class": "altered",
+  "from": "débilmente",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "faiblesse": {
+  "class": "altered",
+  "from": "flaqueza",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "faire": {
+  "class": "altered",
+  "from": "facer",
+  "reason": "model pass 2026-09-13: facer is Galician/Portuguese, not Spanish"
+ },
+ "faisabilité": {
+  "class": "altered",
+  "from": "viabilidad",
+  "reason": "model pass 2026-09-13: different roots (faisable vs viable)"
+ },
+ "ferme": {
+  "class": "altered",
+  "from": "firma",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "fermer": {
+  "class": "altered",
+  "from": "cerrar",
+  "reason": "model pass 2026-09-13: different roots (fermer vs cerrar)"
+ },
+ "filé": {
+  "class": "altered",
+  "from": "filete",
+  "reason": "model pass 2026-09-13: different meanings, unclear shared source"
+ },
+ "fonte": {
+  "class": "altered",
+  "from": "fuente",
+  "reason": "model pass 2026-09-13: different meanings: melting vs fountain"
+ },
+ "fouet": {
+  "class": "altered",
+  "from": "fusta",
+  "reason": "model pass 2026-09-13: different roots, not same source"
+ },
+ "fourniture": {
+  "class": "altered",
+  "from": "suministro",
+  "reason": "model pass 2026-09-13: different Latin roots, not cognates"
+ },
+ "frere": {
+  "class": "altered",
+  "from": "fraile",
+  "reason": "model pass 2026-09-13: different meanings: brother vs friar"
+ },
+ "fructifier": {
+  "class": "altered",
+  "from": "frutar",
+  "reason": "model pass 2026-09-13: frutar not standard Spanish word"
+ },
+ "frère": {
+  "class": "altered",
+  "from": "fraile",
+  "reason": "model pass 2026-09-13: different meanings: brother vs friar"
+ },
+ "fur": {
+  "class": "altered",
+  "from": "furia",
+  "reason": "model pass 2026-09-13: different meanings, not same word"
+ },
+ "gaillard": {
+  "class": "altered",
+  "from": "gañán",
+  "reason": "model pass 2026-09-13: different source words, unrelated meaning"
+ },
+ "garden": {
+  "class": "altered",
+  "from": "jardín",
+  "reason": "model pass 2026-09-13: garden is English, not French"
+ },
+ "gire": {
+  "class": "altered",
+  "from": "giro",
+  "reason": "model pass 2026-09-13: gire not a real French word"
+ },
+ "golpe": {
+  "class": "transparent",
+  "from": "golpe",
+  "reason": "model pass 2026-09-13: golpe not a French word"
+ },
+ "gouffre": {
+  "class": "altered",
+  "from": "golfo",
+  "reason": "model pass 2026-09-13: false friend, unrelated meanings"
+ },
+ "gourre": {
+  "class": "altered",
+  "from": "gorro",
+  "reason": "model pass 2026-09-13: gourre not a real French word"
+ },
+ "grille": {
+  "class": "transparent",
+  "from": "grillar",
+  "reason": "model pass 2026-09-13: grille (grid) unrelated to grillar (chirp)"
+ },
+ "griller": {
+  "class": "transparent",
+  "from": "grillar",
+  "reason": "model pass 2026-09-13: griller (grill) unrelated to grillar (chirp)"
+ },
+ "grillé": {
+  "class": "transparent",
+  "from": "grillar",
+  "reason": "model pass 2026-09-13: grillé (grilled) unrelated to grillar (chirp)"
+ },
+ "griser": {
+  "class": "altered",
+  "from": "grisáceo",
+  "reason": "model pass 2026-09-13: griser (intoxicate) vs grisáceo (grayish) unrelated meaning"
+ },
+ "grès": {
+  "class": "altered",
+  "from": "arenisca",
+  "reason": "model pass 2026-09-13: different roots, not true cognates"
+ },
+ "guérir": {
+  "class": "altered",
+  "from": "curar",
+  "reason": "model pass 2026-09-13: different roots, not true cognates"
+ },
+ "gêne": {
+  "class": "altered",
+  "from": "génova",
+  "reason": "model pass 2026-09-13: gêne (discomfort) vs Génova (Genoa) unrelated"
+ },
+ "habillement": {
+  "class": "altered",
+  "from": "hábilmente",
+  "reason": "model pass 2026-09-13: different source words, unrelated meanings"
+ },
+ "hasard": {
+  "class": "altered",
+  "from": "casualidad",
+  "reason": "model pass 2026-09-13: different source words, not true cognates"
+ },
+ "hazard": {
+  "class": "altered",
+  "from": "azar",
+  "reason": "model pass 2026-09-13: not real French word (should be hasard)"
+ },
+ "horticole": {
+  "class": "altered",
+  "from": "hortaliza",
+  "reason": "model pass 2026-09-13: different meanings, unclear shared source"
+ },
+ "immédiateté": {
+  "class": "altered",
+  "from": "inmediación",
+  "reason": "model pass 2026-09-13: different meanings, false friends"
+ },
+ "impitoyable": {
+  "class": "altered",
+  "from": "implacable",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "imprescriptible": {
+  "class": "altered",
+  "from": "imprescindible",
+  "reason": "model pass 2026-09-13: false friends, different meanings"
+ },
+ "incontestablement": {
+  "class": "transparent",
+  "from": "indiscutiblemente",
+  "reason": "model pass 2026-09-13: different roots: contester vs discutir"
+ },
+ "incontournable": {
+  "class": "altered",
+  "from": "inevitable",
+  "reason": "model pass 2026-09-13: different roots: contourner vs evitar"
+ },
+ "indole": {
+  "class": "transparent",
+  "from": "índole",
+  "reason": "model pass 2026-09-13: false friend: indole vs índole (nature) unrelated meaning"
+ },
+ "infatigable": {
+  "class": "altered",
+  "from": "incansable",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "ingérer": {
+  "class": "altered",
+  "from": "ingresar",
+  "reason": "model pass 2026-09-13: different Latin roots, false friend"
+ },
+ "initio": {
+  "class": "transparent",
+  "from": "inicio",
+  "reason": "model pass 2026-09-13: not a real French word"
+ },
+ "intention": {
+  "class": "altered",
+  "from": "intento",
+  "reason": "model pass 2026-09-13: intento means attempt, false friend"
+ },
+ "interview": {
+  "class": "altered",
+  "from": "entrevistar",
+  "reason": "model pass 2026-09-13: different source words (English vs Spanish)"
+ },
+ "interviewer": {
+  "class": "altered",
+  "from": "entrevistar",
+  "reason": "model pass 2026-09-13: different source words (English vs Spanish)"
+ },
+ "intrusion": {
+  "class": "transparent",
+  "from": "intromisión",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "intérieurement": {
+  "class": "altered",
+  "from": "internamente",
+  "reason": "model pass 2026-09-13: different roots (intérieur vs interno)"
+ },
+ "inutilisable": {
+  "class": "transparent",
+  "from": "inservible",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "irrésistible": {
+  "class": "altered",
+  "from": "imparable",
+  "reason": "model pass 2026-09-13: different words, not cognates"
+ },
+ "jetable": {
+  "class": "altered",
+  "from": "desechable",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "joyeusement": {
+  "class": "altered",
+  "from": "alegremente",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "jus": {
+  "class": "altered",
+  "from": "jugo",
+  "reason": "model pass 2026-09-13: different Latin roots, false cognate"
+ },
+ "land": {
+  "class": "transparent",
+  "from": "land",
+  "reason": "model pass 2026-09-13: not real word in either language"
+ },
+ "lasser": {
+  "class": "altered",
+  "from": "cansar",
+  "reason": "model pass 2026-09-13: different Latin roots, not cognate"
+ },
+ "lavande": {
+  "class": "altered",
+  "from": "lavender",
+  "reason": "model pass 2026-09-23: donor 'lavender' is English, not Spanish"
+ },
+ "liberty": {
+  "class": "altered",
+  "from": "libertad",
+  "reason": "model pass 2026-09-13: not standard French word"
+ },
+ "lie": {
+  "class": "altered",
+  "from": "ley",
+  "reason": "model pass 2026-09-13: different meaning and source"
+ },
+ "lieutenant": {
+  "class": "altered",
+  "from": "teniente",
+  "reason": "model pass 2026-09-13: different word formations, not cognate"
+ },
+ "lin": {
+  "class": "altered",
+  "from": "lienzo",
+  "reason": "model pass 2026-09-13: different meaning/source word"
+ },
+ "loriot": {
+  "class": "altered",
+  "from": "loro",
+  "reason": "model pass 2026-09-13: different meanings, unrelated roots (oriole vs parrot)"
+ },
+ "loupé": {
+  "class": "altered",
+  "from": "lupa",
+  "reason": "model pass 2026-09-13: loupé unrelated to lupa (different verb root)"
+ },
+ "lunette": {
+  "class": "altered",
+  "from": "lente",
+  "reason": "model pass 2026-09-13: different roots, not true cognates"
+ },
+ "machin": {
+  "class": "altered",
+  "from": "máquina",
+  "reason": "model pass 2026-09-13: different meanings, not cognates"
+ },
+ "maillet": {
+  "class": "altered",
+  "from": "maceta",
+  "reason": "model pass 2026-09-13: different roots/meanings, false cognate"
+ },
+ "maint": {
+  "class": "altered",
+  "from": "manir",
+  "reason": "model pass 2026-09-13: different meanings, not true cognates"
+ },
+ "malgré": {
+  "class": "altered",
+  "from": "maltrecho",
+  "reason": "model pass 2026-09-13: different meaning: despite vs battered"
+ },
+ "manoir": {
+  "class": "transparent",
+  "from": "manor",
+  "reason": "model pass 2026-09-13: 'manor' is English, not Spanish"
+ },
+ "marc": {
+  "class": "transparent",
+  "from": "marc",
+  "reason": "model pass 2026-09-13: 'marc' not a Spanish word"
+ },
+ "mater": {
+  "class": "altered",
+  "from": "materia",
+  "reason": "model pass 2026-09-13: false friend: tame vs matter"
+ },
+ "maths": {
+  "class": "transparent",
+  "from": "mate",
+  "reason": "model pass 2026-09-13: false friend: math vs checkmate/mate"
+ },
+ "maçonnerie": {
+  "class": "altered",
+  "from": "albañilería",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "mercato": {
+  "class": "altered",
+  "from": "mercadeo",
+  "reason": "model pass 2026-09-13: different source words, unrelated meaning"
+ },
+ "mere": {
+  "class": "transparent",
+  "from": "meramente",
+  "reason": "model pass 2026-09-13: not a real French word/fragment"
+ },
+ "meunier": {
+  "class": "altered",
+  "from": "molinero",
+  "reason": "model pass 2026-09-13: different roots (meunier vs molinero)"
+ },
+ "meurtre": {
+  "class": "altered",
+  "from": "muerte",
+  "reason": "model pass 2026-09-13: different origins (Frankish vs Latin mors)"
+ },
+ "molester": {
+  "class": "transparent",
+  "from": "molesto",
+  "reason": "model pass 2026-09-13: different meaning: harass vs annoying"
+ },
+ "montana": {
+  "class": "altered",
+  "from": "montaña",
+  "reason": "model pass 2026-09-13: Montana is proper name, differs from mountain"
+ },
+ "mutation": {
+  "class": "altered",
+  "from": "mudanza",
+  "reason": "model pass 2026-09-13: meanings diverged: mutation vs house move"
+ },
+ "méconnaître": {
+  "class": "altered",
+  "from": "desconocer",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "mécontent": {
+  "class": "altered",
+  "from": "descontento",
+  "reason": "model pass 2026-09-13: parallel calque, different prefixes/source"
+ },
+ "mécontentement": {
+  "class": "altered",
+  "from": "descontento",
+  "reason": "model pass 2026-09-13: parallel calque, different prefixes/source"
+ },
+ "méfiance": {
+  "class": "altered",
+  "from": "desconfianza",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "méfier": {
+  "class": "altered",
+  "from": "desconfiar",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "mémé": {
+  "class": "altered",
+  "from": "mamá",
+  "reason": "model pass 2026-09-13: unrelated words, not same source"
+ },
+ "ménestrel": {
+  "class": "altered",
+  "from": "menester",
+  "reason": "model pass 2026-09-23: different meanings/roots: minstrel vs necessity"
+ },
+ "nominatif": {
+  "class": "altered",
+  "from": "nómina",
+  "reason": "model pass 2026-09-13: nómina means payroll, not nominative"
+ },
+ "obstruer": {
+  "class": "altered",
+  "from": "obstaculizar",
+  "reason": "model pass 2026-09-13: obstaculizar derives from obstáculo, different root"
+ },
+ "obséquiosité": {
+  "class": "altered",
+  "from": "obsequio",
+  "reason": "model pass 2026-09-13: obsequio means gift, unrelated meaning"
+ },
+ "oreiller": {
+  "class": "altered",
+  "from": "orilla",
+  "reason": "model pass 2026-09-13: oreiller (pillow) vs orilla (shore), unrelated meanings"
+ },
+ "os": {
+  "class": "altered",
+  "from": "oso",
+  "reason": "model pass 2026-09-13: os (bone) vs oso (bear), false friend"
+ },
+ "outrance": {
+  "class": "altered",
+  "from": "ultraje",
+  "reason": "model pass 2026-09-13: different meaning, not from ultraje"
+ },
+ "papille": {
+  "class": "altered",
+  "from": "papilla",
+  "reason": "model pass 2026-09-23: different meanings: taste bud vs porridge"
+ },
+ "pari": {
+  "class": "transparent",
+  "from": "parir",
+  "reason": "model pass 2026-09-13: bet vs give birth, unrelated meaning"
+ },
+ "parvis": {
+  "class": "altered",
+  "from": "atrio",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "percer": {
+  "class": "altered",
+  "from": "perforar",
+  "reason": "model pass 2026-09-13: different Latin roots, not cognate"
+ },
+ "percée": {
+  "class": "altered",
+  "from": "perforación",
+  "reason": "model pass 2026-09-13: different Latin roots, not cognate"
+ },
+ "phone": {
+  "class": "altered",
+  "from": "teléfono",
+  "reason": "model pass 2026-09-13: phone/teléfono not same source"
+ },
+ "picard": {
+  "class": "altered",
+  "from": "pícaro",
+  "reason": "model pass 2026-09-13: different words, unrelated meanings"
+ },
+ "picardie": {
+  "class": "transparent",
+  "from": "picardía",
+  "reason": "model pass 2026-09-23: Picardie is place name; picardía means mischief, unrelated"
+ },
+ "piece": {
+  "class": "altered",
+  "from": "pieza",
+  "reason": "model pass 2026-09-13: piece is misspelled, not real French word"
+ },
+ "pieces": {
+  "class": "transparent",
+  "from": "pieza",
+  "reason": "model pass 2026-09-13: pieces is misspelled, not real French word"
+ },
+ "pierre": {
+  "class": "altered",
+  "from": "pedro",
+  "reason": "model pass 2026-09-13: common noun vs proper name, unrelated"
+ },
+ "piscine": {
+  "class": "transparent",
+  "from": "piscina",
+  "reason": "model pass 2026-09-13: false friend, different sources"
+ },
+ "piso": {
+  "class": "altered",
+  "from": "piso",
+  "reason": "model pass 2026-09-13: piso not a real French word"
+ },
+ "pitoyable": {
+  "class": "altered",
+  "from": "deplorable",
+  "reason": "model pass 2026-09-13: different source words entirely"
+ },
+ "piètre": {
+  "class": "altered",
+  "from": "pétreo",
+  "reason": "model pass 2026-09-13: different roots, unrelated meanings"
+ },
+ "placement": {
+  "class": "transparent",
+  "from": "placement",
+  "reason": "model pass 2026-09-13: placement is English, not Spanish word"
+ },
+ "plaid": {
+  "class": "altered",
+  "from": "pleito",
+  "reason": "model pass 2026-09-13: different sources, unrelated meanings"
+ },
+ "plaie": {
+  "class": "altered",
+  "from": "plaga",
+  "reason": "model pass 2026-09-13: meanings diverged, unrelated senses"
+ },
+ "plaignant": {
+  "class": "altered",
+  "from": "demandante",
+  "reason": "model pass 2026-09-13: different source words entirely"
+ },
+ "platane": {
+  "class": "altered",
+  "from": "plátano",
+  "reason": "model pass 2026-09-13: false friend: tree vs banana"
+ },
+ "poison": {
+  "class": "altered",
+  "from": "poción",
+  "reason": "model pass 2026-09-13: poison (toxic) vs poción (potion) diverged meaning"
+ },
+ "portrait": {
+  "class": "altered",
+  "from": "retrato",
+  "reason": "model pass 2026-09-13: different Latin roots, not true cognates"
+ },
+ "pose": {
+  "class": "altered",
+  "from": "posición",
+  "reason": "model pass 2026-09-13: pose derives from poser, not posición"
+ },
+ "poser": {
+  "class": "altered",
+  "from": "poner",
+  "reason": "model pass 2026-09-13: different Latin roots (pausare vs ponere)"
+ },
+ "poursuivre": {
+  "class": "altered",
+  "from": "perseguir",
+  "reason": "model pass 2026-09-13: different roots, not true cognates"
+ },
+ "pousser": {
+  "class": "altered",
+  "from": "pujar",
+  "reason": "model pass 2026-09-13: different Latin roots (pulsare vs pugnare)"
+ },
+ "poussin": {
+  "class": "altered",
+  "from": "pollino",
+  "reason": "model pass 2026-09-13: poussin 'chick' vs pollino 'donkey' unrelated meaning"
+ },
+ "pressant": {
+  "class": "altered",
+  "from": "apremiante",
+  "reason": "model pass 2026-09-23: different lexemes, not direct cognates"
+ },
+ "prie": {
+  "class": "altered",
+  "from": "plegaria",
+  "reason": "model pass 2026-09-13: prie is verb form, not cognate with plegaria"
+ },
+ "profiter": {
+  "class": "altered",
+  "from": "aprovechar",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "prune": {
+  "class": "altered",
+  "from": "ciruela",
+  "reason": "model pass 2026-09-13: different roots, not cognate (prunum vs cereola)"
+ },
+ "prénom": {
+  "class": "altered",
+  "from": "nombre",
+  "reason": "model pass 2026-09-13: prénom vs nombre, not same source"
+ },
+ "prétendument": {
+  "class": "altered",
+  "from": "presuntamente",
+  "reason": "model pass 2026-09-13: different source words (prétendre vs presunto)"
+ },
+ "prévoyant": {
+  "class": "altered",
+  "from": "prevenir",
+  "reason": "model pass 2026-09-13: different meanings, not same word"
+ },
+ "prône": {
+  "class": "altered",
+  "from": "propenso",
+  "reason": "model pass 2026-09-13: different meanings/source, not cognate"
+ },
+ "puisque": {
+  "class": "altered",
+  "from": "porque",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "quartier": {
+  "class": "altered",
+  "from": "barrio",
+  "reason": "model pass 2026-09-13: different words, not cognate"
+ },
+ "querelle": {
+  "class": "altered",
+  "from": "pelea",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "raie": {
+  "class": "altered",
+  "from": "rayar",
+  "reason": "model pass 2026-09-13: different origins, not true cognates"
+ },
+ "range": {
+  "class": "transparent",
+  "from": "rango",
+  "reason": "model pass 2026-09-13: not a real French lemma"
+ },
+ "rapporteur": {
+  "class": "altered",
+  "from": "ponente",
+  "reason": "model pass 2026-09-13: different source words"
+ },
+ "ravin": {
+  "class": "altered",
+  "from": "barranco",
+  "reason": "model pass 2026-09-13: different source words"
+ },
+ "rebours": {
+  "class": "altered",
+  "from": "revés",
+  "reason": "model pass 2026-09-13: different source roots"
+ },
+ "regagner": {
+  "class": "altered",
+  "from": "recuperar",
+  "reason": "model pass 2026-09-13: different source words"
+ },
+ "regina": {
+  "class": "altered",
+  "from": "reina",
+  "reason": "model pass 2026-09-13: not a French word"
+ },
+ "rejoindre": {
+  "class": "altered",
+  "from": "reunir",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "relever": {
+  "class": "altered",
+  "from": "relevante",
+  "reason": "model pass 2026-09-13: relever vs relevante, mismatched meaning"
+ },
+ "remarquable": {
+  "class": "altered",
+  "from": "destacable",
+  "reason": "model pass 2026-09-13: different roots (remarquable vs destacable)"
+ },
+ "remerciement": {
+  "class": "altered",
+  "from": "agradecimiento",
+  "reason": "model pass 2026-09-13: different roots (remercier vs agradecer)"
+ },
+ "remiser": {
+  "class": "altered",
+  "from": "remesa",
+  "reason": "model pass 2026-09-13: different meanings, not same source"
+ },
+ "remous": {
+  "class": "altered",
+  "from": "remolino",
+  "reason": "model pass 2026-09-13: unrelated roots (remous vs molino)"
+ },
+ "renvoyer": {
+  "class": "altered",
+  "from": "remitir",
+  "reason": "model pass 2026-09-13: different roots (envoyer vs mittere)"
+ },
+ "repousser": {
+  "class": "altered",
+  "from": "rechazar",
+  "reason": "model pass 2026-09-13: different roots (pousser vs rechazar)"
+ },
+ "repoussé": {
+  "class": "altered",
+  "from": "repujado",
+  "reason": "model pass 2026-09-13: different roots, unrelated meaning"
+ },
+ "respect": {
+  "class": "transparent",
+  "from": "respecto",
+  "reason": "model pass 2026-09-13: false friend: respecto means 'regarding'"
+ },
+ "ressortir": {
+  "class": "altered",
+  "from": "resaltar",
+  "reason": "model pass 2026-09-13: different roots (sortir vs saltar)"
+ },
+ "ressource": {
+  "class": "altered",
+  "from": "recurso",
+  "reason": "model pass 2026-09-13: different roots (source vs curso)"
+ },
+ "retarder": {
+  "class": "altered",
+  "from": "retrasar",
+  "reason": "model pass 2026-09-13: different roots (tarder vs atrasar)"
+ },
+ "retraiter": {
+  "class": "altered",
+  "from": "retirada",
+  "reason": "model pass 2026-09-13: different roots, retraiter vs retirada mismatch"
+ },
+ "revenir": {
+  "class": "altered",
+  "from": "revertir",
+  "reason": "model pass 2026-09-13: different meanings/sources, revenir vs revertir"
+ },
+ "revoir": {
+  "class": "altered",
+  "from": "revistar",
+  "reason": "model pass 2026-09-13: different meanings/sources, revoir vs revistar"
+ },
+ "roma": {
+  "class": "transparent",
+  "from": "romo",
+  "reason": "model pass 2026-09-13: roma not real French word, meaning mismatch"
+ },
+ "ruse": {
+  "class": "transparent",
+  "from": "ruso",
+  "reason": "model pass 2026-09-13: ruse vs ruso, false friends"
+ },
+ "russo": {
+  "class": "transparent",
+  "from": "ruso",
+  "reason": "model pass 2026-09-13: russo not standalone French word"
+ },
+ "résiliation": {
+  "class": "altered",
+  "from": "resolución",
+  "reason": "model pass 2026-09-13: different roots, unrelated meanings"
+ },
+ "résulter": {
+  "class": "transparent",
+  "from": "resulta",
+  "reason": "model pass 2026-09-13: resulta is a conjugated form, not lemma"
+ },
+ "réveiller": {
+  "class": "altered",
+  "from": "revelar",
+  "reason": "model pass 2026-09-13: false friend: wake up vs reveal"
+ },
+ "sabot": {
+  "class": "altered",
+  "from": "zapata",
+  "reason": "model pass 2026-09-13: different roots: sabot vs zapata"
+ },
+ "sauvegarder": {
+  "class": "altered",
+  "from": "resguardar",
+  "reason": "model pass 2026-09-13: different roots: sauvegarder vs resguardar"
+ },
+ "savetier": {
+  "class": "altered",
+  "from": "zapatero",
+  "reason": "model pass 2026-09-13: different roots: savetier vs zapatero"
+ },
+ "seigneur": {
+  "class": "altered",
+  "from": "senior",
+  "reason": "model pass 2026-09-13: seigneur vs senior meanings diverge"
+ },
+ "senior": {
+  "class": "altered",
+  "from": "señor",
+  "reason": "model pass 2026-09-13: senior vs señor different meanings"
+ },
+ "ser": {
+  "class": "transparent",
+  "from": "ser",
+  "reason": "model pass 2026-09-13: ser is not a French word"
+ },
+ "serment": {
+  "class": "altered",
+  "from": "juramento",
+  "reason": "model pass 2026-09-13: serment and juramento different roots"
+ },
+ "serrée": {
+  "class": "altered",
+  "from": "serrar",
+  "reason": "model pass 2026-09-13: serrée vs serrar unrelated meanings"
+ },
+ "sillage": {
+  "class": "altered",
+  "from": "estela",
+  "reason": "model pass 2026-09-13: sillage and estela different sources"
+ },
+ "sommer": {
+  "class": "transparent",
+  "from": "someter",
+  "reason": "model pass 2026-09-13: different roots, unrelated meanings (summon vs submit)"
+ },
+ "sommet": {
+  "class": "altered",
+  "from": "sumamente",
+  "reason": "model pass 2026-09-13: false friend: summit vs extremely"
+ },
+ "sorte": {
+  "class": "altered",
+  "from": "suerte",
+  "reason": "model pass 2026-09-13: different meanings, unrelated senses (kind vs luck)"
+ },
+ "soucier": {
+  "class": "altered",
+  "from": "suscitar",
+  "reason": "model pass 2026-09-13: different roots, unrelated meanings (worry vs provoke)"
+ },
+ "souhaitable": {
+  "class": "altered",
+  "from": "deseable",
+  "reason": "model pass 2026-09-13: different roots (wish vs desire)"
+ },
+ "soulèvement": {
+  "class": "altered",
+  "from": "levantamiento",
+  "reason": "model pass 2026-09-13: different word formation, not same source"
+ },
+ "souris": {
+  "class": "altered",
+  "from": "mouse",
+  "reason": "model pass 2026-09-13: unrelated words, different languages/roots"
+ },
+ "sous": {
+  "class": "altered",
+  "from": "suso",
+  "reason": "model pass 2026-09-13: different Latin roots, opposite meanings"
+ },
+ "sperme": {
+  "class": "altered",
+  "from": "semen",
+  "reason": "model pass 2026-09-13: different roots: Greek sperma vs Latin semen"
+ },
+ "sponsor": {
+  "class": "altered",
+  "from": "patrocinador",
+  "reason": "model pass 2026-09-13: different words, not cognates"
+ },
+ "stella": {
+  "class": "transparent",
+  "from": "stella",
+  "reason": "model pass 2026-09-13: stella is not a French or Spanish word"
+ },
+ "still": {
+  "class": "transparent",
+  "from": "tranquilo",
+  "reason": "model pass 2026-09-13: still is not a French word"
+ },
+ "sugar": {
+  "class": "altered",
+  "from": "azúcar",
+  "reason": "model pass 2026-09-13: sugar is not a French word"
+ },
+ "surmonter": {
+  "class": "altered",
+  "from": "superar",
+  "reason": "model pass 2026-09-13: different source words (surmonter vs superare)"
+ },
+ "surpasser": {
+  "class": "altered",
+  "from": "superar",
+  "reason": "model pass 2026-09-13: different source words (surpasser vs superare)"
+ },
+ "sursaut": {
+  "class": "altered",
+  "from": "susto",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "surtout": {
+  "class": "altered",
+  "from": "sobretodo",
+  "reason": "model pass 2026-09-13: false friend, meaning diverges (overcoat)"
+ },
+ "surveillance": {
+  "class": "altered",
+  "from": "vigilancia",
+  "reason": "model pass 2026-09-13: different roots (surveiller vs vigilar)"
+ },
+ "surveillant": {
+  "class": "altered",
+  "from": "vigilante",
+  "reason": "model pass 2026-09-13: different roots (surveillant vs vigilante)"
+ },
+ "surveiller": {
+  "class": "altered",
+  "from": "vigilar",
+  "reason": "model pass 2026-09-13: different roots (surveiller vs vigilar)"
+ },
+ "tabler": {
+  "class": "altered",
+  "from": "contar",
+  "reason": "model pass 2026-09-13: different words, not cognates"
+ },
+ "tantôt": {
+  "class": "altered",
+  "from": "tanteo",
+  "reason": "model pass 2026-09-13: different meanings/roots, not same source"
+ },
+ "taxation": {
+  "class": "altered",
+  "from": "tributación",
+  "reason": "model pass 2026-09-13: different roots (taxe vs tributo)"
+ },
+ "tente": {
+  "class": "altered",
+  "from": "tienta",
+  "reason": "model pass 2026-09-13: different meanings, not same source"
+ },
+ "terrer": {
+  "class": "altered",
+  "from": "terraza",
+  "reason": "model pass 2026-09-13: different meanings, not same word"
+ },
+ "terriblement": {
+  "class": "altered",
+  "from": "tremendamente",
+  "reason": "model pass 2026-09-13: different roots (terrible vs tremendo)"
+ },
+ "thon": {
+  "class": "altered",
+  "from": "atún",
+  "reason": "model pass 2026-09-13: different roots (thunnus vs Arabic atún)"
+ },
+ "timar": {
+  "class": "transparent",
+  "from": "timar",
+  "reason": "model pass 2026-09-13: not a French word"
+ },
+ "tiroir": {
+  "class": "altered",
+  "from": "tirador",
+  "reason": "model pass 2026-09-13: meanings unrelated (drawer vs handle/shooter)"
+ },
+ "titration": {
+  "class": "altered",
+  "from": "titulación",
+  "reason": "model pass 2026-09-13: different meanings (titration vs degree)"
+ },
+ "toiture": {
+  "class": "altered",
+  "from": "techumbre",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "tome": {
+  "class": "altered",
+  "from": "toma",
+  "reason": "model pass 2026-09-13: different meanings (volume vs take)"
+ },
+ "tract": {
+  "class": "transparent",
+  "from": "tracto",
+  "reason": "model pass 2026-09-13: different meanings (pamphlet vs tract)"
+ },
+ "trait": {
+  "class": "altered",
+  "from": "trago",
+  "reason": "model pass 2026-09-13: different meanings (trait vs swallow)"
+ },
+ "traîne": {
+  "class": "altered",
+  "from": "tren",
+  "reason": "model pass 2026-09-13: different meanings, not same source"
+ },
+ "traîner": {
+  "class": "altered",
+  "from": "arrastrar",
+  "reason": "model pass 2026-09-13: translation, not cognate"
+ },
+ "tremblement": {
+  "class": "altered",
+  "from": "terremoto",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "tronçon": {
+  "class": "altered",
+  "from": "tramo",
+  "reason": "model pass 2026-09-13: different roots, translation only"
+ },
+ "trébucher": {
+  "class": "transparent",
+  "from": "tropezar",
+  "reason": "model pass 2026-09-13: different roots, translation only"
+ },
+ "tuber": {
+  "class": "altered",
+  "from": "tubérculo",
+  "reason": "model pass 2026-09-13: unrelated meaning/form"
+ },
+ "tunisie": {
+  "class": "altered",
+  "from": "tunisia",
+  "reason": "model pass 2026-09-13: not a real Spanish word"
+ },
+ "tâcher": {
+  "class": "altered",
+  "from": "tarea",
+  "reason": "model pass 2026-09-13: different meaning, not cognate"
+ },
+ "téton": {
+  "class": "altered",
+  "from": "pezón",
+  "reason": "model pass 2026-09-13: different roots, false friend"
+ },
+ "tôle": {
+  "class": "altered",
+  "from": "tola",
+  "reason": "model pass 2026-09-13: not a real Spanish word"
+ },
+ "ulysse": {
+  "class": "altered",
+  "from": "odiseo",
+  "reason": "model pass 2026-09-13: different proper name origins"
+ },
+ "vache": {
+  "class": "transparent",
+  "from": "vaco",
+  "reason": "model pass 2026-09-13: vaco is not a real Spanish word"
+ },
+ "vegas": {
+  "class": "transparent",
+  "from": "vega",
+  "reason": "model pass 2026-09-13: Vegas is proper name vs common noun vega"
+ },
+ "veiner": {
+  "class": "altered",
+  "from": "venerar",
+  "reason": "model pass 2026-09-13: veiner/venerar different roots, false friend"
+ },
+ "ver": {
+  "class": "transparent",
+  "from": "ver",
+  "reason": "model pass 2026-09-13: ver (worm) vs ver (to see) false friend"
+ },
+ "vernal": {
+  "class": "altered",
+  "from": "verano",
+  "reason": "model pass 2026-09-13: vernal (spring) vs verano (summer) meaning mismatch"
+ },
+ "vernis": {
+  "class": "altered",
+  "from": "barniz",
+  "reason": "model pass 2026-09-13: vernis/barniz different source words"
+ },
+ "viande": {
+  "class": "altered",
+  "from": "carne",
+  "reason": "model pass 2026-09-13: viande/carne different source words"
+ },
+ "victor": {
+  "class": "transparent",
+  "from": "vítor",
+  "reason": "model pass 2026-09-23: French victor is a proper name, not a word for cheer"
+ },
+ "vitro": {
+  "class": "transparent",
+  "from": "vitro",
+  "reason": "model pass 2026-09-13: vitro not an independent lemma"
+ },
+ "ère": {
+  "class": "transparent",
+  "from": "ser",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "écurie": {
+  "class": "transparent",
+  "from": "cuadra",
+  "reason": "model pass 2026-09-13: different etymology, not cognate"
+ },
+ "émonder": {
+  "class": "altered",
+  "from": "podar",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "épouse": {
+  "class": "transparent",
+  "from": "esposar",
+  "reason": "model pass 2026-09-13: wife vs handcuff, unrelated meanings"
+ },
+ "étalon": {
+  "class": "altered",
+  "from": "semental",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "étoffe": {
+  "class": "altered",
+  "from": "estofado",
+  "reason": "model pass 2026-09-13: fabric vs stew, unrelated meanings"
+ },
+ "étonnamment": {
+  "class": "altered",
+  "from": "asombrosamente",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "évidemment": {
+  "class": "altered",
+  "from": "obviamente",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "être": {
+  "class": "altered",
+  "from": "ser",
+  "reason": "native \"to be\"; ser is its translation, not the same word (esse/stare vs sedere)"
+ }
+}

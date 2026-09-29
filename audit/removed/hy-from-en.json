@@ -1,0 +1,402 @@
+{
+ "ալտ": {
+  "class": "transparent",
+  "from": "alt",
+  "reason": "model pass 2026-09-23: means viola, from Italian not English alt"
+ },
+ "աղեկտուր": {
+  "class": "altered",
+  "from": "architecture",
+  "reason": "model pass 2026-09-23: garbled form, not real Armenian word"
+ },
+ "ամբիոն": {
+  "class": "altered",
+  "from": "ambition",
+  "reason": "model pass 2026-09-23: means podium, false friend with ambition"
+ },
+ "անուս": {
+  "class": "transparent",
+  "from": "anus",
+  "reason": "hand cut 2026-09-23: native \"unlearned\" (an- + us); not anus"
+ },
+ "ապակի": {
+  "class": "transparent",
+  "from": "opacity",
+  "reason": "model pass 2026-09-23: means glass, false friend with opacity"
+ },
+ "աստանդական": {
+  "class": "transparent",
+  "from": "standard",
+  "reason": "model pass 2026-09-23: unrelated meaning, not a real cognate"
+ },
+ "ավանդույթ": {
+  "class": "altered",
+  "from": "avid",
+  "reason": "model pass 2026-09-23: means tradition, false friend with avid"
+ },
+ "բազե": {
+  "class": "transparent",
+  "from": "base",
+  "reason": "model pass 2026-09-23: means hawk/falcon, unrelated to base"
+ },
+ "բան": {
+  "class": "transparent",
+  "from": "ban",
+  "reason": "model pass 2026-09-23: native word 'thing', not from ban"
+ },
+ "բարբարոս": {
+  "class": "transparent",
+  "from": "barbaros",
+  "reason": "model pass 2026-09-23: barbaros not an English word"
+ },
+ "բի": {
+  "class": "transparent",
+  "from": "bee",
+  "reason": "model pass 2026-09-23: not a real Armenian word"
+ },
+ "բոյ": {
+  "class": "altered",
+  "from": "buoy",
+  "reason": "model pass 2026-09-23: means height/stature, unrelated to buoy"
+ },
+ "գահ": {
+  "class": "transparent",
+  "from": "gag",
+  "reason": "model pass 2026-09-23: Armenian գահ means throne, unrelated to gag"
+ },
+ "գիր": {
+  "class": "altered",
+  "from": "green",
+  "reason": "model pass 2026-09-23: Armenian գիր means letter/writing, not green"
+ },
+ "գլորիա": {
+  "class": "altered",
+  "from": "glory",
+  "reason": "model pass 2026-09-23: Gloria (name) vs glory (common noun), different meanings"
+ },
+ "գունեղ": {
+  "class": "altered",
+  "from": "gun",
+  "reason": "model pass 2026-09-23: գունեղ means colorful, unrelated to gun"
+ },
+ "դիպլոմային": {
+  "class": "transparent",
+  "from": "diplom",
+  "reason": "model pass 2026-09-23: diplom not a real English word"
+ },
+ "դում": {
+  "class": "altered",
+  "from": "dumb",
+  "reason": "model pass 2026-09-23: means Duma, unrelated to 'dumb'"
+ },
+ "դև": {
+  "class": "transparent",
+  "from": "davis",
+  "reason": "model pass 2026-09-23: means demon, unrelated to 'Davis'"
+ },
+ "էդիտա": {
+  "class": "altered",
+  "from": "edit",
+  "reason": "model pass 2026-09-23: is name Edita, not verb 'edit'"
+ },
+ "թարգմանություն": {
+  "class": "altered",
+  "from": "translation",
+  "reason": "model pass 2026-09-23: native Armenian word, not English loan"
+ },
+ "լաթ": {
+  "class": "transparent",
+  "from": "lath",
+  "reason": "model pass 2026-09-23: rag vs lath, different meaning"
+ },
+ "լամպ": {
+  "class": "transparent",
+  "from": "limp",
+  "reason": "model pass 2026-09-23: lamp vs limp, unrelated meaning"
+ },
+ "լավ": {
+  "class": "transparent",
+  "from": "lava",
+  "reason": "model pass 2026-09-23: native word 'good', not lava"
+ },
+ "լին": {
+  "class": "altered",
+  "from": "linen",
+  "reason": "model pass 2026-09-23: not a real standalone word"
+ },
+ "խոլեսուտ": {
+  "class": "transparent",
+  "from": "cholesterol",
+  "reason": "model pass 2026-09-23: garbled fragment, not real cholesterol word"
+ },
+ "կազա": {
+  "class": "altered",
+  "from": "casa",
+  "reason": "not an Armenian word; casa is a house and caza a hunt"
+ },
+ "կազակ": {
+  "class": "altered",
+  "from": "kazakh",
+  "reason": "model pass 2026-09-23: kazak means Cossack, not Kazakh"
+ },
+ "կական": {
+  "class": "altered",
+  "from": "cacao",
+  "reason": "model pass 2026-09-23: not a real word/mismatched form"
+ },
+ "կապան": {
+  "class": "altered",
+  "from": "captain",
+  "reason": "model pass 2026-09-23: place name Kapan, unrelated to captain"
+ },
+ "կարթ": {
+  "class": "altered",
+  "from": "cart",
+  "reason": "model pass 2026-09-23: means fishhook, false friend of cart"
+ },
+ "կիթ": {
+  "class": "transparent",
+  "from": "kith",
+  "reason": "model pass 2026-09-23: means milking, false friend of kith"
+ },
+ "կլոր": {
+  "class": "altered",
+  "from": "chlorine",
+  "reason": "model pass 2026-09-23: means round, false friend of chlorine"
+ },
+ "կոլա": {
+  "class": "transparent",
+  "from": "colon",
+  "reason": "model pass 2026-09-23: cola vs colon, different words"
+ },
+ "կոխ": {
+  "class": "altered",
+  "from": "koch",
+  "reason": "model pass 2026-09-23: means push, false friend of Koch"
+ },
+ "կոստա": {
+  "class": "altered",
+  "from": "coast",
+  "reason": "model pass 2026-09-23: proper name Kosta, not \"coast\""
+ },
+ "կոր": {
+  "class": "transparent",
+  "from": "coral",
+  "reason": "model pass 2026-09-23: means \"curve\", not \"coral\""
+ },
+ "կուկ": {
+  "class": "altered",
+  "from": "cook",
+  "reason": "model pass 2026-09-23: means \"cuckoo sound\", not \"cook\""
+ },
+ "կրոն": {
+  "class": "transparent",
+  "from": "crown",
+  "reason": "model pass 2026-09-23: means \"religion\", false friend of \"crown\""
+ },
+ "հաբ": {
+  "class": "altered",
+  "from": "hub",
+  "reason": "model pass 2026-09-23: means \"pill\", not \"hub\""
+ },
+ "հան": {
+  "class": "transparent",
+  "from": "hand",
+  "reason": "model pass 2026-09-23: means \"extract\", not \"hand\""
+ },
+ "հարդ": {
+  "class": "transparent",
+  "from": "hard",
+  "reason": "model pass 2026-09-23: means \"straw\", not \"hard\""
+ },
+ "հարկ": {
+  "class": "transparent",
+  "from": "hark",
+  "reason": "model pass 2026-09-23: means \"tax/floor\", not \"hark\""
+ },
+ "հեթ": {
+  "class": "transparent",
+  "from": "heath",
+  "reason": "model pass 2026-09-23: unclear meaning, not \"heath\""
+ },
+ "մարգարիտ": {
+  "class": "altered",
+  "from": "margarine",
+  "reason": "model pass 2026-09-23: pearl vs margarine, unrelated meanings"
+ },
+ "մարի": {
+  "class": "transparent",
+  "from": "marine",
+  "reason": "the personal name Mary; marine/marier are unrelated"
+ },
+ "մարս": {
+  "class": "transparent",
+  "from": "mar",
+  "reason": "model pass 2026-09-23: donor 'mar' not related to Mars"
+ },
+ "մաքսիմ": {
+  "class": "transparent",
+  "from": "maximum",
+  "reason": "the personal name Maxim; the Armenian for maximum is maksimum"
+ },
+ "մուլտֆիլմ": {
+  "class": "altered",
+  "from": "film",
+  "reason": "model pass 2026-09-23: multi- prefix not from film alone"
+ },
+ "մուր": {
+  "class": "transparent",
+  "from": "mural",
+  "reason": "model pass 2026-09-23: means soot, unrelated to mural"
+ },
+ "նախատիպ": {
+  "class": "altered",
+  "from": "archetype",
+  "reason": "model pass 2026-09-23: native compound, not from archetype"
+ },
+ "նիկոլա": {
+  "class": "altered",
+  "from": "nickel",
+  "reason": "model pass 2026-09-23: likely name Nicola, not nickel"
+ },
+ "նռնակ": {
+  "class": "altered",
+  "from": "grenade",
+  "reason": "model pass 2026-09-23: native word from pomegranate root"
+ },
+ "շեկ": {
+  "class": "transparent",
+  "from": "check",
+  "reason": "model pass 2026-09-23: means blond, false friend"
+ },
+ "շերտ": {
+  "class": "altered",
+  "from": "shirt",
+  "reason": "model pass 2026-09-23: means layer/stripe, unrelated to shirt"
+ },
+ "պորտ": {
+  "class": "transparent",
+  "from": "portal",
+  "reason": "native \"navel\"; the Armenian for port is navahangist"
+ },
+ "պուտ": {
+  "class": "transparent",
+  "from": "putin",
+  "reason": "model pass 2026-09-23: not clearly related to Putin"
+ },
+ "պրոթեզ": {
+  "class": "altered",
+  "from": "prosthesis",
+  "reason": "model pass 2026-09-23: unrelated meaning, false cognate"
+ },
+ "ջոկ": {
+  "class": "altered",
+  "from": "joke",
+  "reason": "model pass 2026-09-23: false friend, means select"
+ },
+ "ռաբիս": {
+  "class": "altered",
+  "from": "rabbi",
+  "reason": "model pass 2026-09-23: different meaning, false friend"
+ },
+ "ռետին": {
+  "class": "transparent",
+  "from": "retin",
+  "reason": "model pass 2026-09-23: means rubber, unrelated to retin"
+ },
+ "ռետինե": {
+  "class": "transparent",
+  "from": "retina",
+  "reason": "model pass 2026-09-23: means rubbery, unrelated to retina"
+ },
+ "ռոյսը": {
+  "class": "transparent",
+  "from": "roy",
+  "reason": "model pass 2026-09-23: Royce vs Roy, different names"
+ },
+ "ռուլի": {
+  "class": "altered",
+  "from": "ruler",
+  "reason": "model pass 2026-09-23: means steering wheel, from Russian, not 'ruler'"
+ },
+ "սանկ": {
+  "class": "transparent",
+  "from": "sink",
+  "reason": "model pass 2026-09-23: unrelated native/colloquial word, not 'sink'"
+ },
+ "սաունդթրել": {
+  "class": "altered",
+  "from": "soundtrack",
+  "reason": "model pass 2026-09-23: mangled non-word, not real form"
+ },
+ "սեր": {
+  "class": "transparent",
+  "from": "serum",
+  "reason": "native \"love, cream\"; not serum nor the verb \"to be\""
+ },
+ "սկյուռ": {
+  "class": "altered",
+  "from": "squirrel",
+  "reason": "model pass 2026-09-23: native Armenian word, unrelated to English"
+ },
+ "վագն": {
+  "class": "transparent",
+  "from": "wagner",
+  "reason": "model pass 2026-09-23: means wagon, not Wagner"
+ },
+ "վայելք": {
+  "class": "altered",
+  "from": "waltz",
+  "reason": "model pass 2026-09-23: means enjoyment, unrelated to waltz"
+ },
+ "վեր": {
+  "class": "transparent",
+  "from": "verdi",
+  "reason": "model pass 2026-09-23: native word unrelated to Verdi"
+ },
+ "վիզ": {
+  "class": "altered",
+  "from": "visa",
+  "reason": "model pass 2026-09-23: means neck, unrelated to visa"
+ },
+ "տետր": {
+  "class": "altered",
+  "from": "tetra",
+  "reason": "model pass 2026-09-23: notebook meaning unrelated to 'tetra'"
+ },
+ "տոկոս": {
+  "class": "altered",
+  "from": "token",
+  "reason": "model pass 2026-09-23: means percent/interest, not token"
+ },
+ "տրապիզոն": {
+  "class": "altered",
+  "from": "trapezoid",
+  "reason": "model pass 2026-09-23: means Trebizond, not trapezoid"
+ },
+ "փաթեթ": {
+  "class": "altered",
+  "from": "packet",
+  "reason": "model pass 2026-09-23: native Armenian word, false cognate"
+ },
+ "փետուր": {
+  "class": "altered",
+  "from": "feather",
+  "reason": "model pass 2026-09-23: native word, false resemblance to feather"
+ },
+ "փիսիկ": {
+  "class": "altered",
+  "from": "physic",
+  "reason": "model pass 2026-09-23: means kitten, unrelated to physic"
+ },
+ "ֆոտոսեսիայի": {
+  "class": "altered",
+  "from": "photosynthesis",
+  "reason": "model pass 2026-09-23: photo session, not photosynthesis; different meaning"
+ },
+ "ֆրանց": {
+  "class": "altered",
+  "from": "frank",
+  "reason": "model pass 2026-09-23: Franz relates to Francis, not Frank"
+ }
+}

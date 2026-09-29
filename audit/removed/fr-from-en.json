@@ -1,0 +1,977 @@
+{
+ "abeille": {
+  "class": "altered",
+  "from": "bee",
+  "reason": "model pass 2026-09-13: abeille from Latin apicula, not bee"
+ },
+ "abordable": {
+  "class": "altered",
+  "from": "approachable",
+  "reason": "model pass 2026-09-13: different roots, not shared source"
+ },
+ "accroire": {
+  "class": "altered",
+  "from": "accrue",
+  "reason": "model pass 2026-09-13: accroire and accrue different sources"
+ },
+ "accurate": {
+  "class": "transparent",
+  "from": "accurate",
+  "reason": "model pass 2026-09-13: accurate not a real French word"
+ },
+ "acuité": {
+  "class": "altered",
+  "from": "accuracy",
+  "reason": "model pass 2026-09-13: acuité and accuracy different Latin roots"
+ },
+ "adder": {
+  "class": "transparent",
+  "from": "adder",
+  "reason": "model pass 2026-09-13: adder not a standard French word"
+ },
+ "aile": {
+  "class": "altered",
+  "from": "alas",
+  "reason": "model pass 2026-09-13: donor 'alas' unrelated to wing meaning"
+ },
+ "aimant": {
+  "class": "altered",
+  "from": "magnet",
+  "reason": "model pass 2026-09-13: aimant/magnet not same source"
+ },
+ "aimer": {
+  "class": "altered",
+  "from": "amar",
+  "reason": "model pass 2026-09-13: amar is not English"
+ },
+ "allemagne": {
+  "class": "altered",
+  "from": "germany",
+  "reason": "model pass 2026-09-13: different proper names for Germany"
+ },
+ "allemand": {
+  "class": "altered",
+  "from": "german",
+  "reason": "model pass 2026-09-13: different proper names for German"
+ },
+ "almost": {
+  "class": "transparent",
+  "from": "almost",
+  "reason": "model pass 2026-09-13: english word 'almost', not a French word"
+ },
+ "anytime": {
+  "class": "transparent",
+  "from": "anytime",
+  "reason": "model pass 2026-09-13: not a real French lemma"
+ },
+ "appelé": {
+  "class": "altered",
+  "from": "appellate",
+  "reason": "model pass 2026-09-13: different meaning (called vs appellate)"
+ },
+ "asséner": {
+  "class": "altered",
+  "from": "assert",
+  "reason": "model pass 2026-09-13: different roots, false cognate"
+ },
+ "astre": {
+  "class": "altered",
+  "from": "astro",
+  "reason": "model pass 2026-09-13: 'astro' not a real English word"
+ },
+ "atteinte": {
+  "class": "altered",
+  "from": "attempt",
+  "reason": "model pass 2026-09-13: different Latin roots, unrelated meaning"
+ },
+ "authorship": {
+  "class": "transparent",
+  "from": "authorship",
+  "reason": "model pass 2026-09-13: authorship is English, not French word"
+ },
+ "badinage": {
+  "class": "altered",
+  "from": "banter",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "barbare": {
+  "class": "altered",
+  "from": "barbara",
+  "reason": "model pass 2026-09-13: barbare from Greek barbaros, not name Barbara"
+ },
+ "barre": {
+  "class": "altered",
+  "from": "bear",
+  "reason": "model pass 2026-09-13: barre unrelated to English bear"
+ },
+ "beginning": {
+  "class": "transparent",
+  "from": "beginning",
+  "reason": "model pass 2026-09-13: 'beginning' not a French word"
+ },
+ "bon": {
+  "class": "altered",
+  "from": "bona",
+  "reason": "model pass 2026-09-13: 'bona' not an English word"
+ },
+ "boulanger": {
+  "class": "altered",
+  "from": "baker",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "butter": {
+  "class": "altered",
+  "from": "buttress",
+  "reason": "model pass 2026-09-13: 'butter' not a real French word"
+ },
+ "camer": {
+  "class": "altered",
+  "from": "cameo",
+  "reason": "model pass 2026-09-13: French 'camer' means to get high, unrelated to cameo"
+ },
+ "cannibal": {
+  "class": "transparent",
+  "from": "cannibal",
+  "reason": "model pass 2026-09-13: not real French word (missing final e)"
+ },
+ "caput": {
+  "class": "transparent",
+  "from": "caput",
+  "reason": "model pass 2026-09-13: caput not a French lemma"
+ },
+ "chair": {
+  "class": "altered",
+  "from": "carne",
+  "reason": "model pass 2026-09-13: carne is not an English word"
+ },
+ "chanceler": {
+  "class": "altered",
+  "from": "falter",
+  "reason": "model pass 2026-09-13: chanceler is native French, not from falter"
+ },
+ "chevalet": {
+  "class": "altered",
+  "from": "easel",
+  "reason": "model pass 2026-09-13: chevalet is native French, unrelated to easel"
+ },
+ "cinq": {
+  "class": "altered",
+  "from": "cinco",
+  "reason": "model pass 2026-09-13: cinco is Spanish, not English donor"
+ },
+ "cohérent": {
+  "class": "transparent",
+  "from": "consistent",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "coin": {
+  "class": "altered",
+  "from": "corner",
+  "reason": "model pass 2026-09-13: unrelated etymology, not cognate"
+ },
+ "confinement": {
+  "class": "altered",
+  "from": "containment",
+  "reason": "model pass 2026-09-13: different source words, containment vs confinement"
+ },
+ "conseil": {
+  "class": "altered",
+  "from": "council",
+  "reason": "model pass 2026-09-13: different Latin roots, consilium vs concilium"
+ },
+ "contremaître": {
+  "class": "altered",
+  "from": "foreman",
+  "reason": "model pass 2026-09-13: translation, not shared cognate source"
+ },
+ "cordonnier": {
+  "class": "altered",
+  "from": "cobbler",
+  "reason": "model pass 2026-09-13: translation, not shared cognate source"
+ },
+ "coroner": {
+  "class": "transparent",
+  "from": "coroner's",
+  "reason": "model pass 2026-09-13: donor not a real lemma"
+ },
+ "cucul": {
+  "class": "altered",
+  "from": "cuckold",
+  "reason": "model pass 2026-09-13: unrelated meanings, false friend"
+ },
+ "diable": {
+  "class": "altered",
+  "from": "diablo",
+  "reason": "model pass 2026-09-13: diablo is Spanish, not English"
+ },
+ "disease": {
+  "class": "transparent",
+  "from": "disease",
+  "reason": "model pass 2026-09-13: not a French word"
+ },
+ "distrait": {
+  "class": "transparent",
+  "from": "distraught",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "divertissement": {
+  "class": "altered",
+  "from": "entertainment",
+  "reason": "model pass 2026-09-13: translation, not cognate"
+ },
+ "doux": {
+  "class": "altered",
+  "from": "dolce",
+  "reason": "model pass 2026-09-13: donor is Italian, not English"
+ },
+ "droitier": {
+  "class": "altered",
+  "from": "rightist",
+  "reason": "model pass 2026-09-13: different meanings, false friend"
+ },
+ "durabilité": {
+  "class": "transparent",
+  "from": "sustainability",
+  "reason": "model pass 2026-09-13: different words, not cognates"
+ },
+ "durer": {
+  "class": "altered",
+  "from": "dura",
+  "reason": "model pass 2026-09-13: different meanings, not real cognate"
+ },
+ "déjà": {
+  "class": "transparent",
+  "from": "deja",
+  "reason": "model pass 2026-09-13: deja not a standalone English word"
+ },
+ "déléguer": {
+  "class": "altered",
+  "from": "devolve",
+  "reason": "model pass 2026-09-13: déléguer means delegate, not devolve"
+ },
+ "déployer": {
+  "class": "altered",
+  "from": "display",
+  "reason": "model pass 2026-09-13: déployer means deploy, not display"
+ },
+ "déroute": {
+  "class": "altered",
+  "from": "wipeout",
+  "reason": "model pass 2026-09-13: déroute and wipeout unrelated meanings"
+ },
+ "détourner": {
+  "class": "altered",
+  "from": "deter",
+  "reason": "model pass 2026-09-13: different meaning: divert vs discourage, not cognate"
+ },
+ "escadre": {
+  "class": "altered",
+  "from": "square",
+  "reason": "model pass 2026-09-13: different meanings, square vs squadron"
+ },
+ "favoriser": {
+  "class": "altered",
+  "from": "foster",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "fendre": {
+  "class": "altered",
+  "from": "fender",
+  "reason": "model pass 2026-09-13: different roots, false friend"
+ },
+ "fiabilité": {
+  "class": "altered",
+  "from": "reliability",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "fief": {
+  "class": "altered",
+  "from": "feud",
+  "reason": "model pass 2026-09-13: unrelated meanings, false friend"
+ },
+ "fourrée": {
+  "class": "altered",
+  "from": "foray",
+  "reason": "model pass 2026-09-13: different words, not same source"
+ },
+ "fumeur": {
+  "class": "altered",
+  "from": "smoker",
+  "reason": "model pass 2026-09-13: translation, not cognate source"
+ },
+ "gargouiller": {
+  "class": "altered",
+  "from": "gurgle",
+  "reason": "model pass 2026-09-13: onomatopoeic words, not shared source"
+ },
+ "guerre": {
+  "class": "altered",
+  "from": "guerra",
+  "reason": "model pass 2026-09-13: donor is Spanish word, not English"
+ },
+ "homme": {
+  "class": "transparent",
+  "from": "homme",
+  "reason": "model pass 2026-09-13: donor 'homme' is French, not English"
+ },
+ "hors": {
+  "class": "transparent",
+  "from": "hors",
+  "reason": "model pass 2026-09-13: donor 'hors' is French, not English"
+ },
+ "hydroélectricité": {
+  "class": "altered",
+  "from": "hydropower",
+  "reason": "model pass 2026-09-13: different roots: 'power' vs 'électricité'"
+ },
+ "hétérodoxe": {
+  "class": "altered",
+  "from": "unorthodox",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "imminence": {
+  "class": "altered",
+  "from": "impend",
+  "reason": "model pass 2026-09-13: different Latin verbs, not same source"
+ },
+ "incapable": {
+  "class": "altered",
+  "from": "unable",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "incomparable": {
+  "class": "altered",
+  "from": "unparalleled",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "inconfort": {
+  "class": "altered",
+  "from": "discomfort",
+  "reason": "model pass 2026-09-13: different prefix/source, not cognate"
+ },
+ "incontestable": {
+  "class": "altered",
+  "from": "unquestionable",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "inconvenance": {
+  "class": "altered",
+  "from": "inconvenience",
+  "reason": "model pass 2026-09-13: false friend, meanings unrelated"
+ },
+ "intouchable": {
+  "class": "altered",
+  "from": "untouchable",
+  "reason": "model pass 2026-09-13: different prefixes, not same source word"
+ },
+ "inégal": {
+  "class": "transparent",
+  "from": "unequal",
+  "reason": "model pass 2026-09-13: different prefixes (in- vs un-)"
+ },
+ "irrespect": {
+  "class": "altered",
+  "from": "disrespect",
+  "reason": "model pass 2026-09-13: different prefixes (ir- vs dis-)"
+ },
+ "irréaliste": {
+  "class": "altered",
+  "from": "unrealistic",
+  "reason": "model pass 2026-09-13: different prefixes (ir- vs un-)"
+ },
+ "irréel": {
+  "class": "altered",
+  "from": "unreal",
+  "reason": "model pass 2026-09-13: different prefixes (ir- vs un-)"
+ },
+ "jeter": {
+  "class": "transparent",
+  "from": "jeter",
+  "reason": "model pass 2026-09-13: 'jeter' not an English word"
+ },
+ "jeton": {
+  "class": "altered",
+  "from": "token",
+  "reason": "model pass 2026-09-13: different etymological roots, not cognate"
+ },
+ "lac": {
+  "class": "altered",
+  "from": "lagos",
+  "reason": "model pass 2026-09-13: lac (lake) vs Lagos, place name mismatch"
+ },
+ "levain": {
+  "class": "altered",
+  "from": "leaver",
+  "reason": "model pass 2026-09-13: levain (leaven) vs leaver, unrelated meaning"
+ },
+ "liter": {
+  "class": "transparent",
+  "from": "lite",
+  "reason": "model pass 2026-09-13: ‘liter’ not a real French word"
+ },
+ "légat": {
+  "class": "altered",
+  "from": "legacy",
+  "reason": "model pass 2026-09-13: légat means envoy, not from legacy"
+ },
+ "main": {
+  "class": "altered",
+  "from": "manus",
+  "reason": "model pass 2026-09-13: native French word, donor not English"
+ },
+ "mal": {
+  "class": "transparent",
+  "from": "mal",
+  "reason": "model pass 2026-09-13: mal not a standalone English word"
+ },
+ "manche": {
+  "class": "altered",
+  "from": "manga",
+  "reason": "model pass 2026-09-13: manche unrelated meaning to manga"
+ },
+ "marier": {
+  "class": "altered",
+  "from": "mary",
+  "reason": "model pass 2026-09-13: marier unrelated to name Mary"
+ },
+ "marine": {
+  "class": "altered",
+  "from": "marina",
+  "reason": "model pass 2026-09-13: marine/marina meanings diverge, false friend"
+ },
+ "matière": {
+  "class": "altered",
+  "from": "matt",
+  "reason": "model pass 2026-09-13: matière (matter) unrelated to English matt"
+ },
+ "matras": {
+  "class": "altered",
+  "from": "mattress",
+  "reason": "model pass 2026-09-13: matras (flask) not mattress, false cognate"
+ },
+ "maïs": {
+  "class": "transparent",
+  "from": "mais",
+  "reason": "model pass 2026-09-13: 'mais' not a real English word"
+ },
+ "milieu": {
+  "class": "altered",
+  "from": "midfielder",
+  "reason": "model pass 2026-09-13: milieu ≠ midfielder, translation not cognate"
+ },
+ "milliardaire": {
+  "class": "altered",
+  "from": "billionaire",
+  "reason": "model pass 2026-09-13: milliard vs billion different source roots"
+ },
+ "mondialisation": {
+  "class": "altered",
+  "from": "globalization",
+  "reason": "model pass 2026-09-13: different roots: mondial vs global"
+ },
+ "monnayage": {
+  "class": "altered",
+  "from": "coinage",
+  "reason": "model pass 2026-09-13: different roots: monnaie vs coin"
+ },
+ "montrer": {
+  "class": "altered",
+  "from": "muster",
+  "reason": "model pass 2026-09-13: meanings diverged: show vs gather"
+ },
+ "mortem": {
+  "class": "transparent",
+  "from": "mortem",
+  "reason": "model pass 2026-09-13: not standalone French word/lemma"
+ },
+ "mourir": {
+  "class": "altered",
+  "from": "mourn",
+  "reason": "model pass 2026-09-13: different roots: mourir from mori, mourn unrelated"
+ },
+ "moyen": {
+  "class": "altered",
+  "from": "means",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "mère": {
+  "class": "altered",
+  "from": "mere",
+  "reason": "model pass 2026-09-13: false friend, unrelated meanings"
+ },
+ "méconnaissable": {
+  "class": "altered",
+  "from": "unrecognizable",
+  "reason": "model pass 2026-09-13: translation, not shared source word"
+ },
+ "mécontentement": {
+  "class": "altered",
+  "from": "discontent",
+  "reason": "model pass 2026-09-13: translation, not shared source word"
+ },
+ "méprisable": {
+  "class": "altered",
+  "from": "despicable",
+  "reason": "model pass 2026-09-13: translation, different roots"
+ },
+ "naufrage": {
+  "class": "altered",
+  "from": "wreckage",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "naught": {
+  "class": "transparent",
+  "from": "nought",
+  "reason": "model pass 2026-09-13: not a French word"
+ },
+ "none": {
+  "class": "altered",
+  "from": "nona",
+  "reason": "model pass 2026-09-13: not real words in either language"
+ },
+ "notation": {
+  "class": "altered",
+  "from": "rating",
+  "reason": "model pass 2026-09-13: different words, not cognates"
+ },
+ "nouveau": {
+  "class": "transparent",
+  "from": "novella",
+  "reason": "model pass 2026-09-13: different meanings, not true cognate"
+ },
+ "nôtre": {
+  "class": "altered",
+  "from": "nostrum",
+  "reason": "model pass 2026-09-13: unrelated words, false etymology"
+ },
+ "occasionnel": {
+  "class": "altered",
+  "from": "casual",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "oculiste": {
+  "class": "altered",
+  "from": "oculus",
+  "reason": "model pass 2026-09-13: different meaning, false friend"
+ },
+ "oraison": {
+  "class": "altered",
+  "from": "oration",
+  "reason": "model pass 2026-09-13: oraison means prayer, oration means speech"
+ },
+ "pain": {
+  "class": "altered",
+  "from": "pan",
+  "reason": "model pass 2026-09-13: different Latin roots, false friend"
+ },
+ "parachutiste": {
+  "class": "altered",
+  "from": "paratrooper",
+  "reason": "model pass 2026-09-13: different words, not cognate, translation only"
+ },
+ "part": {
+  "class": "altered",
+  "from": "parte",
+  "reason": "model pass 2026-09-13: 'parte' not an English word"
+ },
+ "pas": {
+  "class": "altered",
+  "from": "pass",
+  "reason": "model pass 2026-09-13: French pas not from English pass"
+ },
+ "pendre": {
+  "class": "altered",
+  "from": "pend",
+  "reason": "model pass 2026-09-13: pendre from Latin, not English pend"
+ },
+ "perfide": {
+  "class": "altered",
+  "from": "snide",
+  "reason": "model pass 2026-09-13: unrelated words, false pairing"
+ },
+ "perrot": {
+  "class": "altered",
+  "from": "parrot",
+  "reason": "model pass 2026-09-13: perrot not a real French word"
+ },
+ "pierre": {
+  "class": "altered",
+  "from": "petra",
+  "reason": "model pass 2026-09-13: petra is Latin, not an English word"
+ },
+ "pont": {
+  "class": "altered",
+  "from": "pons",
+  "reason": "model pass 2026-09-13: different meanings, false friend not cognate"
+ },
+ "praticable": {
+  "class": "altered",
+  "from": "workable",
+  "reason": "model pass 2026-09-13: different roots, not true cognates"
+ },
+ "presser": {
+  "class": "altered",
+  "from": "squeeze",
+  "reason": "model pass 2026-09-13: different roots, not true cognates"
+ },
+ "privation": {
+  "class": "altered",
+  "from": "starvation",
+  "reason": "model pass 2026-09-13: different words, not cognates"
+ },
+ "prédication": {
+  "class": "altered",
+  "from": "predicament",
+  "reason": "model pass 2026-09-13: false friend, meanings unrelated"
+ },
+ "présélectionné": {
+  "class": "altered",
+  "from": "preset",
+  "reason": "model pass 2026-09-13: different formation, not same source word"
+ },
+ "purchase": {
+  "class": "transparent",
+  "from": "purchase",
+  "reason": "model pass 2026-09-13: not a French word"
+ },
+ "rabbit": {
+  "class": "transparent",
+  "from": "rabbit",
+  "reason": "model pass 2026-09-13: rabbit not a French word"
+ },
+ "racheter": {
+  "class": "altered",
+  "from": "redeem",
+  "reason": "model pass 2026-09-13: racheter and redeem different roots, not cognate"
+ },
+ "rana": {
+  "class": "transparent",
+  "from": "rana",
+  "reason": "model pass 2026-09-13: rana not a French word"
+ },
+ "rapt": {
+  "class": "altered",
+  "from": "rapture",
+  "reason": "model pass 2026-09-13: meanings diverged: abduction vs joy"
+ },
+ "rascal": {
+  "class": "transparent",
+  "from": "rascal",
+  "reason": "model pass 2026-09-13: rascal not a standard French word"
+ },
+ "recourir": {
+  "class": "altered",
+  "from": "recur",
+  "reason": "model pass 2026-09-13: recourir and recur meanings unrelated"
+ },
+ "reculé": {
+  "class": "altered",
+  "from": "remote",
+  "reason": "model pass 2026-09-13: reculé and remote are unrelated roots"
+ },
+ "redémarrer": {
+  "class": "altered",
+  "from": "restart",
+  "reason": "model pass 2026-09-13: redémarrer and restart different roots"
+ },
+ "reine": {
+  "class": "altered",
+  "from": "regina",
+  "reason": "model pass 2026-09-13: donor is Latin regina, not English word"
+ },
+ "remain": {
+  "class": "transparent",
+  "from": "remain",
+  "reason": "model pass 2026-09-13: 'remain' not a French word"
+ },
+ "remiser": {
+  "class": "altered",
+  "from": "remittance",
+  "reason": "model pass 2026-09-13: meaning mismatch: store vs remittance"
+ },
+ "renifleur": {
+  "class": "altered",
+  "from": "sniffer",
+  "reason": "model pass 2026-09-13: different roots, not borrowed from sniffer"
+ },
+ "retraiter": {
+  "class": "altered",
+  "from": "retirement",
+  "reason": "model pass 2026-09-13: meaning mismatch: reprocess vs retirement"
+ },
+ "revel": {
+  "class": "transparent",
+  "from": "revel",
+  "reason": "model pass 2026-09-13: 'revel' not a French word"
+ },
+ "revoir": {
+  "class": "transparent",
+  "from": "revue",
+  "reason": "model pass 2026-09-13: different words: revoir vs revue"
+ },
+ "râper": {
+  "class": "altered",
+  "from": "grate",
+  "reason": "model pass 2026-09-13: different roots, not cognate"
+ },
+ "réapprovisionnement": {
+  "class": "altered",
+  "from": "replenishment",
+  "reason": "model pass 2026-09-13: different source words, not cognate"
+ },
+ "réchauffer": {
+  "class": "altered",
+  "from": "reheat",
+  "reason": "model pass 2026-09-13: different roots (chauffer vs heat)"
+ },
+ "récolte": {
+  "class": "altered",
+  "from": "recollection",
+  "reason": "model pass 2026-09-13: false friend, unrelated meaning"
+ },
+ "régal": {
+  "class": "altered",
+  "from": "regal",
+  "reason": "model pass 2026-09-13: régal means treat/delight, not regal"
+ },
+ "réinstaller": {
+  "class": "transparent",
+  "from": "reinstate",
+  "reason": "model pass 2026-09-13: different roots: install vs state"
+ },
+ "répulsion": {
+  "class": "altered",
+  "from": "revulsion",
+  "reason": "model pass 2026-09-13: différent roots: repulsion vs revulsion"
+ },
+ "résilier": {
+  "class": "transparent",
+  "from": "resilient",
+  "reason": "model pass 2026-09-13: meanings diverged: terminate vs resilient"
+ },
+ "résumer": {
+  "class": "altered",
+  "from": "summarise",
+  "reason": "model pass 2026-09-13: different roots: résumer vs summarise"
+ },
+ "sacrement": {
+  "class": "altered",
+  "from": "sacramento",
+  "reason": "model pass 2026-09-13: Sacramento is a place name, not English word"
+ },
+ "saucier": {
+  "class": "altered",
+  "from": "saucer",
+  "reason": "model pass 2026-09-13: saucier (chef) vs saucer, false friend"
+ },
+ "scrutin": {
+  "class": "altered",
+  "from": "scrutiny",
+  "reason": "model pass 2026-09-13: scrutin (vote) vs scrutiny, different meanings"
+ },
+ "sept": {
+  "class": "transparent",
+  "from": "sept",
+  "reason": "model pass 2026-09-13: different meaning/source (clan vs seven)"
+ },
+ "sien": {
+  "class": "altered",
+  "from": "sienna",
+  "reason": "model pass 2026-09-13: different source, unrelated meaning"
+ },
+ "sommer": {
+  "class": "altered",
+  "from": "sum",
+  "reason": "model pass 2026-09-13: different meaning: summon vs to sum"
+ },
+ "souligner": {
+  "class": "altered",
+  "from": "underline",
+  "reason": "model pass 2026-09-13: calque, different prefix (sous vs under)"
+ },
+ "stagiaire": {
+  "class": "altered",
+  "from": "trainee",
+  "reason": "model pass 2026-09-13: stagiaire from French stage, not English trainee"
+ },
+ "subsister": {
+  "class": "altered",
+  "from": "subside",
+  "reason": "model pass 2026-09-13: different meanings, different Latin sources"
+ },
+ "supermarché": {
+  "class": "transparent",
+  "from": "superstore",
+  "reason": "model pass 2026-09-13: different English source word (superstore vs supermarket)"
+ },
+ "suppléant": {
+  "class": "altered",
+  "from": "supple",
+  "reason": "model pass 2026-09-13: false friend, unrelated meaning"
+ },
+ "surestimer": {
+  "class": "transparent",
+  "from": "overestimate",
+  "reason": "model pass 2026-09-13: native compound, not borrowed cognate"
+ },
+ "surpopulation": {
+  "class": "altered",
+  "from": "overpopulation",
+  "reason": "model pass 2026-09-13: native compound, not borrowed cognate"
+ },
+ "tendre": {
+  "class": "altered",
+  "from": "tense",
+  "reason": "model pass 2026-09-13: different roots, unrelated meaning"
+ },
+ "terrer": {
+  "class": "transparent",
+  "from": "terrace",
+  "reason": "model pass 2026-09-13: unrelated meaning, different root"
+ },
+ "tige": {
+  "class": "altered",
+  "from": "stem",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "tilleul": {
+  "class": "altered",
+  "from": "tiller",
+  "reason": "model pass 2026-09-13: unrelated etymology, false friend"
+ },
+ "tirer": {
+  "class": "transparent",
+  "from": "tire",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "toucher": {
+  "class": "transparent",
+  "from": "touche",
+  "reason": "model pass 2026-09-13: not derived from English touche"
+ },
+ "traducteur": {
+  "class": "transparent",
+  "from": "translator",
+  "reason": "model pass 2026-09-13: different Latin roots"
+ },
+ "traduction": {
+  "class": "transparent",
+  "from": "translation",
+  "reason": "model pass 2026-09-13: different Latin roots"
+ },
+ "trahir": {
+  "class": "altered",
+  "from": "betray",
+  "reason": "model pass 2026-09-13: different roots, translation not cognate"
+ },
+ "tranche": {
+  "class": "altered",
+  "from": "trench",
+  "reason": "model pass 2026-09-13: different meanings: slice vs ditch, false friend"
+ },
+ "urgence": {
+  "class": "altered",
+  "from": "emergency",
+  "reason": "model pass 2026-09-13: donor should be 'urgency', not 'emergency'"
+ },
+ "user": {
+  "class": "transparent",
+  "from": "usa",
+  "reason": "model pass 2026-09-13: 'usa' is not an English word"
+ },
+ "usurpation": {
+  "class": "altered",
+  "from": "impersonation",
+  "reason": "model pass 2026-09-13: different source words, not cognates"
+ },
+ "vagabond": {
+  "class": "altered",
+  "from": "wanderer",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "vendeur": {
+  "class": "altered",
+  "from": "seller",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "venir": {
+  "class": "altered",
+  "from": "venue",
+  "reason": "model pass 2026-09-13: venir/venue different meanings, not cognate"
+ },
+ "verse": {
+  "class": "altered",
+  "from": "versa",
+  "reason": "model pass 2026-09-13: different words, not same source"
+ },
+ "versement": {
+  "class": "altered",
+  "from": "instalment",
+  "reason": "model pass 2026-09-13: unrelated words, not cognates"
+ },
+ "vert": {
+  "class": "altered",
+  "from": "verde",
+  "reason": "model pass 2026-09-13: verde is not English"
+ },
+ "vie": {
+  "class": "altered",
+  "from": "vita",
+  "reason": "model pass 2026-09-13: vita is Latin, not English"
+ },
+ "viennois": {
+  "class": "altered",
+  "from": "wiener",
+  "reason": "model pass 2026-09-13: unrelated meanings, false friend"
+ },
+ "vif": {
+  "class": "altered",
+  "from": "vivo",
+  "reason": "model pass 2026-09-13: vivo is not English"
+ },
+ "vin": {
+  "class": "altered",
+  "from": "vino",
+  "reason": "model pass 2026-09-13: vino is not English"
+ },
+ "virer": {
+  "class": "altered",
+  "from": "wire",
+  "reason": "model pass 2026-09-13: different source, not cognate"
+ },
+ "visionner": {
+  "class": "altered",
+  "from": "viewer",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ },
+ "voir": {
+  "class": "altered",
+  "from": "view",
+  "reason": "model pass 2026-09-13: voir from Latin videre, not view"
+ },
+ "vous": {
+  "class": "transparent",
+  "from": "vous",
+  "reason": "model pass 2026-09-13: donor 'vous' not English word"
+ },
+ "zeitgeist": {
+  "class": "altered",
+  "from": "zeit",
+  "reason": "model pass 2026-09-13: zeit means time, not zeitgeist"
+ },
+ "âme": {
+  "class": "altered",
+  "from": "alma",
+  "reason": "model pass 2026-09-13: alma is not English word"
+ },
+ "égoïsme": {
+  "class": "altered",
+  "from": "selfishness",
+  "reason": "model pass 2026-09-13: selfishness not cognate with égoïsme"
+ },
+ "étouffer": {
+  "class": "transparent",
+  "from": "muffle",
+  "reason": "model pass 2026-09-13: different roots, not cognates"
+ }
+}
