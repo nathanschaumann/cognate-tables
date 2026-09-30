@@ -1,5 +1,7 @@
 # Cognate tables
 
+[← Nathan Schaumann · all projects](https://nschaumann.com/)
+
 Word pairs that look like the same word across six languages: English, Spanish, Portuguese, French, Russian and Armenian. **111,711 rows** in 25 directional tables covering 15 language pairs, as CSV and Markdown. They were built for a language-learning app that estimates how new a word is to someone who already knows its cognate (`nación` is not new if you know `nation`).
 
 Built inside my private study app in September 2026; published here as a standalone copy on 29 September 2026.
